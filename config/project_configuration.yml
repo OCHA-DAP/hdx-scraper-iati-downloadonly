@@ -1,0 +1,19 @@
+fallback_dir: "fallback_data"
+
+filename: "dportal.xml"
+url: "http://d-portal.org/dquery?from=xson&form=xml&sql=%s"
+pakistanfloods_query: "
+SELECT * FROM xson WHERE root = '/iati-activities/iati-activity' AND aid IN (
+  SELECT aid FROM xson WHERE
+  (
+      root='/iati-activities/iati-activity/humanitarian-scope' AND
+      xson->>'@type'='2' AND
+      xson->>'@vocabulary'='2-1' AND
+      xson->>'@code'='OPAK2223'
+  ) OR (
+      root='/iati-activities/iati-activity/humanitarian-scope' AND
+      xson->>'@type'='1' AND
+      xson->>'@vocabulary'='1-2' AND
+      xson->>'@code'='FL-2022-000270-PAK'
+  ) GROUP BY aid ORDER BY max(xson->>'@iati-activities:generated-datetime'), max(xson->>'@last-updated-datetime'), aid {} desc
+)"
