@@ -6365,6 +6365,9 @@
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Australia for UNHCR</narrative>
   </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Bailiwick of Bailiwick of Jersey</narrative>
+  </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Espa&#xF1;a con ACNUR (Spain)</narrative>
   </participating-org>
@@ -6385,6 +6388,12 @@
   </participating-org>
   <participating-org ref="CA-GOV-050" role="1" type="10">
    <narrative xml:lang="EN">Government of Canada</narrative>
+  </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Government of Iceland</narrative>
+  </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Government of Poland</narrative>
   </participating-org>
   <participating-org role="1" type="10">
    <narrative xml:lang="EN">Government of Qatar</narrative>
@@ -6768,6 +6777,20 @@
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>9396.378</unhcr:value-USD>
   </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-09-30"></transaction-date>
+   <value currency="USD" value-date="2022-09-30">100000</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>100000</unhcr:value-USD>
+  </transaction>
   <transaction ref="E0323">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2021-12-17"></transaction-date>
@@ -6778,6 +6801,17 @@
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>5630630.631</unhcr:value-USD>
+  </transaction>
+  <transaction ref="F0264">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-09-20"></transaction-date>
+   <value currency="GBP" value-date="2022-09-20">50000</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Bailiwick of Bailiwick of Jersey</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>57736.721</unhcr:value-USD>
   </transaction>
   <transaction ref="F0145">
    <transaction-type code="11"></transaction-type>
@@ -6800,6 +6834,28 @@
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>104218.566</unhcr:value-USD>
+  </transaction>
+  <transaction ref="F0262">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-09-16"></transaction-date>
+   <value currency="ISK" value-date="2022-09-16">30000000</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of Iceland</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>214976.71</unhcr:value-USD>
+  </transaction>
+  <transaction ref="F0269">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-09-28"></transaction-date>
+   <value currency="USD" value-date="2022-09-28">50000</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of Poland</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>50000</unhcr:value-USD>
   </transaction>
   <transaction ref="F0257">
    <transaction-type code="11"></transaction-type>
@@ -6827,7 +6883,7 @@
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-02-28"></transaction-date>
    <value currency="GBP" value-date="2022-02-28">2500000</value>
-   <provider-org provider-activity-id="GB-1-301433-105" ref="GB-GOV-1" type="10">
+   <provider-org provider-activity-id="GB-GOV-1-301433-105" ref="GB-GOV-1" type="10">
     <narrative xml:lang="EN">UK - Foreign, Commonwealth and Development Office</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
@@ -6863,7 +6919,7 @@
    <description>
     <narrative xml:lang="EN">For 2023</narrative>
    </description>
-   <provider-org ref="XI-IATI-EC_INTPA" type="15">
+   <provider-org provider-activity-id="XI-IATI-EC_INTPA-2020/420-111" ref="XI-IATI-EC_INTPA" type="15">
     <narrative xml:lang="EN">European Commission - International Partnerships</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
@@ -6912,34 +6968,6 @@
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>1477576.452</unhcr:value-USD>
   </transaction>
-  <transaction>
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-02-28"></transaction-date>
-   <value currency="USD" value-date="2022-02-28">243429</value>
-   <description>
-    <narrative xml:lang="EN">For 2023</narrative>
-   </description>
-   <provider-org type="70">
-    <narrative xml:lang="EN">Private donors</narrative>
-   </provider-org>
-   <aid-type code="4" vocabulary="2"></aid-type>
-   <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>243429</unhcr:value-USD>
-  </transaction>
-  <transaction>
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-04-30"></transaction-date>
-   <value currency="USD" value-date="2022-04-30">871172</value>
-   <description>
-    <narrative xml:lang="EN">For 2023</narrative>
-   </description>
-   <provider-org type="70">
-    <narrative xml:lang="EN">Private donors</narrative>
-   </provider-org>
-   <aid-type code="4" vocabulary="2"></aid-type>
-   <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>871172.123</unhcr:value-USD>
-  </transaction>
   <transaction ref="F3005">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2021-12-22"></transaction-date>
@@ -6968,34 +6996,6 @@
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>1508255.351</unhcr:value-USD>
   </transaction>
-  <transaction>
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-02-28"></transaction-date>
-   <value currency="USD" value-date="2022-02-28">232364</value>
-   <description>
-    <narrative xml:lang="EN">For 2024</narrative>
-   </description>
-   <provider-org type="70">
-    <narrative xml:lang="EN">Private donors</narrative>
-   </provider-org>
-   <aid-type code="4" vocabulary="2"></aid-type>
-   <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>232364</unhcr:value-USD>
-  </transaction>
-  <transaction>
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-04-30"></transaction-date>
-   <value currency="USD" value-date="2022-04-30">871172</value>
-   <description>
-    <narrative xml:lang="EN">For 2024</narrative>
-   </description>
-   <provider-org type="70">
-    <narrative xml:lang="EN">Private donors</narrative>
-   </provider-org>
-   <aid-type code="4" vocabulary="2"></aid-type>
-   <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>871172.123</unhcr:value-USD>
-  </transaction>
   <transaction ref="F0236">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-07-26"></transaction-date>
@@ -7009,20 +7009,6 @@
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>1459009.685</unhcr:value-USD>
-  </transaction>
-  <transaction>
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-04-30"></transaction-date>
-   <value currency="USD" value-date="2022-04-30">871172</value>
-   <description>
-    <narrative xml:lang="EN">For 2025</narrative>
-   </description>
-   <provider-org type="70">
-    <narrative xml:lang="EN">Private donors</narrative>
-   </provider-org>
-   <aid-type code="4" vocabulary="2"></aid-type>
-   <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>871172.123</unhcr:value-USD>
   </transaction>
   <transaction ref="F0236">
    <transaction-type code="11"></transaction-type>
@@ -7055,7 +7041,7 @@
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-02-28"></transaction-date>
-   <value currency="USD" value-date="2022-02-28">661331</value>
+   <value currency="USD" value-date="2022-02-28">1137124</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -7064,7 +7050,7 @@
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>661331.483</unhcr:value-USD>
+   <unhcr:value-USD>1137124.483</unhcr:value-USD>
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
@@ -7083,7 +7069,7 @@
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-04-30"></transaction-date>
-   <value currency="USD" value-date="2022-04-30">356810</value>
+   <value currency="USD" value-date="2022-04-30">2970327</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -7092,7 +7078,7 @@
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>356810.137</unhcr:value-USD>
+   <unhcr:value-USD>2970326.506</unhcr:value-USD>
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
@@ -7154,7 +7140,7 @@
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-04-27"></transaction-date>
    <value currency="EUR" value-date="2022-04-27">999062</value>
-   <provider-org ref="XI-IATI-EC_ECHO" type="15">
+   <provider-org provider-activity-id="XI-IATI-EC_ECHO-ECHO/-AS/BUD/2022/91004" ref="XI-IATI-EC_ECHO" type="15">
     <narrative xml:lang="EN">European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
@@ -7165,7 +7151,7 @@
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2020-11-20"></transaction-date>
    <value currency="EUR" value-date="2020-11-20">1262785</value>
-   <provider-org ref="XI-IATI-EC_INTPA" type="15">
+   <provider-org provider-activity-id="XI-IATI-EC_INTPA-2020/420-111" ref="XI-IATI-EC_INTPA" type="15">
     <narrative xml:lang="EN">European Commission - International Partnerships</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
@@ -7237,6 +7223,17 @@
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>1088240</unhcr:value-USD>
+  </transaction>
+  <transaction ref="F0263">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-09-16"></transaction-date>
+   <value currency="USD" value-date="2022-09-16">1000000</value>
+   <provider-org ref="XM-DAC-701-2" type="10">
+    <narrative xml:lang="EN">Ministry of Foreign Affairs of Japan</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>1000000</unhcr:value-USD>
   </transaction>
   <document-link format="TEXT/HTML" url="https://reporting.unhcr.org/pakistan">
    <title>
