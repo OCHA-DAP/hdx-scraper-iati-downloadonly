@@ -7286,4 +7286,150 @@
   <related-activity ref="XM-DAC-41121-2021-ASO-PAK" type="3"></related-activity>
   <related-activity ref="XM-DAC-41121-2022-ASO" type="1"></related-activity>
  </iati-activity>
+
+ <iati-activity default-currency="EUR" dstore:dataset="nlrc-activities" dstore:index="1166" hierarchy="2" humanitarian="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <iati-identifier>NL-KVK-40409352-PRJ13-179-0003</iati-identifier>
+  <reporting-org ref="NL-KVK-40409352" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Pakistan, Asia Pacific - Monsoon Floods</narrative>
+  </title>
+  <description type="3">
+   <narrative xml:lang="EN">324,040 people</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Balochistan, Sindh, Punjab and Khyber Pakhtunkhwa (KP) provinces</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Pakistan is experiencing abnormal monsoon rainfall nearly three times higher than the past 30-year average, resulting in uncontrollable urban and flash floods, and landslides across the country.</narrative>
+  </description>
+  <description type="2">
+   <narrative xml:lang="EN">The monsoon floods across Pakistan have damaged or destroyed well over half a million houses across the country. In most rural areas, the houses are mostly
+made of mud, which are very vulnerable to heavy rains and flooding. The floods have washed away entire villages. People are living in camps and under the open
+sky. The initial information highlighted the need for emergency shelters (tents) as a top priority, while the government has also requested support for the provision
+of tents in the affected areas.
+The risk of water-borne diseases is high in the affected areas with many cases of diarrhoea and cholera already being reported. With the government health care
+system in the said districts already under tremendous pressure, the PRCS will support the affected communities with Primary Health Care (PHC) services
+provided through the deployment of Mobile Health Teams (MHTs), including daily outpatient department services, community health awareness and first aid provision.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">The priority needs for people are emergency shelter, food and other basic necessities, safe drinking water and access to sanitation, hygiene and health care. People will also need support in recovering their livelihoods lost due to the floods.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21018" role="4" type="21">
+   <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+  </participating-org>
+  <participating-org ref="XM-DAC-7" role="1" type="10">
+   <narrative xml:lang="EN">Ministerie van Buitenlandse Zaken (BuZa)</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="1" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="2" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2022-08-26" type="2">
+   <narrative xml:lang="EN">Actual start</narrative>
+  </activity-date>
+  <activity-date iso-date="2023-08-25" type="3">
+   <narrative xml:lang="EN">Planned End</narrative>
+  </activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">DRU (Disaster Response Unit)</narrative>
+   </department>
+   <telephone>070 - 44 55 678</telephone>
+   <email>projects@redcross.nl</email>
+   <website>https://www.rodekruis.nl</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Postbus 28120, 2502 KC Den Haag, Netherlands</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="PK" percentage="100"></recipient-country>
+  <sector code="FL" percentage="100" vocabulary="99">
+   <narrative xml:lang="EN">Flood</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="2" percentage="100" vocabulary="98">
+   <narrative xml:lang="EN">Response</narrative>
+  </sector>
+  <humanitarian-scope code="FL-2022-000270-PAK" type="1" vocabulary="1-2"></humanitarian-scope>
+  <humanitarian-scope code="MDRPK023" type="2" vocabulary="99" vocabulary-uri="http://ifrc.org/appeals"></humanitarian-scope>
+  <policy-marker code="7" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Aid Targeting the Objectives of the Framework Convention on Climate Change - Adaptation</narrative>
+  </policy-marker>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget type="1">
+   <period-start iso-date="2022-08-26"></period-start>
+   <period-end iso-date="2023-08-25"></period-end>
+   <value currency="EUR" value-date="2022-08-26">532500</value>
+  </budget>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2022-09-14"></transaction-date>
+   <value currency="EUR" value-date="2022-09-14">32500</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+   <provider-org provider-activity-id="NL-KVK-40409352-PRJ13-179-0003" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </provider-org>
+   <receiver-org ref="XM-DAC-21018" type="21">
+    <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2022-09-14"></transaction-date>
+   <value currency="EUR" value-date="2022-09-14">500000</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+   <provider-org provider-activity-id="NL-KVK-40409352-PRJ13-179-0003" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </provider-org>
+   <receiver-org ref="XM-DAC-21018" type="21">
+    <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-09-21"></transaction-date>
+   <value currency="EUR" value-date="2022-09-21">500000</value>
+   <description>
+    <narrative xml:lang="EN">Incoming Commitment</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-7-PPR-27572" ref="XM-DAC-7" type="10">
+    <narrative xml:lang="EN">Ministerie van Buitenlandse Zaken (BuZa)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="NL-KVK-40409352-PRJ13-179-0003" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </receiver-org>
+  </transaction>
+  <related-activity ref="NL-KVK-40409352-PRJ13-179" type="1"></related-activity>
+  <result aggregation-status="1" type="3">
+   <title>
+    <narrative xml:lang="EN">Other - People reached</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">People reached</narrative>
+    </title>
+    <baseline year="2022"></baseline>
+   </indicator>
+  </result>
+ </iati-activity>
 </iati-activities>
