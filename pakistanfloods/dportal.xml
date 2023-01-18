@@ -11706,6 +11706,9 @@
   <participating-org role="1" type="10">
    <narrative xml:lang="EN">Government of Austria</narrative>
   </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Government of Brunei Darussalam</narrative>
+  </participating-org>
   <participating-org ref="CA-GOV-050" role="1" type="10">
    <narrative xml:lang="EN">Government of Canada</narrative>
   </participating-org>
@@ -12033,6 +12036,11 @@
    <period-end iso-date="2023-12-31"></period-end>
    <value currency="USD" value-date="2022-11-25">120208084</value>
   </budget>
+  <budget status="2" type="2">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2022-11-25">176025084</value>
+  </budget>
   <budget status="1">
    <period-start iso-date="2024-01-01"></period-start>
    <period-end iso-date="2024-12-31"></period-end>
@@ -12092,6 +12100,20 @@
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>1851851</unhcr:value-USD>
   </transaction>
+  <transaction ref="F0302">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-11-22"></transaction-date>
+   <value currency="EUR" value-date="2022-11-22">12000000</value>
+   <description>
+    <narrative xml:lang="EN">For 2023</narrative>
+   </description>
+   <provider-org ref="XM-DAC-7" type="10">
+    <narrative xml:lang="EN">Netherlands - Ministry of Foreign Affairs</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>12345679.012</unhcr:value-USD>
+  </transaction>
   <transaction ref="F0019">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-11-11"></transaction-date>
@@ -12099,7 +12121,7 @@
    <description>
     <narrative xml:lang="EN">For 2023</narrative>
    </description>
-   <provider-org ref="KR-GOV-010" type="10">
+   <provider-org provider-activity-id="KR-GOV-051-2022090100594" ref="KR-GOV-010" type="10">
     <narrative xml:lang="EN">Republic of Korea</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
@@ -12113,7 +12135,7 @@
    <description>
     <narrative xml:lang="EN">For 2024</narrative>
    </description>
-   <provider-org ref="KR-GOV-010" type="10">
+   <provider-org provider-activity-id="KR-GOV-051-2022090100594" ref="KR-GOV-010" type="10">
     <narrative xml:lang="EN">Republic of Korea</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
@@ -12127,7 +12149,7 @@
    <description>
     <narrative xml:lang="EN">For 2025</narrative>
    </description>
-   <provider-org ref="KR-GOV-010" type="10">
+   <provider-org provider-activity-id="KR-GOV-051-2022090100594" ref="KR-GOV-010" type="10">
     <narrative xml:lang="EN">Republic of Korea</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
@@ -12221,7 +12243,7 @@
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-11-30"></transaction-date>
-   <value currency="USD" value-date="2022-11-30">775153</value>
+   <value currency="USD" value-date="2022-11-30">782653</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -12230,7 +12252,21 @@
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>775152.958</unhcr:value-USD>
+   <unhcr:value-USD>782652.958</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-12-31"></transaction-date>
+   <value currency="USD" value-date="2022-12-31">100000</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>100000</unhcr:value-USD>
   </transaction>
   <transaction ref="E0323">
    <transaction-type code="11"></transaction-type>
@@ -12268,13 +12304,13 @@
   <transaction ref="F0145">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-04-28"></transaction-date>
-   <value currency="EUR" value-date="2022-04-28">1000000</value>
+   <value currency="EUR" value-date="2022-04-28">2000000</value>
    <provider-org ref="FR-6" type="10">
     <narrative xml:lang="EN">France - Ministry for Europe and Foreign Affairs</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1086956.522</unhcr:value-USD>
+   <unhcr:value-USD>2173913.044</unhcr:value-USD>
   </transaction>
   <transaction ref="F0297">
    <transaction-type code="11"></transaction-type>
@@ -12286,6 +12322,17 @@
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>120740.02</unhcr:value-USD>
+  </transaction>
+  <transaction ref="F0402">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-12-20"></transaction-date>
+   <value currency="USD" value-date="2022-12-20">69822.65</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of Brunei Darussalam</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>69822.65</unhcr:value-USD>
   </transaction>
   <transaction ref="F0262">
    <transaction-type code="11"></transaction-type>
@@ -12345,19 +12392,19 @@
   <transaction ref="F0302">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-11-22"></transaction-date>
-   <value currency="EUR" value-date="2022-11-22">13000000</value>
+   <value currency="EUR" value-date="2022-11-22">1000000</value>
    <provider-org ref="XM-DAC-7" type="10">
     <narrative xml:lang="EN">Netherlands - Ministry of Foreign Affairs</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>13374485.597</unhcr:value-USD>
+   <unhcr:value-USD>1028806.584</unhcr:value-USD>
   </transaction>
   <transaction ref="F0019">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2021-12-14"></transaction-date>
    <value currency="USD" value-date="2021-12-14">1120422</value>
-   <provider-org ref="KR-GOV-010" type="10">
+   <provider-org provider-activity-id="KR-GOV-051-2022090100594" ref="KR-GOV-010" type="10">
     <narrative xml:lang="EN">Republic of Korea</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
@@ -12368,7 +12415,7 @@
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-11-11"></transaction-date>
    <value currency="USD" value-date="2022-11-11">225578</value>
-   <provider-org ref="KR-GOV-010" type="10">
+   <provider-org provider-activity-id="KR-GOV-051-2022090100594" ref="KR-GOV-010" type="10">
     <narrative xml:lang="EN">Republic of Korea</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
@@ -12649,7 +12696,7 @@
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-09-30"></transaction-date>
-   <value currency="USD" value-date="2022-09-30">270</value>
+   <value currency="USD" value-date="2022-09-30">10270</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -12658,12 +12705,12 @@
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>269.62</unhcr:value-USD>
+   <unhcr:value-USD>10269.62</unhcr:value-USD>
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-10-31"></transaction-date>
-   <value currency="USD" value-date="2022-10-31">16434</value>
+   <value currency="USD" value-date="2022-10-31">17346</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -12672,7 +12719,7 @@
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>16433.966</unhcr:value-USD>
+   <unhcr:value-USD>17345.667</unhcr:value-USD>
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
@@ -12687,6 +12734,20 @@
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>250.271</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-12-31"></transaction-date>
+   <value currency="USD" value-date="2022-12-31">17005</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>17005.281</unhcr:value-USD>
   </transaction>
   <transaction ref="F3013">
    <transaction-type code="11"></transaction-type>
@@ -12815,7 +12876,7 @@
    </title>
    <category code="A12"></category>
    <language code="EN"></language>
-   <document-date iso-date="2022-12-25"></document-date>
+   <document-date iso-date="2023-01-15"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://help.unhcr.org/">
    <title>
@@ -12823,7 +12884,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2022-12-25"></document-date>
+   <document-date iso-date="2023-01-15"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://www.unhcr.org/">
    <title>
@@ -12831,7 +12892,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2022-12-25"></document-date>
+   <document-date iso-date="2023-01-15"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://reporting.unhcr.org/iati">
    <title>
@@ -12839,7 +12900,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2022-12-25"></document-date>
+   <document-date iso-date="2023-01-15"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://www.unhcr.org/search?page=search&amp;skip=0&amp;docid=&amp;cid=49aea93a7d&amp;coi=PAK&amp;comid=4a098fdd6">
    <title>
@@ -12847,7 +12908,7 @@
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2022-12-25"></document-date>
+   <document-date iso-date="2023-01-15"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://refugee-funding-tracker.org/">
    <title>
@@ -12855,7 +12916,7 @@
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2022-12-25"></document-date>
+   <document-date iso-date="2023-01-15"></document-date>
   </document-link>
   <related-activity ref="XM-DAC-41121-2021-ASO-PAK" type="3"></related-activity>
   <related-activity ref="XM-DAC-41121-2022-ASO" type="1"></related-activity>
