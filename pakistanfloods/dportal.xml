@@ -13692,6 +13692,20 @@
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>12345679.012</unhcr:value-USD>
   </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-01-31"></transaction-date>
+   <value currency="USD" value-date="2023-01-31">1354</value>
+   <description>
+    <narrative xml:lang="EN">For 2023</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>1353.812</unhcr:value-USD>
+  </transaction>
   <transaction ref="F0019">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-11-11"></transaction-date>
@@ -14103,6 +14117,20 @@
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>1477576.452</unhcr:value-USD>
   </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-01-31"></transaction-date>
+   <value currency="USD" value-date="2023-01-31">273</value>
+   <description>
+    <narrative xml:lang="EN">For 2023</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>272.895</unhcr:value-USD>
+  </transaction>
   <transaction ref="F3005">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2021-12-22"></transaction-date>
@@ -14454,7 +14482,7 @@
    </title>
    <category code="A12"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-01-29"></document-date>
+   <document-date iso-date="2023-02-05"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://help.unhcr.org/">
    <title>
@@ -14462,7 +14490,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-01-29"></document-date>
+   <document-date iso-date="2023-02-05"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://www.unhcr.org/">
    <title>
@@ -14470,7 +14498,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-01-29"></document-date>
+   <document-date iso-date="2023-02-05"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://reporting.unhcr.org/iati">
    <title>
@@ -14478,7 +14506,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-01-29"></document-date>
+   <document-date iso-date="2023-02-05"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://www.unhcr.org/search?page=search&amp;skip=0&amp;docid=&amp;cid=49aea93a7d&amp;coi=PAK&amp;comid=4a098fdd6">
    <title>
@@ -14486,7 +14514,7 @@
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-01-29"></document-date>
+   <document-date iso-date="2023-02-05"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://refugee-funding-tracker.org/">
    <title>
@@ -14494,7 +14522,7 @@
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-01-29"></document-date>
+   <document-date iso-date="2023-02-05"></document-date>
   </document-link>
   <related-activity ref="XM-DAC-41121-2021-ASO-PAK" type="3"></related-activity>
   <related-activity ref="XM-DAC-41121-2022-ASO" type="1"></related-activity>
