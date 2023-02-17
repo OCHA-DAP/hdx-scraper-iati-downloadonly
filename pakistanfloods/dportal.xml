@@ -16493,6 +16493,569 @@
   <related-activity ref="XM-DAC-41121-2023-ASO-PAK" type="3"></related-activity>
  </iati-activity>
 
+ <iati-activity dstore:dataset="cordaid-41160054" dstore:index="122" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>NL-KVK-41160054-201234</iati-identifier>
+  <reporting-org ref="NL-KVK-41160054" secondary-reporter="0" type="21">
+   <narrative xml:lang="EN">Cordaid</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">DRA ACM Pakistan 2022</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">As result of unprecedented seasonal monsoon rains in Pakistan nearly a third of the country is flooded. According to Pakistan&apos;s National Disaster Management Authority (NDMA) as of September 8 there are almost 1,400 fatal casualties. 33 million people are affected across the country, amongst others in the Sindh province. Their main concern is to find shelter (almost 1,5M houses are damaged), to have food to eat and water to drink and to have functional sanitary facilities (http://cms.ndma.gov.pk/storage/app/public/situation-reports/September2022/8HRXtyqMDEPTchwNDOw0.pdf). 
+Within Sindh the Manchar Lake, in the north of the Jamshoro distict, has broken through its water containing dams. Equally affected is nearby Dadu district (https://reliefweb.int/report/pakistan/early-needs-identification-flood-disaster-sindh-pakistan . A rapid needs assessment as of September 3rd 2022 by local NGO Rural Education and Economic Development Society (REEDS) (https://reedspak.org/rapid-need-assessment-reports/) indicates that in Dadu 818,000 people are affected, with 42,000 in temporary relief camps as 39,000 houses are damaged. In Jamshoro district 36,000 people are affected, almost all of them now in refuge in camps without houses. Even the camps are now affected, with demolished latrines resulting in open defacation and subsequent potential water borne diseases. Tarpaulins, NFIs for WASH and food are needed urgently. On the longer run food assistance should compensate loss in livestock (drowned) and crops (flooded). 
+The Pakistani government thusfar has provided lots of assistance (https://www.pdma.gos.pk/new/Docs/SITREP_03-09-2022.pdf) but gaps remain high in Jamshoro and Dadu, especially in Shelter/NFIs and FSL. 
+Cordaid&apos;s intervention jumps into the identified gaps, addressing needs of 3,500 most affected and vulnerable people in Dadu and Jamshoro districts.</narrative>
+  </description>
+  <description type="2">
+   <narrative xml:lang="EN">Cordaid proposes an MPC and WASH intervention to address needs of 25,000 floods affected people in Jamshoro and Dadu districts, in coordination with targeted communities.
+Provision of MPC for 1000 flood affected families of district Jamshoroo and Dadu
+Provision of Water and Sanitation facilities for and Hygiene material for 1000 families of targeted UCs of district Jamshoroo and Dadu in Sindh province of Pakistan.</narrative>
+  </description>
+  <description type="3">
+   <narrative xml:lang="EN">Flood hit most vulnerable women, children, elderly, people with special needs, transgenders and religious minorities receive life assistance support.</narrative>
+  </description>
+  <participating-org role="4" type="22">
+   <narrative xml:lang="EN">Association for Women&#x2019;s Awareness and Rural Development</narrative>
+  </participating-org>
+  <participating-org activity-id="NL-KVK-41158230-41158230-PAK023N" ref="NL-KVK-41158230" role="1" type="21">
+   <narrative xml:lang="EN">CARE - Nederland</narrative>
+  </participating-org>
+  <participating-org activity-id="NL-KVK-41160054-201234" ref="NL-KVK-41160054" role="2" type="21">
+   <narrative xml:lang="EN">Cordaid Global Office</narrative>
+  </participating-org>
+  <participating-org role="4" type="22">
+   <narrative xml:lang="EN">Pakistan Partnership Initiative</narrative>
+  </participating-org>
+  <participating-org role="4" type="22">
+   <narrative xml:lang="EN">Rural Education and Economic Development Society</narrative>
+  </participating-org>
+  <activity-status code="4"></activity-status>
+  <activity-date iso-date="2022-09-17" type="1"></activity-date>
+  <activity-date iso-date="2023-03-16" type="3"></activity-date>
+  <contact-info>
+   <organisation>
+    <narrative xml:lang="EN">Cordaid Global Office</narrative>
+   </organisation>
+   <telephone>+31 (0) 70 &#x2013; 31 36 300</telephone>
+   <email>info@cordaid.org</email>
+   <website>https://www.cordaid.org/</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Grote Marktstraat 45, Den Haag, Zuid Holland, 2511 BH</narrative>
+   </mailing-address>
+  </contact-info>
+  <activity-scope code="4"></activity-scope>
+  <recipient-country code="PK" percentage="100"></recipient-country>
+  <recipient-region code="679" percentage="0" vocabulary="1"></recipient-region>
+  <location ref="604737">
+   <name>
+    <narrative xml:lang="EN">Pakistan</narrative>
+   </name>
+   <exactness code="1"></exactness>
+   <location-class code="1"></location-class>
+  </location>
+  <humanitarian-scope code="EP-2022-000340-PAK" type="1" vocabulary="1-2"></humanitarian-scope>
+  <humanitarian-scope code="FL-2022-000270-PAK" type="1" vocabulary="1-2"></humanitarian-scope>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="2" type="1">
+   <period-start iso-date="2022-09-17"></period-start>
+   <period-end iso-date="2022-03-16"></period-end>
+   <value currency="EUR" value-date="2022-09-17">480435</value>
+  </budget>
+  <conditions attached="0"></conditions>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">Output KRIs - RI</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">WSH-R4: Number of people having access to sufficient and safe water for domestic use</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Access: maximum distance to water point 500m, queuing time less than 15min, filling time maximum 3 min/20 litres or as locally agreed. Water access should be during the whole period of implementation unless action is mostly related to building the local water delivery capacity. 
+Sufficient: covering basic needs, i.e. 7.5-15 l/p/d or as locally agreed. 
+Safe: 1) low risk of faecal contamination, 2) No faecal coliforms detectable in any 100-ml sample, 3) For piped water supplies, or for all water supplies at times of risk or presence of diarrhoea epidemic, water is treated with a disinfectant to achieve free chlorine residual at the tap of 0.5 mg per litre and turbidity is below 5 NTU, 4) If for a short period, water which is contaminated chemically or radiologically is used, no (significant probability of) negative health effect is (likely to be) detected. 
+Domestic use: drinking, cooking and personal hygiene (incl. laundry)</narrative>
+    </description>
+    <reference code="WSH-R4" vocabulary="99"></reference>
+    <baseline iso-date="2022-12-31" value="4810" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
+    </baseline>
+    <baseline iso-date="2022-12-31" value="12350" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Age (-18/18+)" value="Age &lt; 18"></dimension>
+    </baseline>
+    <baseline iso-date="2022-12-31" value="8580" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Gender - genre" value="Female - feminin"></dimension>
+    </baseline>
+    <baseline iso-date="2022-12-31" value="8580" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Gender - genre" value="Male - masculin"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-10-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="4810">
+      <location ref="604737"></location>
+      <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
+     </actual>
+     <actual value="12350">
+      <location ref="604737"></location>
+      <dimension name="Age (-18/18+)" value="Age &lt; 18"></dimension>
+     </actual>
+     <actual value="8580">
+      <location ref="604737"></location>
+      <dimension name="Gender - genre" value="Female - feminin"></dimension>
+     </actual>
+     <actual value="8580">
+      <location ref="604737"></location>
+      <dimension name="Gender - genre" value="Male - masculin"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="26400"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">ACC-R1: Number of crisis-affected people who are also involved in the design, implementation, monitoring and/or evaluation of the programme</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Participation is defined as the involvement of crisis-affected people in one or more phases of the programme: assessment, design, implementation, monitoring or evaluation. 
+Participation does not take place when activities are carried out in exchange for a salary of &apos;in-kind&apos; payment unless the affected people are involved in decision-making processes and have an impact on decisions that affect them.
+Please describe in the activity description what this involvement specifically entails and in which phase of the program conflict-affected people are involved.</narrative>
+    </description>
+    <reference code="ACC-R1" vocabulary="99"></reference>
+    <baseline iso-date="2022-12-31" value="50" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
+    </baseline>
+    <baseline iso-date="2022-12-31" value="50" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Age (-18/18+)" value="Age &lt; 18"></dimension>
+    </baseline>
+    <baseline iso-date="2022-12-31" value="50" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Gender - genre" value="Female - feminin"></dimension>
+    </baseline>
+    <baseline iso-date="2022-12-31" value="50" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Gender - genre" value="Male - masculin"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="50">
+      <location ref="604737"></location>
+      <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
+     </actual>
+     <actual value="50">
+      <location ref="604737"></location>
+      <dimension name="Age (-18/18+)" value="Age &lt; 18"></dimension>
+     </actual>
+     <actual value="50">
+      <location ref="604737"></location>
+      <dimension name="Gender - genre" value="Female - feminin"></dimension>
+     </actual>
+     <actual value="50">
+      <location ref="604737"></location>
+      <dimension name="Gender - genre" value="Male - masculin"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="200"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">CSH-R1: Number of people benefitting from unconditional and unrestricted cash transfers</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Unconditional transfers are provided to beneficiaries without the recipient having to do anything in return in order to receive the assistance . Unrestricted transfers can be used entirely as the recipient chooses i.e. there are no restrictions on how the transfer is spent (Definitions of CALP). It can be delivered e.g. through local banks, shops, traders, local money transfer companies, remittance companies and post offices in either one or several instalments.</narrative>
+    </description>
+    <reference code="CSH-R1" vocabulary="99"></reference>
+    <baseline iso-date="2022-12-31" value="6650" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
+    </baseline>
+    <baseline iso-date="2022-12-31" value="3325" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Gender - genre" value="Female - feminin"></dimension>
+    </baseline>
+    <baseline iso-date="2022-12-31" value="3325" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Gender - genre" value="Male - masculin"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-10-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="6650">
+      <location ref="604737"></location>
+      <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
+     </actual>
+     <actual value="3325">
+      <location ref="604737"></location>
+      <dimension name="Gender - genre" value="Female - feminin"></dimension>
+     </actual>
+     <actual value="3325">
+      <location ref="604737"></location>
+      <dimension name="Gender - genre" value="Male - masculin"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="7000"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">WSH-R2: Number of people having access to dignified, safe, clean and functional excreta disposal facilities</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Access: ratio (user/facility) of 1 toilet for a max. 20 people, distance &lt; 50 metres from dwellings, or as locally agreed. 
+Clean: regular cleaning and maintenance for public facilities.
+Dignified: Use of toilets respect cultural preference and is arranged by household(s) and/or segregated by sex. 
+Unsafe facilities: unstable (unlined) pits with risk of collapse, pits accessible to vectors, pits contaminating water tables and poorly sited facilities which expose women and girls to attacks, especially at night. 
+Functional facility: fully constructed, in working order and properly maintained, of a type and in a location acceptable to intended users, with hand washing facilities and anal cleansing material.</narrative>
+    </description>
+    <reference code="WSH-R2" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-10-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="1560">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="2400"></target>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">Humanitarian Aid Corporate Indicators</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">CSH-R1: Number of people benefitting from unconditional and unrestricted cash transfers</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Unconditional transfers are provided to beneficiaries without the recipient having to do anything in return in order to receive the assistance . Unrestricted transfers can be used entirely as the recipient chooses i.e. there are no restrictions on how the transfer is spent (Definitions of CALP). It can be delivered e.g. through local banks, shops, traders, local money transfer companies, remittance companies and post offices in either one or several instalments.</narrative>
+    </description>
+    <reference code="CSH-R1" vocabulary="99"></reference>
+    <baseline iso-date="2022-12-31" value="6650" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
+    </baseline>
+    <baseline iso-date="2022-12-31" value="3325" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Gender - genre" value="Female - feminin"></dimension>
+    </baseline>
+    <baseline iso-date="2022-12-31" value="3325" year="2022">
+     <location ref="604737"></location>
+     <dimension name="Gender - genre" value="Male - masculin"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-10-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="6650">
+      <location ref="604737"></location>
+      <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
+     </actual>
+     <actual value="3325">
+      <location ref="604737"></location>
+      <dimension name="Gender - genre" value="Female - feminin"></dimension>
+     </actual>
+     <actual value="3325">
+      <location ref="604737"></location>
+      <dimension name="Gender - genre" value="Male - masculin"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="7000"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">The humanitarian response was Appropriate</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Appropriateness is assessed according to the SPHERE standards. A response is considered to be appropriate based on needs assessment, taking account of rights, needs, culture, age, gender, disabilities and context, and equity (non-discrimination and equal access.</narrative>
+    </description>
+    <reference code="HA0.02" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="100">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="100"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Total Budget</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Grand Total Budget including ICR</narrative>
+    </description>
+    <reference code="CC4.03" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="240000">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="480435"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of complaints are investigated, resolved and results fed back to the complainant within the stated time frame.</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Number of complaints are investigated, resolved and results fed back to the complainant within the stated time frame (in accordance with Cordaid FCM Minimum standards)</narrative>
+    </description>
+    <reference code="CC3.03" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="3">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="5"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of complaints received</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Number of complaints received that are directly related to and within the scope of influence of a project implemented by Cordaid and its partners</narrative>
+    </description>
+    <reference code="CC3.02" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="5">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="10"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of beneficiaries reached (HA)</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Number of people who benefitted directly or indirectly from humanitarian assistance and/or resilient recovery services and/or disaster preparedness from activities in a humanitarian response implemented by Cordaid and implementing partners.</narrative>
+    </description>
+    <reference code="HA0.01" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="25000">
+      <location ref="604737"></location>
+      <dimension name="Direct/ Indirect" value="Direct beneficiaries"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="26400"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Budget spent on capacity building of national and local actors</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">This concerns capacity building such as training and on the job support to national and local actors. This is captured under &quot;Capacity building local partners&quot; in the DRA budget.  Note that this does not include local offices of INGOs.</narrative>
+    </description>
+    <reference code="CC4.01" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="2">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="3"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Total budget that went to national and local partners</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Total impmenting partner costs (including ICR) for national and local partners, this does not include local offices of INGOs</narrative>
+    </description>
+    <reference code="CC4.02" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="41">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="82"></target>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">Localisation</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Total Budget</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Grand Total Budget including ICR</narrative>
+    </description>
+    <reference code="CC4.03" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="240000">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="480435"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Budget spent on capacity building of national and local actors</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">This concerns capacity building such as training and on the job support to national and local actors. This is captured under &quot;Capacity building local partners&quot; in the DRA budget.  Note that this does not include local offices of INGOs.</narrative>
+    </description>
+    <reference code="CC4.01" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="2">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="3"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Total budget that went to national and local partners</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Total impmenting partner costs (including ICR) for national and local partners, this does not include local offices of INGOs</narrative>
+    </description>
+    <reference code="CC4.02" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="41">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="82"></target>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">Accountability</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of complaints are investigated, resolved and results fed back to the complainant within the stated time frame.</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Number of complaints are investigated, resolved and results fed back to the complainant within the stated time frame (in accordance with Cordaid FCM Minimum standards)</narrative>
+    </description>
+    <reference code="CC3.03" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="3">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="5"></target>
+    </period>
+   </indicator>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of complaints received</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Number of complaints received that are directly related to and within the scope of influence of a project implemented by Cordaid and its partners</narrative>
+    </description>
+    <reference code="CC3.02" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="5">
+      <location ref="604737"></location>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-09-17"></period-start>
+     <period-end iso-date="2023-03-16"></period-end>
+     <target value="10"></target>
+    </period>
+   </indicator>
+  </result>
+ </iati-activity>
+
  <iati-activity default-currency="EUR" dstore:dataset="nlrc-activities" dstore:index="1166" hierarchy="2" humanitarian="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <iati-identifier>NL-KVK-40409352-PRJ13-179-0003</iati-identifier>
   <reporting-org ref="NL-KVK-40409352" type="21">
