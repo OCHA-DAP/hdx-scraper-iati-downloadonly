@@ -15658,8 +15658,8 @@
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2023-01-31"></transaction-date>
-   <value currency="USD" value-date="2023-01-31">1354</value>
+   <transaction-date iso-date="2022-09-30"></transaction-date>
+   <value currency="USD" value-date="2022-09-30">351053</value>
    <description>
     <narrative xml:lang="EN">For 2023</narrative>
    </description>
@@ -15668,7 +15668,63 @@
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1353.812</unhcr:value-USD>
+   <unhcr:value-USD>351053.159</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-10-31"></transaction-date>
+   <value currency="USD" value-date="2022-10-31">598232</value>
+   <description>
+    <narrative xml:lang="EN">For 2023</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>598231.827</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-11-30"></transaction-date>
+   <value currency="USD" value-date="2022-11-30">723860</value>
+   <description>
+    <narrative xml:lang="EN">For 2023</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>723860.313</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-12-31"></transaction-date>
+   <value currency="USD" value-date="2022-12-31">100000</value>
+   <description>
+    <narrative xml:lang="EN">For 2023</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>100000</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-01-31"></transaction-date>
+   <value currency="USD" value-date="2023-01-31">8871</value>
+   <description>
+    <narrative xml:lang="EN">For 2023</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>8870.897</unhcr:value-USD>
   </transaction>
   <transaction ref="F0019">
    <transaction-type code="11"></transaction-type>
@@ -15683,6 +15739,20 @@
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>1576000</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0053">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-02-06"></transaction-date>
+   <value currency="USD" value-date="2023-02-06">13200000</value>
+   <description>
+    <narrative xml:lang="EN">For 2023</narrative>
+   </description>
+   <provider-org ref="US-USAGOV" type="10">
+    <narrative xml:lang="EN">United States</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>13200000</unhcr:value-USD>
   </transaction>
   <transaction ref="F0019">
    <transaction-type code="11"></transaction-type>
@@ -15771,7 +15841,7 @@
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-09-30"></transaction-date>
-   <value currency="USD" value-date="2022-09-30">1103582</value>
+   <value currency="USD" value-date="2022-09-30">752529</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -15780,12 +15850,12 @@
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1103582.121</unhcr:value-USD>
+   <unhcr:value-USD>752528.962</unhcr:value-USD>
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-10-31"></transaction-date>
-   <value currency="USD" value-date="2022-10-31">965637</value>
+   <value currency="USD" value-date="2022-10-31">367405</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -15794,12 +15864,12 @@
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>965636.917</unhcr:value-USD>
+   <unhcr:value-USD>367405.09</unhcr:value-USD>
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-11-30"></transaction-date>
-   <value currency="USD" value-date="2022-11-30">782653</value>
+   <value currency="USD" value-date="2022-11-30">58793</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -15808,12 +15878,12 @@
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>782652.958</unhcr:value-USD>
+   <unhcr:value-USD>58792.645</unhcr:value-USD>
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-12-31"></transaction-date>
-   <value currency="USD" value-date="2022-12-31">110694</value>
+   <value currency="USD" value-date="2022-12-31">10694</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -15822,7 +15892,7 @@
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>110693.912</unhcr:value-USD>
+   <unhcr:value-USD>10693.912</unhcr:value-USD>
   </transaction>
   <transaction ref="E0323">
    <transaction-type code="11"></transaction-type>
@@ -16083,6 +16153,20 @@
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-02-28"></transaction-date>
+   <value currency="USD" value-date="2022-02-28">243429</value>
+   <description>
+    <narrative xml:lang="EN">For 2023</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>243429</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-01-31"></transaction-date>
    <value currency="USD" value-date="2023-01-31">273</value>
    <description>
@@ -16122,6 +16206,20 @@
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>1508255.351</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-02-28"></transaction-date>
+   <value currency="USD" value-date="2022-02-28">232364</value>
+   <description>
+    <narrative xml:lang="EN">For 2024</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>232364</unhcr:value-USD>
   </transaction>
   <transaction ref="F0236">
    <transaction-type code="11"></transaction-type>
@@ -16168,7 +16266,7 @@
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-02-28"></transaction-date>
-   <value currency="USD" value-date="2022-02-28">1137124</value>
+   <value currency="USD" value-date="2022-02-28">661331</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -16177,7 +16275,7 @@
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1137124.483</unhcr:value-USD>
+   <unhcr:value-USD>661331.483</unhcr:value-USD>
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
@@ -16446,7 +16544,7 @@
    </title>
    <category code="A12"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-05"></document-date>
+   <document-date iso-date="2023-02-12"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://help.unhcr.org/">
    <title>
@@ -16454,7 +16552,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-05"></document-date>
+   <document-date iso-date="2023-02-12"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://www.unhcr.org/">
    <title>
@@ -16462,7 +16560,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-05"></document-date>
+   <document-date iso-date="2023-02-12"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://reporting.unhcr.org/iati">
    <title>
@@ -16470,7 +16568,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-05"></document-date>
+   <document-date iso-date="2023-02-12"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://www.unhcr.org/search?page=search&amp;skip=0&amp;docid=&amp;cid=49aea93a7d&amp;coi=PAK&amp;comid=4a098fdd6">
    <title>
@@ -16478,7 +16576,7 @@
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-05"></document-date>
+   <document-date iso-date="2023-02-12"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://refugee-funding-tracker.org/">
    <title>
@@ -16486,7 +16584,7 @@
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-05"></document-date>
+   <document-date iso-date="2023-02-12"></document-date>
   </document-link>
   <related-activity ref="XM-DAC-41121-2021-ASO-PAK" type="3"></related-activity>
   <related-activity ref="XM-DAC-41121-2022-ASO" type="1"></related-activity>
