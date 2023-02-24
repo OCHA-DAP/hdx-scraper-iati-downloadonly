@@ -17,3 +17,23 @@ SELECT * FROM xson WHERE root = '/iati-activities/iati-activity' AND aid IN (
       xson->>'@code'='FL-2022-000270-PAK'
   ) GROUP BY aid ORDER BY max(xson->>'@iati-activities:generated-datetime'), max(xson->>'@last-updated-datetime'), aid {} desc
 )"
+turkeysyriaearthquake_query: "
+SELECT * FROM xson WHERE root = '/iati-activities/iati-activity' AND aid IN (
+  SELECT aid FROM xson WHERE
+  (
+      root='/iati-activities/iati-activity/humanitarian-scope' AND
+      xson->>'@type'='1' AND
+      xson->>'@vocabulary'='1-2' AND
+      xson->>'@code'='EQ-2023-000015-TUR'
+  ) OR (
+      root='/iati-activities/iati-activity/humanitarian-scope' AND
+      xson->>'@type'='1' AND
+      xson->>'@vocabulary'='1-2' AND
+      xson->>'@code'='EQ-2023-000015-SYR'
+  ) OR (
+      root='/iati-activities/iati-activity/humanitarian-scope' AND
+      xson->>'@type'='2' AND
+      xson->>'@vocabulary'='2-1' AND
+      xson->>'@code'='FSYR23'
+  ) GROUP BY aid ORDER BY max(xson->>'@iati-activities:generated-datetime'), max(xson->>'@last-updated-datetime'), aid {} desc
+)"
