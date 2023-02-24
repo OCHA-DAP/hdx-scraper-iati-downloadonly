@@ -33,7 +33,7 @@ jobs:
         target-folder: turkeysyriaearthquake
     - name: Send mail
       if: failure()
-      uses: dawidd6/action-send-mail@v2
+      uses: dawidd6/action-send-mail@v3
       with:
         server_address: ${{secrets.EMAIL_SERVER}}
         server_port: ${{secrets.EMAIL_PORT}}
