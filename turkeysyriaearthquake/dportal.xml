@@ -1603,4 +1603,347 @@
   <related-activity ref="XM-DAC-41121-2022-EUR" type="1"></related-activity>
   <related-activity ref="XM-DAC-41121-2023-EUR-TUR" type="3"></related-activity>
  </iati-activity>
+
+ <iati-activity default-currency="EUR" dstore:dataset="zoa-activities" dstore:index="106" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>NL-KVK-41009723-SYR2026</iati-identifier>
+  <reporting-org ref="NL-KVK-41009723" secondary-reporter="0" type="21">
+   <narrative xml:lang="EN">ZOA</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Syria Earthquake Joint Response 2023</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">&lt;p style=&quot;margin-bottom: 1em;&quot;&gt;In the early morning of Monday the 6th of February, a major earthquake of magnitude 7.8, on the Richter scale hit southern Turkey and northwestern Syria. The earthquake caused a large number of casualties and widespread destruction to infrastructure and civilian buildings in both southern Turkey and Northern Syria. Just a few hours later, in the afternoon, a second earthquake of 7.5 magnitude was recorded, whose epicenter was also in southern Turkey. In addition, dozens of aftershocks of lesser intensity followed the initial earthquake and further damage is expected in the coming days.&lt;/p&gt;
+&lt;p style=&quot;margin-bottom: 1em;&quot;&gt;This major humanitarian disaster calls for immediate action. All partners have presence on the ground and can scale up their response immediately. In light of the current crisis, we initiated the Acute Crisis Mechanism. This proposal focuses&amp;nbsp;on multiple sectors.&lt;/p&gt;</narrative>
+  </description>
+  <participating-org role="4" type="22">
+   <narrative xml:lang="EN">EPDC</narrative>
+  </participating-org>
+  <participating-org role="4" type="22">
+   <narrative xml:lang="EN">GOPA-DERD</narrative>
+  </participating-org>
+  <participating-org activity-id="NL-KVK-41009723-NLD2302" ref="NL-KVK-41009723" role="1" type="21">
+   <narrative xml:lang="EN">ZOA</narrative>
+  </participating-org>
+  <participating-org activity-id="NL-KVK-41009723-SYR2026" ref="NL-KVK-41009723" role="2" type="21">
+   <narrative xml:lang="EN">ZOA</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-02-11" type="2"></activity-date>
+  <activity-date iso-date="2023-08-10" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">ZOA</narrative>
+   </organisation>
+   <email>info@zoa.ngo</email>
+   <website>https://www.zoa-international.com</website>
+  </contact-info>
+  <activity-scope code="2"></activity-scope>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <sector code="72010" percentage="20" vocabulary="1">
+   <narrative xml:lang="EN">Health</narrative>
+  </sector>
+  <sector code="14030" percentage="20" vocabulary="1">
+   <narrative xml:lang="EN">WASH</narrative>
+  </sector>
+  <sector code="72010" percentage="50" vocabulary="1"></sector>
+  <sector code="72040" percentage="10" vocabulary="1"></sector>
+  <humanitarian-scope code="EQ-2023-000015-TUR" type="1" vocabulary="1-2">
+   <narrative xml:lang="EN">Earthquake Syria</narrative>
+  </humanitarian-scope>
+  <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1">
+   <narrative xml:lang="EN">Syria Earthquake Flash Appeal 2023</narrative>
+  </humanitarian-scope>
+  <policy-marker code="1" significance="1" vocabulary="1"></policy-marker>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-02-11"></period-start>
+   <period-end iso-date="2023-08-10"></period-end>
+   <value currency="EUR" value-date="2023-02-21">429210</value>
+  </budget>
+  <transaction humanitarian="1" ref="Incoming commitment ZOA">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-02-13"></transaction-date>
+   <value currency="EUR" value-date="2023-02-13">429210</value>
+   <provider-org provider-activity-id="NL-KVK-41009723-NLD2302" ref="NL-KVK-41009723" type="21">
+    <narrative xml:lang="EN">ZOA</narrative>
+   </provider-org>
+  </transaction>
+  <result type="1">
+   <title>
+    <narrative xml:lang="EN">FSC-I2 Availability of, access to and consumption of food</narrative>
+   </title>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of people enabled to meet their basic food needs</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Distribution of Ready to eat: 
+EPDC: 7000 Individuals (1400HH) 
+GOPA: 5000 Individuals (1000HH)
+Distribution of Regular FP: 
+GOPA: 3250 Individuals (650 HH)</narrative>
+    </description>
+    <reference code="FSC-I2" indicator-uri="https://www.zoa-international.com/" vocabulary="99"></reference>
+    <baseline iso-date="2023-02-11" value="0" year="2023"></baseline>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="5338">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="3812">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="3050">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="3050">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result aggregation-status="1" type="1">
+   <title>
+    <narrative xml:lang="EN">ACC-I1 Participation</narrative>
+   </title>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of crisis-affected people who are also involved in the design, implementation, monitoring and/or evaluation of the programme</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Focus group discussions, Assessments, PDM surveys</narrative>
+    </description>
+    <baseline iso-date="2023-02-11" value="0" year="2023"></baseline>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="225">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="225">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="100">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="100">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="1">
+   <title>
+    <narrative xml:lang="EN">WSH-I1 Hygiene promotion</narrative>
+   </title>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of people having regular access to soap to meet hygienic needs</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Hygiene kits: 
+ZOA: 8330 Individuals (1666HH) - (overlapping with water trucking beneficiaries) 
+GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
+    </description>
+    <reference code="WSH-I1" indicator-uri="https://www.zoa-international.com/" vocabulary="99"></reference>
+    <baseline iso-date="2023-02-11" value="0" year="2023"></baseline>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="4665">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="3333">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="2666">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="2666">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="1">
+   <title>
+    <narrative xml:lang="EN">WSH-I4 Water supply</narrative>
+   </title>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of people having access to sufficient and safe water for domestic use</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Water trucking for two months</narrative>
+    </description>
+    <reference code="WSH-I4" indicator-uri="https://www.zoa-international.com/" vocabulary="99"></reference>
+    <baseline iso-date="2023-02-11" value="0" year="2023"></baseline>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="5833">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="4167">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="3333">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="3333">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="1">
+   <title>
+    <narrative xml:lang="EN">LOC-I3 Capacity strengthening (reach)</narrative>
+   </title>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of national and local actors supported with capacity strengthening</narrative>
+    </title>
+    <reference code="LOC-I3" indicator-uri="https://www.zoa-international.com/" vocabulary="99"></reference>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="2"></target>
+    </period>
+   </indicator>
+  </result>
+ </iati-activity>
 </iati-activities>
