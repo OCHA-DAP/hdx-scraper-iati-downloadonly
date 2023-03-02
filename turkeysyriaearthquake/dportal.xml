@@ -369,7 +369,7 @@
   <budget status="2" type="2">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2022-11-25">465479685</value>
+   <value currency="USD" value-date="2023-02-28">504295122</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction ref="E0010">
@@ -698,6 +698,20 @@
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>700000</unhcr:value-USD>
   </transaction>
+  <transaction ref="G0058">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-02-20"></transaction-date>
+   <value currency="USD" value-date="2023-02-20">1500000</value>
+   <description>
+    <narrative xml:lang="EN">For 2023</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-OCHA-CERF-23-RR-HCR-005" ref="XM-OCHA-CERF" type="40">
+    <narrative xml:lang="EN">United Nations Central Emergency Response Fund (CERF)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>1500000</unhcr:value-USD>
+  </transaction>
   <transaction ref="F0268">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-09-27"></transaction-date>
@@ -781,7 +795,7 @@
    </title>
    <category code="A12"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://www.unhcr.org/ar/">
    <title>
@@ -789,7 +803,7 @@
    </title>
    <category code="B16"></category>
    <language code="AR"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://help.unhcr.org/">
    <title>
@@ -797,7 +811,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://www.unhcr.org/">
    <title>
@@ -805,7 +819,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://reporting.unhcr.org/iati">
    <title>
@@ -813,7 +827,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://www.unhcr.org/search?page=search&amp;skip=0&amp;docid=&amp;cid=49aea93a7d&amp;coi=SYR&amp;comid=4a098fdd6">
    <title>
@@ -821,7 +835,7 @@
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://refugee-funding-tracker.org/">
    <title>
@@ -829,7 +843,7 @@
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <related-activity ref="XM-DAC-41121-2021-MENA-SYR" type="3"></related-activity>
   <related-activity ref="XM-DAC-41121-2022-MENA" type="1"></related-activity>
@@ -1163,7 +1177,7 @@
   <budget status="2" type="2">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2022-11-25">348500000</value>
+   <value currency="USD" value-date="2023-02-28">498500000</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction ref="E0010">
@@ -1465,6 +1479,20 @@
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>960143.553</unhcr:value-USD>
   </transaction>
+  <transaction ref="G0057">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-02-17"></transaction-date>
+   <value currency="USD" value-date="2023-02-17">2300000</value>
+   <description>
+    <narrative xml:lang="EN">For 2023</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-OCHA-CERF-23-RR-HCR-004" ref="XM-OCHA-CERF" type="40">
+    <narrative xml:lang="EN">United Nations Central Emergency Response Fund (CERF)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>2300000</unhcr:value-USD>
+  </transaction>
   <transaction ref="F3004">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2021-12-17"></transaction-date>
@@ -1557,7 +1585,7 @@
    </title>
    <category code="A12"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://help.unhcr.org/">
    <title>
@@ -1565,7 +1593,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://www.unhcr.org/">
    <title>
@@ -1573,7 +1601,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://reporting.unhcr.org/iati">
    <title>
@@ -1581,7 +1609,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://www.unhcr.org/search?page=search&amp;skip=0&amp;docid=&amp;cid=49aea93a7d&amp;coi=TUR&amp;comid=4a098fdd6">
    <title>
@@ -1589,7 +1617,7 @@
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://refugee-funding-tracker.org/">
    <title>
@@ -1597,7 +1625,7 @@
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-02-12"></document-date>
+   <document-date iso-date="2023-02-26"></document-date>
   </document-link>
   <related-activity ref="XM-DAC-41121-2021-EUR-TUR" type="3"></related-activity>
   <related-activity ref="XM-DAC-41121-2022-EUR" type="1"></related-activity>
