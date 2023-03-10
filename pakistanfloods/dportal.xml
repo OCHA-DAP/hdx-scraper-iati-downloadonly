@@ -15094,7 +15094,7 @@
   <conditions attached="0"></conditions>
  </iati-activity>
 
- <iati-activity default-currency="EUR" dstore:dataset="fo_germany-asia-798" dstore:index="1082" hierarchy="1" humanitarian="1" iati-activities:linked-data-default="http://www.auswaertiges-amt.de" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="EUR" dstore:dataset="fo_germany-asia-798" dstore:index="1086" hierarchy="1" humanitarian="1" iati-activities:linked-data-default="http://www.auswaertiges-amt.de" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>XM-DAC-5-7-6618395</iati-identifier>
   <reporting-org ref="XM-DAC-5-7" type="10">
    <narrative xml:lang="DE">Deutschland - Ausw&#xE4;rtiges Amt</narrative>
@@ -15117,7 +15117,7 @@
   <participating-org crs-channel-code="41143" role="4" type="40">
    <narrative xml:lang="EN">World Health Organisation - core voluntary contributions account</narrative>
   </participating-org>
-  <activity-status code="2"></activity-status>
+  <activity-status code="4"></activity-status>
   <activity-date iso-date="2022-09-01" type="1">
    <narrative xml:lang="DE">geplanter Projektbeginn</narrative>
   </activity-date>
