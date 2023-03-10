@@ -1,5 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <iati-activities version="2.03">
+ <iati-activity default-currency="EUR" dstore:dataset="fo_germany-europe-89" dstore:index="1246" hierarchy="1" humanitarian="1" iati-activities:linked-data-default="http://www.auswaertiges-amt.de" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>XM-DAC-5-7-6618886</iati-identifier>
+  <reporting-org ref="XM-DAC-5-7" type="10">
+   <narrative xml:lang="DE">Deutschland - Ausw&#xE4;rtiges Amt</narrative>
+   <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Humanitarian assistance for the earthquake in Turkey</narrative>
+   <narrative xml:lang="DE">Humanit&#xE4;re Hilfe zum Erdbeben in der T&#xFC;rkei</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Construction of a tent village for 500 people in Adiyaman</narrative>
+   <narrative xml:lang="DE">Errichtung eines Zeltdorfes f&#xFC;r 500 Personen in Adiyaman</narrative>
+  </description>
+  <participating-org crs-channel-code="11001" role="4" type="10">
+   <narrative xml:lang="EN">Botschaft Ankara</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="11001" role="3" type="10">
+   <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="11001" role="1" type="10">
+   <narrative xml:lang="EN">Germany</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="22000" role="2" type="22">
+   <narrative xml:lang="EN">Rat der Aleviten Hamburg</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-03-01" type="1">
+   <narrative xml:lang="DE">geplanter Projektbeginn</narrative>
+  </activity-date>
+  <activity-date iso-date="2023-03-31" type="3">
+   <narrative xml:lang="DE">geplantes Projektende</narrative>
+  </activity-date>
+  <contact-info type="1">
+   <department>
+    <narrative xml:lang="DE">S 07</narrative>
+   </department>
+   <telephone>+49 30 1817 7369</telephone>
+   <email>umbo@diplo.de</email>
+   <website>https://www.auswaertiges-amt.de</website>
+   <mailing-address>
+    <narrative xml:lang="DE">Ausw&#xE4;rtiges Amt, 11013 Berlin, Germany</narrative>
+   </mailing-address>
+  </contact-info>
+  <activity-scope code="4"></activity-scope>
+  <recipient-country code="TR" percentage="100">
+   <narrative xml:lang="EN">TURKEY</narrative>
+  </recipient-country>
+  <location>
+   <location-reach code="1"></location-reach>
+   <name>
+    <narrative xml:lang="DE">Adiyaman, T&#xFC;rkei</narrative>
+   </name>
+  </location>
+  <sector code="4" percentage="100" vocabulary="10" vocabulary-uri="https://data.humdata.org/dataset/global-coordination-groups-beta">
+   <narrative xml:lang="EN">Shelter and Non Food Items</narrative>
+  </sector>
+  <sector code="74020" percentage="100" vocabulary="1" vocabulary-uri="http://www.oecd.org/dac/stats/dacandcrscodelists.htm"></sector>
+  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2" vocabulary-uri="http://glidenumber.net/glide/public/search/search.jsp"></humanitarian-scope>
+  <policy-marker code="1" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="10" significance="1" vocabulary="1"></policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="3" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="4" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="5" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1"></policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-03-01"></period-start>
+   <period-end iso-date="2023-03-31"></period-end>
+   <value currency="EUR" value-date="2023-02-24">100000</value>
+  </budget>
+  <conditions attached="0">
+   <condition type="1">
+    <narrative xml:lang="EN">No conditions specified yet</narrative>
+   </condition>
+  </conditions>
+ </iati-activity>
+
+ <iati-activity default-currency="EUR" dstore:dataset="fo_germany-europe-89" dstore:index="1237" hierarchy="1" humanitarian="1" iati-activities:linked-data-default="http://www.auswaertiges-amt.de" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+  <iati-identifier>XM-DAC-5-7-6618818</iati-identifier>
+  <reporting-org ref="XM-DAC-5-7" type="10">
+   <narrative xml:lang="DE">Deutschland - Ausw&#xE4;rtiges Amt</narrative>
+   <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Emergency humanitarian assistance for earthquake victims in Turkey</narrative>
+   <narrative xml:lang="DE">Humanit&#xE4;re Soforthilfe f&#xFC;r die Erdbebenopfer in der T&#xFC;rkei</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Emergency humanitarian assistance for earthquake victims in Turkey</narrative>
+   <narrative xml:lang="DE">Humanit&#xE4;re Soforthilfe f&#xFC;r die Erdbebenopfer in der T&#xFC;rkei</narrative>
+  </description>
+  <participating-org crs-channel-code="21000" role="2" type="21">
+   <narrative xml:lang="EN">Association for solidarity with asylum seekers and migrants, ASAM</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="11001" role="4" type="10">
+   <narrative xml:lang="EN">Botschaft Ankara</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="11001" role="3" type="10">
+   <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
+  </participating-org>
+  <participating-org crs-channel-code="11001" role="1" type="10">
+   <narrative xml:lang="EN">Germany</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-02-10" type="1">
+   <narrative xml:lang="DE">geplanter Projektbeginn</narrative>
+  </activity-date>
+  <activity-date iso-date="2023-06-09" type="3">
+   <narrative xml:lang="DE">geplantes Projektende</narrative>
+  </activity-date>
+  <contact-info type="1">
+   <department>
+    <narrative xml:lang="DE">S 07</narrative>
+   </department>
+   <telephone>+49 30 1817 7369</telephone>
+   <email>umbo@diplo.de</email>
+   <website>https://www.auswaertiges-amt.de</website>
+   <mailing-address>
+    <narrative xml:lang="DE">Ausw&#xE4;rtiges Amt, 11013 Berlin, Germany</narrative>
+   </mailing-address>
+  </contact-info>
+  <activity-scope code="4"></activity-scope>
+  <recipient-country code="TR" percentage="100">
+   <narrative xml:lang="EN">TURKEY</narrative>
+  </recipient-country>
+  <location>
+   <location-reach code="1"></location-reach>
+   <name>
+    <narrative xml:lang="DE">Provinces Hatay, Adana and Gaziantep, T&#xFC;rkei</narrative>
+   </name>
+  </location>
+  <sector code="4" percentage="100" vocabulary="10" vocabulary-uri="https://data.humdata.org/dataset/global-coordination-groups-beta">
+   <narrative xml:lang="EN">Shelter and Non Food Items</narrative>
+  </sector>
+  <sector code="74020" percentage="100" vocabulary="1" vocabulary-uri="http://www.oecd.org/dac/stats/dacandcrscodelists.htm"></sector>
+  <humanitarian-scope code="EQ-2023-000015-TUR" type="1" vocabulary="1-2" vocabulary-uri="http://glidenumber.net/glide/public/search/search.jsp"></humanitarian-scope>
+  <policy-marker code="1" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="10" significance="2" vocabulary="1"></policy-marker>
+  <policy-marker code="2" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="3" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="4" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="5" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="6" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="7" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="8" significance="0" vocabulary="1"></policy-marker>
+  <policy-marker code="9" significance="0" vocabulary="1"></policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="10"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-02-10"></period-start>
+   <period-end iso-date="2023-06-09"></period-end>
+   <value currency="EUR" value-date="2023-02-09">96500</value>
+  </budget>
+  <conditions attached="0">
+   <condition type="1">
+    <narrative xml:lang="EN">No conditions specified yet</narrative>
+   </condition>
+  </conditions>
+ </iati-activity>
+
  <iati-activity default-currency="USD" dstore:dataset="unhcr-2022" dstore:index="102" hierarchy="3" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:unhcr="http://reporting.unhcr.org/">
   <iati-identifier>XM-DAC-41121-2022-MENA-SYR</iati-identifier>
   <reporting-org ref="XM-DAC-41121" type="40">
