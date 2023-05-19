@@ -131,12 +131,12 @@
   <budget status="2" type="1">
    <period-start iso-date="2022-01-01"></period-start>
    <period-end iso-date="2022-12-31"></period-end>
-   <value currency="USD" value-date="2023-05-15">29139388.5892725</value>
+   <value currency="USD" value-date="2023-05-18">29139388.5892725</value>
   </budget>
   <budget status="2" type="1">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2023-05-15">29139388.5892725</value>
+   <value currency="USD" value-date="2023-05-18">29139388.5892725</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction humanitarian="1">
@@ -17398,12 +17398,12 @@
   <budget status="2" type="1">
    <period-start iso-date="2022-01-01"></period-start>
    <period-end iso-date="2022-12-31"></period-end>
-   <value currency="USD" value-date="2023-05-15">14573825.19747</value>
+   <value currency="USD" value-date="2023-05-18">14573825.19747</value>
   </budget>
   <budget status="2" type="1">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2023-05-15">14573825.19747</value>
+   <value currency="USD" value-date="2023-05-18">14573825.19747</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction humanitarian="1">
@@ -25878,12 +25878,12 @@
   <budget status="2" type="1">
    <period-start iso-date="2022-01-01"></period-start>
    <period-end iso-date="2022-12-31"></period-end>
-   <value currency="USD" value-date="2023-05-15">30887961.9616295</value>
+   <value currency="USD" value-date="2023-05-18">30887961.9616295</value>
   </budget>
   <budget status="2" type="1">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2023-05-15">30887961.9616295</value>
+   <value currency="USD" value-date="2023-05-18">30887961.9616295</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction humanitarian="1">
@@ -40059,12 +40059,12 @@
   <budget status="2" type="1">
    <period-start iso-date="2022-01-01"></period-start>
    <period-end iso-date="2022-12-31"></period-end>
-   <value currency="USD" value-date="2023-05-15">38379827.5383705</value>
+   <value currency="USD" value-date="2023-05-18">38379827.5383705</value>
   </budget>
   <budget status="2" type="1">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2023-05-15">38379827.5383705</value>
+   <value currency="USD" value-date="2023-05-18">38379827.5383705</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction humanitarian="1">
