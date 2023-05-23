@@ -55885,4 +55885,792 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
    </indicator>
   </result>
  </iati-activity>
+
+ <iati-activity default-currency="EUR" dstore:dataset="nlrc-activities" dstore:index="1200" hierarchy="2" humanitarian="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <iati-identifier>NL-KVK-40409352-PRJ13-207-0013</iati-identifier>
+  <reporting-org ref="NL-KVK-40409352" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2023 - MoFA-SHO Syria Earthquake - 3rd (50%)</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">Aleppo, Latakia, Hama and Tartous.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">On the 6th of February at close to 4:17 am, a 7.8 degrees magnitude earthquake struck southern Turkey near Syria&#x2019;s northern border. The US Geological Survey said the earthquake was centered about 33 km (20 miles) from Gaziantep, a major city and provincial capital. Tremors were felt as far away as Lebanon, Greece, Palestine and the island of Cyprus. Another big earthquake was felt on the same day at around 1:24 pm local time, largely in the same affected areas.</narrative>
+  </description>
+  <description type="3">
+   <narrative xml:lang="EN">The strategy of the IFRC response will be to contribute to support 300,000 affected people in the affected areas for a period of 11 months. Targeting will prioritize the most vulnerable groups such as separated families, female-headed households, children, people with disabilities and the elderly among other groups of special needs.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Through this Emergency Appeal, the International Federation of Red Cross and Red Crescent Societies (IFRC) together with the partner national societies aim to support the Syrian Arab Red Crescent Society in the response to this Syria Earthquake.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21018" role="4" type="21">
+   <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="1" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="2" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <activity-status code="1"></activity-status>
+  <activity-date iso-date="2023-02-06" type="2">
+   <narrative xml:lang="EN">Actual start</narrative>
+  </activity-date>
+  <activity-date iso-date="2025-01-30" type="3">
+   <narrative xml:lang="EN">Planned End</narrative>
+  </activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN"></narrative>
+   </department>
+   <telephone>070 - 44 55 678</telephone>
+   <email>projects@redcross.nl</email>
+   <website>https://www.rodekruis.nl</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Postbus 28120, 2502 KC Den Haag, Netherlands</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <sector code="EQ" percentage="100" vocabulary="99">
+   <narrative xml:lang="EN">Earthquake</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="2" percentage="100" vocabulary="98">
+   <narrative xml:lang="EN">Response</narrative>
+  </sector>
+  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2"></humanitarian-scope>
+  <humanitarian-scope code="MDRSY009" type="2" vocabulary="99" vocabulary-uri="http://ifrc.org/appeals"></humanitarian-scope>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget type="1">
+   <period-start iso-date="2023-02-06"></period-start>
+   <period-end iso-date="2025-01-30"></period-end>
+   <value currency="EUR" value-date="2023-02-06">1990741</value>
+  </budget>
+  <related-activity ref="NL-KVK-40409352-PRJ13-207" type="1"></related-activity>
+  <result aggregation-status="1" type="3">
+   <title>
+    <narrative xml:lang="EN">Other - People reached</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">People reached</narrative>
+    </title>
+    <baseline year="2023"></baseline>
+   </indicator>
+  </result>
+ </iati-activity>
+
+ <iati-activity default-currency="EUR" dstore:dataset="nlrc-activities" dstore:index="1199" hierarchy="2" humanitarian="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <iati-identifier>NL-KVK-40409352-PRJ13-207-0012</iati-identifier>
+  <reporting-org ref="NL-KVK-40409352" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2023 - MoFA-SHO Syria Earthquake - 2nd (25%)</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">Aleppo, Latakia, Hama and Tartous.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">On the 6th of February at close to 4:17 am, a 7.8 degrees magnitude earthquake struck southern Turkey near Syria&#x2019;s northern border. The US Geological Survey said the earthquake was centered about 33 km (20 miles) from Gaziantep, a major city and provincial capital. Tremors were felt as far away as Lebanon, Greece, Palestine and the island of Cyprus. Another big earthquake was felt on the same day at around 1:24 pm local time, largely in the same affected areas.</narrative>
+  </description>
+  <description type="3">
+   <narrative xml:lang="EN">The strategy of the IFRC response will be to contribute to support 300,000 affected people in the affected areas for a period of 11 months. Targeting will prioritize the most vulnerable groups such as separated families, female-headed households, children, people with disabilities and the elderly among other groups of special needs.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Through this Emergency Appeal, the International Federation of Red Cross and Red Crescent Societies (IFRC) together with the partner national societies aim to support the Syrian Arab Red Crescent Society in the response to this Syria Earthquake.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21018" role="4" type="21">
+   <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="1" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="2" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <activity-status code="1"></activity-status>
+  <activity-date iso-date="2023-02-06" type="2">
+   <narrative xml:lang="EN">Actual start</narrative>
+  </activity-date>
+  <activity-date iso-date="2024-01-30" type="3">
+   <narrative xml:lang="EN">Planned End</narrative>
+  </activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN"></narrative>
+   </department>
+   <telephone>070 - 44 55 678</telephone>
+   <email>projects@redcross.nl</email>
+   <website>https://www.rodekruis.nl</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Postbus 28120, 2502 KC Den Haag, Netherlands</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <sector code="EQ" percentage="100" vocabulary="99">
+   <narrative xml:lang="EN">Earthquake</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="2" percentage="100" vocabulary="98">
+   <narrative xml:lang="EN">Response</narrative>
+  </sector>
+  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2"></humanitarian-scope>
+  <humanitarian-scope code="MDRSY009" type="2" vocabulary="99" vocabulary-uri="http://ifrc.org/appeals"></humanitarian-scope>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget type="1">
+   <period-start iso-date="2023-02-06"></period-start>
+   <period-end iso-date="2024-01-30"></period-end>
+   <value currency="EUR" value-date="2023-02-06">995370</value>
+  </budget>
+  <related-activity ref="NL-KVK-40409352-PRJ13-207" type="1"></related-activity>
+  <result aggregation-status="1" type="3">
+   <title>
+    <narrative xml:lang="EN">Other - People reached</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">People reached</narrative>
+    </title>
+    <baseline year="2023"></baseline>
+   </indicator>
+  </result>
+ </iati-activity>
+
+ <iati-activity default-currency="EUR" dstore:dataset="nlrc-activities" dstore:index="1198" hierarchy="2" humanitarian="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <iati-identifier>NL-KVK-40409352-PRJ13-207-0011</iati-identifier>
+  <reporting-org ref="NL-KVK-40409352" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2023 - MoFA-SHO Syria Earthquake - 1st (25%)</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">Aleppo, Latakia, Hama and Tartous.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">On the 6th of February at close to 4:17 am, a 7.8 degrees magnitude earthquake struck southern Turkey near Syria&#x2019;s northern border. The US Geological Survey said the earthquake was centered about 33 km (20 miles) from Gaziantep, a major city and provincial capital. Tremors were felt as far away as Lebanon, Greece, Palestine and the island of Cyprus. Another big earthquake was felt on the same day at around 1:24 pm local time, largely in the same affected areas.</narrative>
+  </description>
+  <description type="3">
+   <narrative xml:lang="EN">The strategy of the IFRC response will be to contribute to support 300,000 affected people in the affected areas for a period of 11 months. Targeting will prioritize the most vulnerable groups such as separated families, female-headed households, children, people with disabilities and the elderly among other groups of special needs.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Through this Emergency Appeal, the International Federation of Red Cross and Red Crescent Societies (IFRC) together with the partner national societies aim to support the Syrian Arab Red Crescent Society in the response to this Syria Earthquake.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21018" role="4" type="21">
+   <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="1" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="2" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <activity-status code="1"></activity-status>
+  <activity-date iso-date="2023-02-06" type="2">
+   <narrative xml:lang="EN">Actual start</narrative>
+  </activity-date>
+  <activity-date iso-date="2023-07-30" type="3">
+   <narrative xml:lang="EN">Planned End</narrative>
+  </activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN"></narrative>
+   </department>
+   <telephone>070 - 44 55 678</telephone>
+   <email>projects@redcross.nl</email>
+   <website>https://www.rodekruis.nl</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Postbus 28120, 2502 KC Den Haag, Netherlands</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <sector code="EQ" percentage="100" vocabulary="99">
+   <narrative xml:lang="EN">Earthquake</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="2" percentage="100" vocabulary="98">
+   <narrative xml:lang="EN">Response</narrative>
+  </sector>
+  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2"></humanitarian-scope>
+  <humanitarian-scope code="MDRSY009" type="2" vocabulary="99" vocabulary-uri="http://ifrc.org/appeals"></humanitarian-scope>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget type="1">
+   <period-start iso-date="2023-02-06"></period-start>
+   <period-end iso-date="2023-07-30"></period-end>
+   <value currency="EUR" value-date="2023-02-06">995370</value>
+  </budget>
+  <related-activity ref="NL-KVK-40409352-PRJ13-207" type="1"></related-activity>
+  <result aggregation-status="1" type="3">
+   <title>
+    <narrative xml:lang="EN">Other - People reached</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">People reached</narrative>
+    </title>
+    <baseline year="2023"></baseline>
+   </indicator>
+  </result>
+ </iati-activity>
+
+ <iati-activity default-currency="EUR" dstore:dataset="nlrc-activities" dstore:index="1197" hierarchy="2" humanitarian="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <iati-identifier>NL-KVK-40409352-PRJ13-207-0010</iati-identifier>
+  <reporting-org ref="NL-KVK-40409352" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2023 - SHO Syria Earthquake - 3rd (Total%)</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">Aleppo, Latakia, Hama and Tartous.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">On the 6th of February at close to 4:17 am, a 7.8 degrees magnitude earthquake struck southern Turkey near Syria&#x2019;s northern border. The US Geological Survey said the earthquake was centered about 33 km (20 miles) from Gaziantep, a major city and provincial capital. Tremors were felt as far away as Lebanon, Greece, Palestine and the island of Cyprus. Another big earthquake was felt on the same day at around 1:24 pm local time, largely in the same affected areas.</narrative>
+  </description>
+  <description type="3">
+   <narrative xml:lang="EN">The strategy of the IFRC response will be to contribute to support 300,000 affected people in the affected areas for a period of 11 months. Targeting will prioritize the most vulnerable groups such as separated families, female-headed households, children, people with disabilities and the elderly among other groups of special needs.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Through this Emergency Appeal, the International Federation of Red Cross and Red Crescent Societies (IFRC) together with the partner national societies aim to support the Syrian Arab Red Crescent Society in the response to this Syria Earthquake.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21018" role="4" type="21">
+   <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="1" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="2" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <activity-status code="1"></activity-status>
+  <activity-date iso-date="2023-02-06" type="2">
+   <narrative xml:lang="EN">Actual start</narrative>
+  </activity-date>
+  <activity-date iso-date="2025-01-30" type="3">
+   <narrative xml:lang="EN">Planned End</narrative>
+  </activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">DRU (Disaster Response Unit)</narrative>
+   </department>
+   <telephone>070 - 44 55 678</telephone>
+   <email>projects@redcross.nl</email>
+   <website>https://www.rodekruis.nl</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Postbus 28120, 2502 KC Den Haag, Netherlands</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <sector code="EQ" percentage="100" vocabulary="99">
+   <narrative xml:lang="EN">Earthquake</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="2" percentage="100" vocabulary="98">
+   <narrative xml:lang="EN">Response</narrative>
+  </sector>
+  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2"></humanitarian-scope>
+  <humanitarian-scope code="MDRSY009" type="2" vocabulary="99" vocabulary-uri="http://ifrc.org/appeals"></humanitarian-scope>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget type="1">
+   <period-start iso-date="2023-02-06"></period-start>
+   <period-end iso-date="2025-01-30"></period-end>
+   <value currency="EUR" value-date="2023-02-06">3100808</value>
+  </budget>
+  <related-activity ref="NL-KVK-40409352-PRJ13-207" type="1"></related-activity>
+  <result aggregation-status="1" type="3">
+   <title>
+    <narrative xml:lang="EN">Other - People reached</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">People reached</narrative>
+    </title>
+    <baseline year="2023"></baseline>
+   </indicator>
+  </result>
+ </iati-activity>
+
+ <iati-activity default-currency="EUR" dstore:dataset="nlrc-activities" dstore:index="1196" hierarchy="2" humanitarian="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <iati-identifier>NL-KVK-40409352-PRJ13-207-0009</iati-identifier>
+  <reporting-org ref="NL-KVK-40409352" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2023 - SHO Syria Earthquake - 2nd (25%)</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">Aleppo, Latakia, Hama and Tartous.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">On the 6th of February at close to 4:17 am, a 7.8 degrees magnitude earthquake struck southern Turkey near Syria&#x2019;s northern border. The US Geological Survey said the earthquake was centered about 33 km (20 miles) from Gaziantep, a major city and provincial capital. Tremors were felt as far away as Lebanon, Greece, Palestine and the island of Cyprus. Another big earthquake was felt on the same day at around 1:24 pm local time, largely in the same affected areas.</narrative>
+  </description>
+  <description type="3">
+   <narrative xml:lang="EN">The strategy of the IFRC response will be to contribute to support 300,000 affected people in the affected areas for a period of 11 months. Targeting will prioritize the most vulnerable groups such as separated families, female-headed households, children, people with disabilities and the elderly among other groups of special needs.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Through this Emergency Appeal, the International Federation of Red Cross and Red Crescent Societies (IFRC) together with the partner national societies aim to support the Syrian Arab Red Crescent Society in the response to this Syria Earthquake.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21018" role="4" type="21">
+   <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="1" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="2" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <activity-status code="1"></activity-status>
+  <activity-date iso-date="2023-02-06" type="2">
+   <narrative xml:lang="EN">Actual start</narrative>
+  </activity-date>
+  <activity-date iso-date="2024-01-30" type="3">
+   <narrative xml:lang="EN">Planned End</narrative>
+  </activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">DRU (Disaster Response Unit)</narrative>
+   </department>
+   <telephone>070 - 44 55 678</telephone>
+   <email>projects@redcross.nl</email>
+   <website>https://www.rodekruis.nl</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Postbus 28120, 2502 KC Den Haag, Netherlands</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <sector code="EQ" percentage="100" vocabulary="99">
+   <narrative xml:lang="EN">Earthquake</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="2" percentage="100" vocabulary="98">
+   <narrative xml:lang="EN">Response</narrative>
+  </sector>
+  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2"></humanitarian-scope>
+  <humanitarian-scope code="MDRSY009" type="2" vocabulary="99" vocabulary-uri="http://ifrc.org/appeals"></humanitarian-scope>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget type="1">
+   <period-start iso-date="2023-02-06"></period-start>
+   <period-end iso-date="2024-01-30"></period-end>
+   <value currency="EUR" value-date="2023-02-06">1550404</value>
+  </budget>
+  <related-activity ref="NL-KVK-40409352-PRJ13-207" type="1"></related-activity>
+  <result aggregation-status="1" type="3">
+   <title>
+    <narrative xml:lang="EN">Other - People reached</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">People reached</narrative>
+    </title>
+    <baseline year="2023"></baseline>
+   </indicator>
+  </result>
+ </iati-activity>
+
+ <iati-activity default-currency="EUR" dstore:dataset="nlrc-activities" dstore:index="1195" hierarchy="2" humanitarian="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <iati-identifier>NL-KVK-40409352-PRJ13-207-0008</iati-identifier>
+  <reporting-org ref="NL-KVK-40409352" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2023 - SHO Syria Earthquake - 1st (25%)</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">Aleppo, Latakia, Hama and Tartous.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">On the 6th of February at close to 4:17 am, a 7.8 degrees magnitude earthquake struck southern Turkey near Syria&#x2019;s northern border. The US Geological Survey said the earthquake was centered about 33 km (20 miles) from Gaziantep, a major city and provincial capital. Tremors were felt as far away as Lebanon, Greece, Palestine and the island of Cyprus. Another big earthquake was felt on the same day at around 1:24 pm local time, largely in the same affected areas.</narrative>
+  </description>
+  <description type="3">
+   <narrative xml:lang="EN">The strategy of the IFRC response will be to contribute to support 300,000 affected people in the affected areas for a period of 11 months. Targeting will prioritize the most vulnerable groups such as separated families, female-headed households, children, people with disabilities and the elderly among other groups of special needs.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Through this Emergency Appeal, the International Federation of Red Cross and Red Crescent Societies (IFRC) together with the partner national societies aim to support the Syrian Arab Red Crescent Society in the response to this Syria Earthquake.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21018" role="4" type="21">
+   <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="1" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="2" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <activity-status code="1"></activity-status>
+  <activity-date iso-date="2023-02-06" type="2">
+   <narrative xml:lang="EN">Actual start</narrative>
+  </activity-date>
+  <activity-date iso-date="2023-07-30" type="3">
+   <narrative xml:lang="EN">Planned End</narrative>
+  </activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN"></narrative>
+   </department>
+   <telephone>070 - 44 55 678</telephone>
+   <email>projects@redcross.nl</email>
+   <website>https://www.rodekruis.nl</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Postbus 28120, 2502 KC Den Haag, Netherlands</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <sector code="EQ" percentage="100" vocabulary="99">
+   <narrative xml:lang="EN">Earthquake</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="2" percentage="100" vocabulary="98">
+   <narrative xml:lang="EN">Response</narrative>
+  </sector>
+  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2"></humanitarian-scope>
+  <humanitarian-scope code="MDRSY009" type="2" vocabulary="99" vocabulary-uri="http://ifrc.org/appeals"></humanitarian-scope>
+  <policy-marker code="1" significance="1" vocabulary="1">
+   <narrative xml:lang="EN">Gender Equality</narrative>
+  </policy-marker>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget type="1">
+   <period-start iso-date="2023-02-06"></period-start>
+   <period-end iso-date="2023-07-30"></period-end>
+   <value currency="EUR" value-date="2023-02-06">1550404</value>
+  </budget>
+  <related-activity ref="NL-KVK-40409352-PRJ13-207" type="1"></related-activity>
+  <result aggregation-status="1" type="3">
+   <title>
+    <narrative xml:lang="EN">Other - People reached</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">People reached</narrative>
+    </title>
+    <baseline year="2023"></baseline>
+   </indicator>
+  </result>
+ </iati-activity>
+
+ <iati-activity default-currency="EUR" dstore:dataset="nlrc-activities" dstore:index="1194" hierarchy="2" humanitarian="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <iati-identifier>NL-KVK-40409352-PRJ13-207-0003</iati-identifier>
+  <reporting-org ref="NL-KVK-40409352" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2023 - Campaign Syria Earthquake</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">Aleppo, Latakia, Hama and Tartous.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">On the 6th of February at close to 4:17 am, a 7.8 degrees magnitude earthquake struck southern Turkey near Syria&#x2019;s northern border. The US Geological Survey said the earthquake was centered about 33 km (20 miles) from Gaziantep, a major city and provincial capital. Tremors were felt as far away as Lebanon, Greece, Palestine and the island of Cyprus. Another big earthquake was felt on the same day at around 1:24 pm local time, largely in the same affected areas.</narrative>
+  </description>
+  <description type="3">
+   <narrative xml:lang="EN">The strategy of the IFRC response will be to contribute to support 300,000 affected people in the affected areas for a period of 11 months. Targeting will prioritize the most vulnerable groups such as separated families, female-headed households, children, people with disabilities and the elderly among other groups of special needs.</narrative>
+  </description>
+  <description type="1">
+   <narrative xml:lang="EN">Through this Emergency Appeal, the International Federation of Red Cross and Red Crescent Societies (IFRC) together with the partner national societies aim to support the Syrian Arab Red Crescent Society in the response to this Syria Earthquake.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21018" role="4" type="21">
+   <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="1" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="2" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <activity-status code="1"></activity-status>
+  <activity-date iso-date="0001-01-01" type="2">
+   <narrative xml:lang="EN">Actual start</narrative>
+  </activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN"></narrative>
+   </department>
+   <telephone>070 - 44 55 678</telephone>
+   <email>projects@redcross.nl</email>
+   <website>https://www.rodekruis.nl</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Postbus 28120, 2502 KC Den Haag, Netherlands</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <sector code="EQ" percentage="100" vocabulary="99">
+   <narrative xml:lang="EN">Earthquake</narrative>
+  </sector>
+  <sector code="2" percentage="100" vocabulary="98">
+   <narrative xml:lang="EN">Response</narrative>
+  </sector>
+  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2"></humanitarian-scope>
+  <humanitarian-scope code="MDRSY009" type="2" vocabulary="99" vocabulary-uri="http://ifrc.org/appeals"></humanitarian-scope>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <related-activity ref="NL-KVK-40409352-PRJ13-207" type="1"></related-activity>
+  <result aggregation-status="1" type="3">
+   <title>
+    <narrative xml:lang="EN">Other - People reached</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">People reached</narrative>
+    </title>
+    <baseline year="1"></baseline>
+   </indicator>
+  </result>
+ </iati-activity>
+
+ <iati-activity default-currency="EUR" dstore:dataset="nlrc-activities" dstore:index="1192" hierarchy="2" humanitarian="1" iati-activities:version="2.02" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <iati-identifier>NL-KVK-40409352-PRJ13-207-0001</iati-identifier>
+  <reporting-org ref="NL-KVK-40409352" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">2023 - Turkiye Earthquake Surge deployments</narrative>
+  </title>
+  <description type="1">
+   <narrative xml:lang="EN">Rapid Response Personnel deployments to Turkiye in support of the earthquake response.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-21018" role="4" type="21">
+   <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="1" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <participating-org ref="NL-KVK-40409352" role="2" type="21">
+   <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-02-12" type="2">
+   <narrative xml:lang="EN">Actual start</narrative>
+  </activity-date>
+  <activity-date iso-date="2024-02-28" type="3">
+   <narrative xml:lang="EN">Planned End</narrative>
+  </activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </organisation>
+   <department>
+    <narrative xml:lang="EN">DRU (Disaster Response Unit)</narrative>
+   </department>
+   <telephone>070 - 44 55 678</telephone>
+   <email>projects@redcross.nl</email>
+   <website>https://www.rodekruis.nl</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Postbus 28120, 2502 KC Den Haag, Netherlands</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="TR" percentage="100"></recipient-country>
+  <sector code="EQ" percentage="100" vocabulary="99">
+   <narrative xml:lang="EN">Earthquake</narrative>
+  </sector>
+  <sector code="2" percentage="100" vocabulary="98">
+   <narrative xml:lang="EN">Response</narrative>
+  </sector>
+  <humanitarian-scope code="EQ-2023-000015-TUR" type="1" vocabulary="1-2"></humanitarian-scope>
+  <humanitarian-scope code="MDRTR004" type="2" vocabulary="99" vocabulary-uri="http://ifrc.org/appeals"></humanitarian-scope>
+  <collaboration-type code="1"></collaboration-type>
+  <default-flow-type code="30"></default-flow-type>
+  <default-finance-type code="110"></default-finance-type>
+  <default-aid-type code="C01" vocabulary="1"></default-aid-type>
+  <default-tied-status code="5"></default-tied-status>
+  <budget type="1">
+   <period-start iso-date="2023-02-12"></period-start>
+   <period-end iso-date="2024-02-28"></period-end>
+   <value currency="EUR" value-date="2023-02-12">90376</value>
+  </budget>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2023-04-21"></transaction-date>
+   <value currency="EUR" value-date="2023-04-21">378</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+   <provider-org provider-activity-id="NL-KVK-40409352-PRJ13-207-0001" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </provider-org>
+   <receiver-org ref="XM-DAC-21018" type="21">
+    <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2023-04-21"></transaction-date>
+   <value currency="EUR" value-date="2023-04-21">5809</value>
+   <description>
+    <narrative xml:lang="EN">Disbursement</narrative>
+   </description>
+   <provider-org provider-activity-id="NL-KVK-40409352-PRJ13-207-0001" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </provider-org>
+   <receiver-org ref="XM-DAC-21018" type="21">
+    <narrative xml:lang="EN">International Federation of Red Cross and Red Crescent Societies</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-02-01"></transaction-date>
+   <value currency="EUR" value-date="2023-02-01">8373</value>
+   <description>
+    <narrative xml:lang="EN">Expenditure</narrative>
+   </description>
+   <provider-org provider-activity-id="NL-KVK-40409352-PRJ13-207-0001" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </provider-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-02-14"></transaction-date>
+   <value currency="EUR" value-date="2023-02-14">571</value>
+   <description>
+    <narrative xml:lang="EN">Expenditure</narrative>
+   </description>
+   <provider-org provider-activity-id="NL-KVK-40409352-PRJ13-207-0001" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </provider-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-03-01"></transaction-date>
+   <value currency="EUR" value-date="2023-03-01">35033</value>
+   <description>
+    <narrative xml:lang="EN">Expenditure</narrative>
+   </description>
+   <provider-org provider-activity-id="NL-KVK-40409352-PRJ13-207-0001" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </provider-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-03-03"></transaction-date>
+   <value currency="EUR" value-date="2023-03-03">597</value>
+   <description>
+    <narrative xml:lang="EN">Expenditure</narrative>
+   </description>
+   <provider-org provider-activity-id="NL-KVK-40409352-PRJ13-207-0001" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </provider-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-03-09"></transaction-date>
+   <value currency="EUR" value-date="2023-03-09">553</value>
+   <description>
+    <narrative xml:lang="EN">Expenditure</narrative>
+   </description>
+   <provider-org provider-activity-id="NL-KVK-40409352-PRJ13-207-0001" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </provider-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-04-18"></transaction-date>
+   <value currency="EUR" value-date="2023-04-18">35</value>
+   <description>
+    <narrative xml:lang="EN">Expenditure</narrative>
+   </description>
+   <provider-org provider-activity-id="NL-KVK-40409352-PRJ13-207-0001" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </provider-org>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-04-30"></transaction-date>
+   <value currency="EUR" value-date="2023-04-30">12871</value>
+   <description>
+    <narrative xml:lang="EN">Expenditure</narrative>
+   </description>
+   <provider-org provider-activity-id="NL-KVK-40409352-PRJ13-207-0001" ref="NL-KVK-40409352" type="21">
+    <narrative xml:lang="EN">The Netherlands Red Cross</narrative>
+   </provider-org>
+  </transaction>
+  <related-activity ref="NL-KVK-40409352-PRJ13-207" type="1"></related-activity>
+  <result aggregation-status="1" type="3">
+   <title>
+    <narrative xml:lang="EN">Other - People reached</narrative>
+   </title>
+   <indicator ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">People reached</narrative>
+    </title>
+    <baseline year="2023"></baseline>
+   </indicator>
+  </result>
+ </iati-activity>
 </iati-activities>
