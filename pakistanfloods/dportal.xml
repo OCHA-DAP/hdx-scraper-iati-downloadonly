@@ -21518,21 +21518,21 @@ Domestic use: drinking, cooking and personal hygiene (incl. laundry)</narrative>
      <dimension name="Gender - genre" value="Male - masculin"></dimension>
     </baseline>
     <period>
-     <period-start iso-date="2022-10-01"></period-start>
-     <period-end iso-date="2022-12-31"></period-end>
-     <actual value="4810">
+     <period-start iso-date="2023-01-01"></period-start>
+     <period-end iso-date="2023-03-31"></period-end>
+     <actual value="9288">
       <location ref="604737"></location>
       <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
      </actual>
-     <actual value="12350">
+     <actual value="18032">
       <location ref="604737"></location>
       <dimension name="Age (-18/18+)" value="Age &lt; 18"></dimension>
      </actual>
-     <actual value="8580">
+     <actual value="13660">
       <location ref="604737"></location>
       <dimension name="Gender - genre" value="Female - feminin"></dimension>
      </actual>
-     <actual value="8580">
+     <actual value="13660">
       <location ref="604737"></location>
       <dimension name="Gender - genre" value="Male - masculin"></dimension>
      </actual>
@@ -21555,6 +21555,10 @@ Domestic use: drinking, cooking and personal hygiene (incl. laundry)</narrative>
      <location ref="604737"></location>
      <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
     </baseline>
+    <baseline iso-date="2023-03-31" value="3735" year="2023">
+     <location ref="604737"></location>
+     <dimension name="Age (-18/18+)" value="Age &lt; 18"></dimension>
+    </baseline>
     <baseline iso-date="2022-12-31" value="3325" year="2022">
      <location ref="604737"></location>
      <dimension name="Gender - genre" value="Female - feminin"></dimension>
@@ -21564,17 +21568,21 @@ Domestic use: drinking, cooking and personal hygiene (incl. laundry)</narrative>
      <dimension name="Gender - genre" value="Male - masculin"></dimension>
     </baseline>
     <period>
-     <period-start iso-date="2022-10-01"></period-start>
-     <period-end iso-date="2022-12-31"></period-end>
-     <actual value="6650">
+     <period-start iso-date="2023-01-01"></period-start>
+     <period-end iso-date="2023-03-31"></period-end>
+     <actual value="2945">
       <location ref="604737"></location>
       <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
      </actual>
-     <actual value="3325">
+     <actual value="3735">
+      <location ref="604737"></location>
+      <dimension name="Age (-18/18+)" value="Age &lt; 18"></dimension>
+     </actual>
+     <actual value="3310">
       <location ref="604737"></location>
       <dimension name="Gender - genre" value="Female - feminin"></dimension>
      </actual>
-     <actual value="3325">
+     <actual value="3370">
       <location ref="604737"></location>
       <dimension name="Gender - genre" value="Male - masculin"></dimension>
      </actual>
@@ -21597,9 +21605,9 @@ Domestic use: drinking, cooking and personal hygiene (incl. laundry)</narrative>
      <location ref="604737"></location>
     </baseline>
     <period>
-     <period-start iso-date="2022-10-01"></period-start>
-     <period-end iso-date="2022-12-31"></period-end>
-     <actual value="3125">
+     <period-start iso-date="2023-01-01"></period-start>
+     <period-end iso-date="2023-03-31"></period-end>
+     <actual value="33320">
       <location ref="604737"></location>
      </actual>
     </period>
@@ -21622,9 +21630,9 @@ Functional facility: fully constructed, in working order and properly maintained
     </description>
     <reference code="WSH-R2" vocabulary="99"></reference>
     <period>
-     <period-start iso-date="2022-10-01"></period-start>
-     <period-end iso-date="2022-12-31"></period-end>
-     <actual value="1560">
+     <period-start iso-date="2023-01-01"></period-start>
+     <period-end iso-date="2023-03-31"></period-end>
+     <actual value="4360">
       <location ref="604737"></location>
      </actual>
     </period>
@@ -21651,6 +21659,10 @@ Functional facility: fully constructed, in working order and properly maintained
      <location ref="604737"></location>
      <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
     </baseline>
+    <baseline iso-date="2023-03-31" value="3735" year="2023">
+     <location ref="604737"></location>
+     <dimension name="Age (-18/18+)" value="Age &lt; 18"></dimension>
+    </baseline>
     <baseline iso-date="2022-12-31" value="3325" year="2022">
      <location ref="604737"></location>
      <dimension name="Gender - genre" value="Female - feminin"></dimension>
@@ -21660,17 +21672,21 @@ Functional facility: fully constructed, in working order and properly maintained
      <dimension name="Gender - genre" value="Male - masculin"></dimension>
     </baseline>
     <period>
-     <period-start iso-date="2022-10-01"></period-start>
-     <period-end iso-date="2022-12-31"></period-end>
-     <actual value="6650">
+     <period-start iso-date="2023-01-01"></period-start>
+     <period-end iso-date="2023-03-31"></period-end>
+     <actual value="2945">
       <location ref="604737"></location>
       <dimension name="Age (-18/18+)" value="Age 18 &gt;"></dimension>
      </actual>
-     <actual value="3325">
+     <actual value="3735">
+      <location ref="604737"></location>
+      <dimension name="Age (-18/18+)" value="Age &lt; 18"></dimension>
+     </actual>
+     <actual value="3310">
       <location ref="604737"></location>
       <dimension name="Gender - genre" value="Female - feminin"></dimension>
      </actual>
-     <actual value="3325">
+     <actual value="3370">
       <location ref="604737"></location>
       <dimension name="Gender - genre" value="Male - masculin"></dimension>
      </actual>
