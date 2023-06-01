@@ -53223,7 +53223,131 @@
   </conditions>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1333" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1360" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-SN.0211</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Provision of Non-Food Items (NFI) and Lifesaving Shelter Assistance to Earthquake-Affected Households in T&#xFC;rkiye</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">The earthquake response in T&#xFC;rkiye is being lead and coordinated by the Disaster and Emergency Management Authority. A three-month state of emergency has been declared for eleven provinces that were directly affected by the earthquake. Around 3 million people, including migrants, are displaced in various settings including those choosing to stay close to their homes and others moving further away from their usual residence. An estimated 1.7 million people live in informal settlements, mostly in makeshift shelters or tents with extremely basic living conditions. Some of these settlements lack proper water and sanitation services and also require immediate assistance with basic household items and shelter support. 
+ 
+In response to the immediate need for better shelter and access to basic services, the International Organization for Migration (IOM) is improving access to basic services and temporary living conditions for populations affected by environmental hazards through the procurement and delivery of tents, living containers and essential housing items.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <participating-org activity-id="XM-DAC-552-99-AK/IK" ref="XM-DAC-552-99" role="1" type="10">
+   <narrative xml:lang="EN">Kuwait</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-03-01" type="1"></activity-date>
+  <activity-date iso-date="2023-03-01" type="2"></activity-date>
+  <activity-date iso-date="2024-06-30" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+   </organisation>
+   <telephone>+41 22 717 91 11</telephone>
+   <email>hq@iom.int</email>
+   <website>www.iom.int</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="TR" percentage="100"></recipient-country>
+  <location ref="TR">
+   <location-reach code="2"></location-reach>
+   <location-id code="TR" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Republic of T&#xFC;rkiye</narrative>
+   </name>
+   <administrative code="TR" vocabulary="A4"></administrative>
+  </location>
+  <location>
+   <location-reach code="1"></location-reach>
+   <name>
+    <narrative xml:lang="EN">IOM Country Office - TR</narrative>
+   </name>
+   <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+    <pos>39.883033 32.871533</pos>
+   </point>
+   <exactness code="2"></exactness>
+   <location-class code="3"></location-class>
+   <feature-designation code="BLDO"></feature-designation>
+  </location>
+  <sector code="SN" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Shelter and Settlements</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FTUR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Turkiye Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="1" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with some but insufficient inclusion of gender issues</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-03-01">7770560</value>
+  </budget>
+  <budget status="2" type="1">
+   <period-start iso-date="2024-01-01"></period-start>
+   <period-end iso-date="2024-12-31"></period-end>
+   <value currency="USD" value-date="2024-01-01">1229440.01</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-03-01"></transaction-date>
+   <value currency="USD" value-date="2023-04-26">9000000.01</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-552-99-AK/IK" ref="XM-DAC-552-99" type="10">
+    <narrative xml:lang="EN">Kuwait</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-SN.0211" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">9000000.01</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-03-01"></transaction-date>
+   <value currency="USD" value-date="2023-03-01">9000000.01</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-SN.0211" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-SN.0211" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1357" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0206</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -53359,7 +53483,126 @@
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="361" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="377" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-DP.2623</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Lifesaving Emergency Assistance for Disaster-Affected Populations in T&#xFC;rkiye&#x200B;&#x200B;</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Two earthquakes with a magnitude of 7.7 and 7.65 respectively struck Turkiye on 7 February 2023. As of 27 February, 44,374 people have lost their lives and 164,321 buildings have collapsed or are heavily damaged. There is an urgent need to provide shelter and non-food items (NFIs) to affected individuals, particularly as 1.9 million people are living in tents or temporary shelters. Thousands of people are without safe drinking water and sanitation facilities such as running water and toilets. In these conditions there is a risk of a waterborne disease outbreak. Moreover, earthquake-affected populations are exposed to compounded protection risks. Affected individuals are in need of comprehensive protection services to address ongoing vulnerabilities and preclude negative coping mechanisms. 
+ 
+Through this project, the International Organization for Migration (IOM) is contributing to efforts to save lives and alleviate suffering in the aftermath of the earthquakes that struck T&#xFC;rkiye through a multi-sectoral response, including a community-based approach to addressing the most urgent protection needs of affected populations as well as the provision of hygiene kits and items, tents and NFIs, and the deployment of the Displacement Tracking Matrix in selected sites to capture needs and inform humanitarian interventions.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <participating-org activity-id="XM-DAC-8-4-NO-BRC-971277882" ref="XM-DAC-8-4" role="1" type="10">
+   <narrative xml:lang="EN">Norway - Ministry of Foreign Affairs</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-03-01" type="1"></activity-date>
+  <activity-date iso-date="2023-03-01" type="2"></activity-date>
+  <activity-date iso-date="2023-11-30" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+   </organisation>
+   <telephone>+41 22 717 91 11</telephone>
+   <email>hq@iom.int</email>
+   <website>www.iom.int</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="TR" percentage="100"></recipient-country>
+  <location ref="TR">
+   <location-reach code="2"></location-reach>
+   <location-id code="TR" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Republic of T&#xFC;rkiye</narrative>
+   </name>
+   <administrative code="TR" vocabulary="A4"></administrative>
+  </location>
+  <location>
+   <location-reach code="1"></location-reach>
+   <name>
+    <narrative xml:lang="EN">IOM Country Office - TR</narrative>
+   </name>
+   <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+    <pos>39.883033 32.871533</pos>
+   </point>
+   <exactness code="2"></exactness>
+   <location-class code="3"></location-class>
+   <feature-designation code="BLDO"></feature-designation>
+  </location>
+  <sector code="DP" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Assistance to Displaced Populations</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FTUR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Turkiye Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="2A" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with sufficient inclusion of gender issues (mainstreamed)</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-03-01">1438792.38</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-03-01"></transaction-date>
+   <value currency="NOK" value-date="2023-04-19">15000000.02</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-8-4-NO-BRC-971277882" ref="XM-DAC-8-4" type="10">
+    <narrative xml:lang="EN">Norway - Ministry of Foreign Affairs</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2623" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">1438792.38</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-03-01"></transaction-date>
+   <value currency="USD" value-date="2023-03-01">1438792.38</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2623" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2623" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="362" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2599</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -53495,7 +53738,7 @@
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="359" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="357" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2594</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
