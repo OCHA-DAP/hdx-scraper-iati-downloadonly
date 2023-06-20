@@ -60024,7 +60024,7 @@ Through this project, the International Organization for Migration (IOM) is cont
   </sector>
   <sector code="72010" percentage="50" vocabulary="1"></sector>
   <sector code="72040" percentage="10" vocabulary="1"></sector>
-  <humanitarian-scope code="EQ-2023-000015-TUR" type="1" vocabulary="1-2">
+  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2">
    <narrative xml:lang="EN">Earthquake Syria</narrative>
   </humanitarian-scope>
   <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1">
@@ -60048,6 +60048,68 @@ Through this project, the International Organization for Migration (IOM) is cont
     <narrative xml:lang="EN">ZOA</narrative>
    </provider-org>
   </transaction>
+  <result type="1">
+   <title>
+    <narrative xml:lang="EN">CSH-I1 Unconditional and unrestricted cash</narrative>
+   </title>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of people benefitting from unconditional and unrestricted cash transfers</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Three rounds of MPC to 350 HH</narrative>
+    </description>
+    <baseline iso-date="2022-01-01" value="0" year="2022"></baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2023-12-31"></period-end>
+     <target value="647">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2023-12-31"></period-end>
+     <target value="463">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2023-12-31"></period-end>
+     <target value="370">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2023-12-31"></period-end>
+     <target value="370">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
   <result type="1">
    <title>
     <narrative xml:lang="EN">FSC-I2 Availability of, access to and consumption of food</narrative>
@@ -60115,7 +60177,7 @@ GOPA: 3250 Individuals (650 HH)</narrative>
     </period>
    </indicator>
   </result>
-  <result aggregation-status="1" type="1">
+  <result type="1">
    <title>
     <narrative xml:lang="EN">ACC-I1 Participation</narrative>
    </title>
@@ -60126,6 +60188,7 @@ GOPA: 3250 Individuals (650 HH)</narrative>
     <description>
      <narrative xml:lang="EN">Focus group discussions, Assessments, PDM surveys</narrative>
     </description>
+    <reference code="ACC-I2" indicator-uri="https://dutchrelief.org/" vocabulary="99"></reference>
     <baseline iso-date="2023-02-11" value="0" year="2023"></baseline>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
