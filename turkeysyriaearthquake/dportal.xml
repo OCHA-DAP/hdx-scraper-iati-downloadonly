@@ -58493,8 +58493,8 @@ Through this project, the International Organization for Migration (IOM) is cont
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="unhcr-2022" dstore:index="102" hierarchy="3" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:unhcr="http://reporting.unhcr.org/">
-  <iati-identifier>XM-DAC-41121-2022-MENA-SYR</iati-identifier>
+ <iati-activity default-currency="USD" dstore:dataset="unhcr-2023" dstore:index="105" hierarchy="3" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:unhcr="http://reporting.unhcr.org/">
+  <iati-identifier>XM-DAC-41121-2023-MENA-SYR</iati-identifier>
   <reporting-org ref="XM-DAC-41121" type="40">
    <narrative xml:lang="EN">United Nations High Commissioner for Refugees (UNHCR)</narrative>
   </reporting-org>
@@ -58504,22 +58504,16 @@ Through this project, the International Organization for Migration (IOM) is cont
    <narrative xml:lang="AR">&#x639;&#x645;&#x644;&#x64A;&#x629; &#x627;&#x644;&#x645;&#x641;&#x648;&#x636;&#x64A;&#x629; &#x641;&#x64A; &#x627;&#x644;&#x645;&#x645;&#x644;&#x643;&#x629; &#x627;&#x644;&#x639;&#x631;&#x628;&#x64A;&#x629; &#x627;&#x644;&#x633;&#x639;&#x648;&#x62F;&#x64A;&#x629;</narrative>
   </title>
   <description type="1">
-   <narrative xml:lang="FR">Cette activit&#xE9; montre les d&#xE9;tails de l&apos;op&#xE9;ration du HCR en la R&#xE9;publique arabe syrienne pour 2022, y compris le budget, les financements, les d&#xE9;penses et les r&#xE9;sultats.</narrative>
-   <narrative xml:lang="EN">This activity shows details of the UNHCR operation in the Syrian Arab Republic for 2022 including the budget, funding, expenditure and results.</narrative>
+   <narrative xml:lang="FR">Cette activit&#xE9; montre les d&#xE9;tails de l&apos;op&#xE9;ration du HCR en la R&#xE9;publique arabe syrienne pour 2023 et les ann&#xE9;es &#xE0; venir, y compris le budget, les financements, les d&#xE9;penses et les r&#xE9;sultats.</narrative>
+   <narrative xml:lang="EN">This activity shows details of the UNHCR operation in the Syrian Arab Republic for 2023 and future years including the budget, funding, expenditure and results.</narrative>
   </description>
   <description type="3">
    <narrative xml:lang="FR">Le HCR, l&apos;Agence des Nations Unies pour les r&#xE9;fugi&#xE9;s, est une organisation internationale qui a pour mission de sauver des vies, de prot&#xE9;ger les droits des r&#xE9;fugi&#xE9;s et de construire un avenir meilleur pour les r&#xE9;fugi&#xE9;s, les communaut&#xE9;s d&#xE9;plac&#xE9;es et les apatrides.</narrative>
    <narrative xml:lang="EN">UNHCR, the UN Refugee Agency, is a global organisation dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.</narrative>
    <narrative xml:lang="AR">&#x627;&#x644;&#x645;&#x641;&#x648;&#x636;&#x64A;&#x629; &#x627;&#x644;&#x633;&#x627;&#x645;&#x64A;&#x629; &#x644;&#x644;&#x623;&#x645;&#x645; &#x627;&#x644;&#x645;&#x62A;&#x62D;&#x62F;&#x629; &#x644;&#x634;&#x624;&#x648;&#x646; &#x627;&#x644;&#x644;&#x627;&#x62C;&#x626;&#x64A;&#x646; &#x647;&#x64A; &#x645;&#x646;&#x638;&#x645;&#x629; &#x639;&#x627;&#x644;&#x645;&#x64A;&#x629; &#x62A;&#x643;&#x631;&#x633; &#x639;&#x645;&#x644;&#x647;&#x627; &#x644;&#x625;&#x646;&#x642;&#x627;&#x630; &#x627;&#x644;&#x623;&#x631;&#x648;&#x627;&#x62D; &#x648;&#x62D;&#x645;&#x627;&#x64A;&#x629; &#x627;&#x644;&#x62D;&#x642;&#x648;&#x642; &#x648;&#x628;&#x646;&#x627;&#x621; &#x645;&#x633;&#x62A;&#x642;&#x628;&#x644; &#x623;&#x641;&#x636;&#x644; &#x644;&#x644;&#x627;&#x62C;&#x626;&#x64A;&#x646; &#x648;&#x627;&#x644;&#x645;&#x62C;&#x62A;&#x645;&#x639;&#x627;&#x62A; &#x627;&#x644;&#x646;&#x627;&#x632;&#x62D;&#x629; &#x642;&#x633;&#x631;&#x64B;&#x627; &#x648;&#x639;&#x62F;&#x64A;&#x645;&#x64A; &#x627;&#x644;&#x62C;&#x646;&#x633;&#x64A;&#x629;</narrative>
   </description>
-  <participating-org ref="XM-DAC-6-4" role="1" type="10">
-   <narrative xml:lang="EN">AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development</narrative>
-  </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Australia for UNHCR</narrative>
-  </participating-org>
-  <participating-org ref="XM-DAC-2-10" role="1" type="10">
-   <narrative xml:lang="EN">Belgian Development Cooperation</narrative>
   </participating-org>
   <participating-org ref="CA-3" role="1" type="10">
    <narrative xml:lang="EN">Canada - Global Affairs Canada | Affaires mondiales Canada</narrative>
@@ -58537,10 +58531,25 @@ Through this project, the International Organization for Migration (IOM) is cont
    <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
   </participating-org>
   <participating-org role="1" type="10">
-   <narrative xml:lang="EN">Government of Qatar</narrative>
+   <narrative xml:lang="EN">Government of Colombia</narrative>
+  </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Government of Cyprus</narrative>
+  </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Government of Kuwait</narrative>
+  </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Government of Malta</narrative>
+  </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Government of Spain</narrative>
   </participating-org>
   <participating-org role="1" type="10">
    <narrative xml:lang="EN">Government of the Russian Federation</narrative>
+  </participating-org>
+  <participating-org ref="XM-DAC-576" role="1" type="10">
+   <narrative xml:lang="EN">Government of the United Arab Emirates</narrative>
   </participating-org>
   <participating-org role="1" type="10">
    <narrative xml:lang="EN">Governmental donors of unearmarked and flexible funds</narrative>
@@ -58554,9 +58563,6 @@ Through this project, the International Organization for Migration (IOM) is cont
   <participating-org ref="XM-DAC-701-2" role="1" type="10">
    <narrative xml:lang="EN">Ministry of Foreign Affairs of Japan</narrative>
   </participating-org>
-  <participating-org ref="XM-DAC-3-1" role="1" type="10">
-   <narrative xml:lang="EN">Ministry of Foreign Affairs, Denmark</narrative>
-  </participating-org>
   <participating-org ref="NO-BRC-971277882" role="1" type="10">
    <narrative xml:lang="EN">Norad - Norwegian Agency for Development Cooperation</narrative>
   </participating-org>
@@ -58565,9 +58571,6 @@ Through this project, the International Organization for Migration (IOM) is cont
   </participating-org>
   <participating-org role="1" type="70">
    <narrative xml:lang="EN">Private donors</narrative>
-  </participating-org>
-  <participating-org ref="KR-GOV-010" role="1" type="10">
-   <narrative xml:lang="EN">Republic of Korea</narrative>
   </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Sweden for UNHCR</narrative>
@@ -58600,8 +58603,8 @@ Through this project, the International Organization for Migration (IOM) is cont
    <narrative xml:lang="EN">United States</narrative>
   </participating-org>
   <activity-status code="2"></activity-status>
-  <activity-date iso-date="2022-01-01" type="1"></activity-date>
-  <activity-date iso-date="2022-01-01" type="2"></activity-date>
+  <activity-date iso-date="2023-01-01" type="1"></activity-date>
+  <activity-date iso-date="2023-01-01" type="2"></activity-date>
   <activity-date iso-date="2023-12-31" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
@@ -58699,147 +58702,110 @@ Through this project, the International Organization for Migration (IOM) is cont
    <exactness code="1"></exactness>
    <location-class code="3"></location-class>
   </location>
-  <sector code="OA1" percentage="0.54" vocabulary="98">
+  <sector code="OA1" percentage="7.75" vocabulary="98">
    <narrative xml:lang="EN">Access to Territory, Registration and Documentation</narrative>
   </sector>
-  <sector code="IA1" percentage="17.37" vocabulary="99">
+  <sector code="IA1" percentage="8" vocabulary="99">
    <narrative xml:lang="EN">Attaining Favorable Protection Environments</narrative>
   </sector>
-  <sector code="72011" percentage="2.64" vocabulary="1">
+  <sector code="72011" percentage="4.25" vocabulary="1">
    <narrative xml:lang="EN">Basic Health Care Services in Emergencies</narrative>
   </sector>
-  <sector code="5403" percentage="0.85" vocabulary="10">
+  <sector code="5403" percentage="0.92" vocabulary="10">
    <narrative xml:lang="EN">Child Protection</narrative>
   </sector>
-  <sector code="OA5" percentage="0.85" vocabulary="98">
+  <sector code="OA5" percentage="0.9" vocabulary="98">
    <narrative xml:lang="EN">Child Protection</narrative>
   </sector>
-  <sector code="OA12" percentage="1.15" vocabulary="98">
+  <sector code="OA12" percentage="2.08" vocabulary="98">
    <narrative xml:lang="EN">Clean Water, Sanitation and Hygiene</narrative>
   </sector>
-  <sector code="OA7" percentage="7.68" vocabulary="98">
+  <sector code="OA7" percentage="7.33" vocabulary="98">
    <narrative xml:lang="EN">Community Engagement and Women&apos;s Empowerment</narrative>
   </sector>
-  <sector code="2" percentage="5.9" vocabulary="10">
+  <sector code="2" percentage="0.29" vocabulary="10">
    <narrative xml:lang="EN">Early Recovery</narrative>
   </sector>
-  <sector code="72012" percentage="2.86" vocabulary="1">
+  <sector code="72012" percentage="2.97" vocabulary="1">
    <narrative xml:lang="EN">Education in emergencies</narrative>
   </sector>
-  <sector code="OA11" percentage="2.86" vocabulary="98">
+  <sector code="3" percentage="3.05" vocabulary="10">
    <narrative xml:lang="EN">Education</narrative>
   </sector>
-  <sector code="4" percentage="60.53" vocabulary="10">
+  <sector code="OA11" percentage="2.97" vocabulary="98">
+   <narrative xml:lang="EN">Education</narrative>
+  </sector>
+  <sector code="4" percentage="67.8" vocabulary="10">
    <narrative xml:lang="EN">Emergency Shelter and NFI</narrative>
   </sector>
-  <sector code="IA3" percentage="17.04" vocabulary="99">
+  <sector code="IA3" percentage="19.28" vocabulary="99">
    <narrative xml:lang="EN">Empowering Communities and Achieving Gender Equality</narrative>
   </sector>
-  <sector code="EA20" percentage="0.17" vocabulary="98">
+  <sector code="EA20" percentage="0.21" vocabulary="98">
    <narrative xml:lang="EN">External Engagement and Resource Mobilization</narrative>
   </sector>
-  <sector code="5404" percentage="0.95" vocabulary="10">
+  <sector code="6" percentage="4.66" vocabulary="10">
+   <narrative xml:lang="EN">Food Security</narrative>
+  </sector>
+  <sector code="5404" percentage="1.07" vocabulary="10">
    <narrative xml:lang="EN">Gender Based Violence</narrative>
   </sector>
-  <sector code="7" percentage="5.51" vocabulary="10">
+  <sector code="7" percentage="4.36" vocabulary="10">
    <narrative xml:lang="EN">Health</narrative>
   </sector>
-  <sector code="OA10" percentage="2.63" vocabulary="98">
+  <sector code="OA10" percentage="4.25" vocabulary="98">
    <narrative xml:lang="EN">Healthy Lives</narrative>
   </sector>
   <sector code="E02" percentage="100" vocabulary="12">
    <narrative xml:lang="EN">Humanitarian Assistance</narrative>
   </sector>
-  <sector code="72010" percentage="94.27" vocabulary="1">
+  <sector code="72010" percentage="90.29" vocabulary="1">
    <narrative xml:lang="EN">Material relief assistance and services</narrative>
   </sector>
-  <sector code="OA3" percentage="0.31" vocabulary="98">
+  <sector code="OA3" percentage="0.21" vocabulary="98">
    <narrative xml:lang="EN">Protection Policy and Law</narrative>
   </sector>
-  <sector code="10" percentage="25.11" vocabulary="10">
+  <sector code="10" percentage="15.72" vocabulary="10">
    <narrative xml:lang="EN">Protection</narrative>
   </sector>
-  <sector code="IA2" percentage="64.18" vocabulary="99">
+  <sector code="IA2" percentage="72.44" vocabulary="99">
    <narrative xml:lang="EN">Realizing Basic Rights in Safe Environments</narrative>
   </sector>
-  <sector code="72050" percentage="0.23" vocabulary="1">
+  <sector code="72050" percentage="2.49" vocabulary="1">
    <narrative xml:lang="EN">Relief co-ordination and support services</narrative>
   </sector>
   <sector code="OA15" percentage="0.02" vocabulary="98">
    <narrative xml:lang="EN">Resettlement and Complementary Pathways</narrative>
   </sector>
-  <sector code="OA6" percentage="16.48" vocabulary="98">
-   <narrative xml:lang="EN">Safety and Access to Justice</narrative>
-  </sector>
-  <sector code="IA4" percentage="1.41" vocabulary="99">
+  <sector code="IA4" percentage="0.28" vocabulary="99">
    <narrative xml:lang="EN">Securing Solutions</narrative>
   </sector>
-  <sector code="OA13" percentage="4.48" vocabulary="98">
+  <sector code="OA13" percentage="4.55" vocabulary="98">
    <narrative xml:lang="EN">Self Reliance, Economic Inclusion and Livelihoods</narrative>
   </sector>
-  <sector code="OA4" percentage="0.95" vocabulary="98">
+  <sector code="OA4" percentage="1.04" vocabulary="98">
    <narrative xml:lang="EN">Sexual and Gender-based Violence</narrative>
   </sector>
   <sector code="OA2" percentage="0.04" vocabulary="98">
    <narrative xml:lang="EN">Status Determination</narrative>
   </sector>
-  <sector code="OA9" percentage="13" vocabulary="98">
+  <sector code="OA9" percentage="16.48" vocabulary="98">
    <narrative xml:lang="EN">Sustainable Housing and Settlements</narrative>
   </sector>
-  <sector code="EA17" percentage="0.06" vocabulary="98">
+  <sector code="EA17" percentage="2.28" vocabulary="98">
    <narrative xml:lang="EN">Systems and Processes</narrative>
   </sector>
-  <sector code="OA14" percentage="1.39" vocabulary="98">
+  <sector code="OA14" percentage="0.26" vocabulary="98">
    <narrative xml:lang="EN">Voluntary Repatriation and Sustainable Reintegration</narrative>
   </sector>
-  <sector code="11" percentage="1.15" vocabulary="10">
+  <sector code="11" percentage="2.13" vocabulary="10">
    <narrative xml:lang="EN">Water Sanitation Hygiene</narrative>
   </sector>
-  <sector code="OA8" percentage="47.39" vocabulary="98">
+  <sector code="OA8" percentage="49.63" vocabulary="98">
    <narrative xml:lang="EN">Well-Being and Basic Needs</narrative>
   </sector>
-  <tag code="1" vocabulary="2">
-   <narrative xml:lang="EN">01. No poverty</narrative>
-  </tag>
-  <tag code="3" vocabulary="2">
-   <narrative xml:lang="EN">03. Good health and well-being</narrative>
-  </tag>
-  <tag code="4" vocabulary="2">
-   <narrative xml:lang="EN">04. Quality education</narrative>
-  </tag>
-  <tag code="5" vocabulary="2">
-   <narrative xml:lang="EN">05. Gender equality</narrative>
-  </tag>
-  <tag code="6" vocabulary="2">
-   <narrative xml:lang="EN">06. Clean water and sanitation</narrative>
-  </tag>
-  <tag code="8" vocabulary="2">
-   <narrative xml:lang="EN">08. Decent work and economic growth</narrative>
-  </tag>
-  <tag code="10" vocabulary="2">
-   <narrative xml:lang="EN">10. Reduced inequalities</narrative>
-  </tag>
-  <tag code="11" vocabulary="2">
-   <narrative xml:lang="EN">11. Sustainable cities and communities</narrative>
-  </tag>
-  <tag code="16" vocabulary="2">
-   <narrative xml:lang="EN">16. Peace, justice and strong institutions</narrative>
-  </tag>
-  <tag code="17" vocabulary="2">
-   <narrative xml:lang="EN">17. Partnerships for the goals</narrative>
-  </tag>
-  <humanitarian-scope code="GLOBAL-APPEAL-2022" type="2" vocabulary="99" vocabulary-uri="http://reporting.unhcr.org/publications">
-   <narrative xml:lang="FR">Appel global 2022</narrative>
-   <narrative xml:lang="EN">Global Appeal 2022</narrative>
-  </humanitarian-scope>
-  <humanitarian-scope code="SYRIA-3RP-REGIONAL-STRATEGIC-OVERVIEW-2021-2022" type="2" vocabulary="99" vocabulary-uri="http://reporting.unhcr.org/publications">
-   <narrative xml:lang="EN">Syria 3RP Regional Strategic Overview 2021-2022</narrative>
-  </humanitarian-scope>
   <humanitarian-scope code="HSYR22" type="2" vocabulary="2-1" vocabulary-uri="https://reporting.unhcr.org/publications">
    <narrative xml:lang="EN">Syria Humanitarian Response Plan 2022 - 2023</narrative>
-  </humanitarian-scope>
-  <humanitarian-scope code="RSYR22" type="2" vocabulary="2-1" vocabulary-uri="https://reporting.unhcr.org/publications">
-   <narrative xml:lang="EN">Syria Refugee Response and Resilience Plan (3RP) 2022</narrative>
   </humanitarian-scope>
   <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2">
    <narrative xml:lang="EN">Syria: Earthquake</narrative>
@@ -58849,11 +58815,6 @@ Through this project, the International Organization for Migration (IOM) is cont
   <default-finance-type code="110"></default-finance-type>
   <default-aid-type code="B02" vocabulary="1"></default-aid-type>
   <default-tied-status code="5"></default-tied-status>
-  <budget status="2" type="2">
-   <period-start iso-date="2022-01-01"></period-start>
-   <period-end iso-date="2022-12-31"></period-end>
-   <value currency="USD" value-date="2021-08-30">465210516</value>
-  </budget>
   <budget status="2" type="1">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
@@ -58862,90 +58823,174 @@ Through this project, the International Organization for Migration (IOM) is cont
   <budget status="2" type="2">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2023-05-22">504295122</value>
+   <value currency="USD" value-date="2023-06-19">504295122</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction ref="E0010">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2021-07-23"></transaction-date>
-   <value currency="EUR" value-date="2021-07-23">2954060</value>
-   <provider-org provider-activity-id="XM-DAC-5-7-6610732" ref="XM-DAC-5-7" type="10">
-    <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
-   </provider-org>
-   <aid-type code="2" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>3525131.265</unhcr:value-USD>
-  </transaction>
-  <transaction ref="E0010">
-   <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2021-11-24"></transaction-date>
-   <value currency="EUR" value-date="2021-11-24">1969373</value>
+   <value currency="EUR" value-date="2021-11-24">5332499.73</value>
    <provider-org provider-activity-id="XM-DAC-5-7-6610732" ref="XM-DAC-5-7" type="10">
     <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
    </provider-org>
    <aid-type code="2" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>2258455.276</unhcr:value-USD>
+   <unhcr:value-USD>6115251.984</unhcr:value-USD>
   </transaction>
   <transaction ref="E0010">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-11-08"></transaction-date>
-   <value currency="EUR" value-date="2022-11-08">17724357</value>
+   <value currency="EUR" value-date="2022-11-08">10665000.52</value>
    <provider-org provider-activity-id="XM-DAC-5-7-6610732" ref="XM-DAC-5-7" type="10">
     <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
    </provider-org>
    <aid-type code="2" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>17671342.971</unhcr:value-USD>
+   <unhcr:value-USD>10633101.216</unhcr:value-USD>
   </transaction>
-  <transaction ref="E0010">
+  <transaction ref="F0002">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-12-05"></transaction-date>
-   <value currency="EUR" value-date="2022-12-05">8172669.42</value>
-   <provider-org provider-activity-id="XM-DAC-5-7-6610732" ref="XM-DAC-5-7" type="10">
-    <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
-   </provider-org>
-   <aid-type code="2" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>8451571.272</unhcr:value-USD>
-  </transaction>
-  <transaction ref="E0003">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2020-12-17"></transaction-date>
-   <value currency="EUR" value-date="2020-12-17">4923433.37</value>
-   <provider-org ref="XM-DAC-5-7" type="10">
-    <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
-   </provider-org>
-   <aid-type code="2" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>5882238.196</unhcr:value-USD>
-  </transaction>
-  <transaction ref="F0306">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-10-24"></transaction-date>
-   <value currency="EUR" value-date="2022-10-24">1000000</value>
-   <provider-org provider-activity-id="XM-DAC-6-4-012691-01-0" ref="XM-DAC-6-4" type="10">
-    <narrative xml:lang="EN">AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development</narrative>
+   <transaction-date iso-date="2021-11-09"></transaction-date>
+   <value currency="EUR" value-date="2021-11-09">500000</value>
+   <description>
+    <narrative xml:lang="EN">For 2024</narrative>
+   </description>
+   <provider-org ref="XM-DAC-22-2" type="10">
+    <narrative xml:lang="EN">Luxembourg Aid &amp; Development</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>968992.248</unhcr:value-USD>
+   <unhcr:value-USD>582750.583</unhcr:value-USD>
+  </transaction>
+  <transaction ref="F0002">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2021-11-09"></transaction-date>
+   <value currency="EUR" value-date="2021-11-09">500000</value>
+   <description>
+    <narrative xml:lang="EN">For 2025</narrative>
+   </description>
+   <provider-org ref="XM-DAC-22-2" type="10">
+    <narrative xml:lang="EN">Luxembourg Aid &amp; Development</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>582750.583</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-02-28"></transaction-date>
+   <value currency="USD" value-date="2023-02-28">390077</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>390076.604</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">6311975</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>6311974.968</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-04-30"></transaction-date>
+   <value currency="USD" value-date="2023-04-30">4540</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>4539.769</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-31"></transaction-date>
+   <value currency="USD" value-date="2023-05-31">220407</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>220406.752</unhcr:value-USD>
   </transaction>
   <transaction ref="F0191">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-06-02"></transaction-date>
-   <value currency="CAD" value-date="2022-06-02">8000000</value>
+   <value currency="CAD" value-date="2022-06-02">6000000</value>
    <provider-org ref="CA-3" type="10">
     <narrative xml:lang="EN">Canada - Global Affairs Canada | Affaires mondiales Canada</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>6279434.851</unhcr:value-USD>
+   <unhcr:value-USD>4709576.139</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0028">
+  <transaction ref="G0065">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2021-12-14"></transaction-date>
-   <value currency="USD" value-date="2021-12-14">500000</value>
+   <transaction-date iso-date="2023-02-28"></transaction-date>
+   <value currency="USD" value-date="2023-02-28">75000</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of Colombia</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>75000</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0128">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-26"></transaction-date>
+   <value currency="EUR" value-date="2023-05-26">250000</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of Cyprus</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>272628.135</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0079">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-03-16"></transaction-date>
+   <value currency="USD" value-date="2023-03-16">8000000</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of Kuwait</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>8000000</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0147">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-06-16"></transaction-date>
+   <value currency="EUR" value-date="2023-06-16">75000</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of Malta</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>80906.149</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0103">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-03"></transaction-date>
+   <value currency="USD" value-date="2023-05-03">500000</value>
    <provider-org type="10">
     <narrative xml:lang="EN">Government of the Russian Federation</narrative>
    </provider-org>
@@ -58964,277 +59009,237 @@ Through this project, the International Organization for Migration (IOM) is cont
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>582750.583</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0387">
+  <transaction ref="G0018">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-12-27"></transaction-date>
-   <value currency="DKK" value-date="2022-12-27">13000000</value>
-   <provider-org ref="XM-DAC-3-1" type="10">
-    <narrative xml:lang="EN">Ministry of Foreign Affairs, Denmark</narrative>
+   <transaction-date iso-date="2022-12-14"></transaction-date>
+   <value currency="USD" value-date="2022-12-14">2962962</value>
+   <provider-org ref="XM-DAC-701-2" type="10">
+    <narrative xml:lang="EN">Ministry of Foreign Affairs of Japan</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1862731.05</unhcr:value-USD>
+   <unhcr:value-USD>2962962</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0163">
+  <transaction ref="G0064">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-05-25"></transaction-date>
-   <value currency="NOK" value-date="2022-05-25">25000000</value>
+   <transaction-date iso-date="2023-02-24"></transaction-date>
+   <value currency="USD" value-date="2023-02-24">1000035</value>
+   <provider-org ref="XM-DAC-701-2" type="10">
+    <narrative xml:lang="EN">Ministry of Foreign Affairs of Japan</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>1000035</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0115">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-17"></transaction-date>
+   <value currency="USD" value-date="2023-05-17">750000</value>
+   <provider-org ref="XM-DAC-701-2" type="10">
+    <narrative xml:lang="EN">Ministry of Foreign Affairs of Japan</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>750000</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0063">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-02-28"></transaction-date>
+   <value currency="NOK" value-date="2023-02-28">6000000</value>
    <provider-org ref="NO-BRC-971277882" type="10">
     <narrative xml:lang="EN">Norad - Norwegian Agency for Development Cooperation</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>2590942.067</unhcr:value-USD>
+   <unhcr:value-USD>593589.237</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0378">
+  <transaction ref="G0036">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-12-08"></transaction-date>
-   <value currency="USD" value-date="2022-12-08">1421234.94</value>
-   <provider-org provider-activity-id="XM-OCHA-CBPF-SYR-22/DDA-3558/RA2/S/NFI/UN/23905" ref="XM-OCHA-CBPF" type="40">
-    <narrative xml:lang="EN">OCHA Country Based Pooled Funds</narrative>
-   </provider-org>
-   <aid-type code="3" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1421234.94</unhcr:value-USD>
-  </transaction>
-  <transaction ref="F0235">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-07-19"></transaction-date>
-   <value currency="USD" value-date="2022-07-19">700000</value>
-   <provider-org ref="KR-GOV-010" type="10">
-    <narrative xml:lang="EN">Republic of Korea</narrative>
-   </provider-org>
-   <aid-type code="3" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>700000</unhcr:value-USD>
-  </transaction>
-  <transaction ref="C0026">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2019-07-31"></transaction-date>
-   <value currency="CHF" value-date="2019-07-31">1000000</value>
+   <transaction-date iso-date="2022-12-14"></transaction-date>
+   <value currency="CHF" value-date="2022-12-14">1000000</value>
    <provider-org ref="CH-4" type="10">
     <narrative xml:lang="EN">Switzerland - Swiss Agency for Development and Cooperation (SDC)</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1023541.453</unhcr:value-USD>
+   <unhcr:value-USD>1049317.943</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0155">
+  <transaction ref="G0080">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-04-30"></transaction-date>
-   <value currency="USD" value-date="2022-04-30">1000000</value>
+   <transaction-date iso-date="2023-03-28"></transaction-date>
+   <value currency="USD" value-date="2023-03-28">11100000</value>
    <provider-org ref="US-USAGOV" type="10">
     <narrative xml:lang="EN">United States</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1000000</unhcr:value-USD>
+   <unhcr:value-USD>11100000</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0154">
+  <transaction ref="G0081">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-04-30"></transaction-date>
-   <value currency="USD" value-date="2022-04-30">19600000</value>
+   <transaction-date iso-date="2023-03-28"></transaction-date>
+   <value currency="USD" value-date="2023-03-28">500000</value>
    <provider-org ref="US-USAGOV" type="10">
     <narrative xml:lang="EN">United States</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>19600000</unhcr:value-USD>
+   <unhcr:value-USD>500000</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0158">
+  <transaction ref="G0093">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-04-30"></transaction-date>
-   <value currency="USD" value-date="2022-04-30">3700000</value>
+   <transaction-date iso-date="2023-04-12"></transaction-date>
+   <value currency="USD" value-date="2023-04-12">8260000</value>
    <provider-org ref="US-USAGOV" type="10">
     <narrative xml:lang="EN">United States</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>3700000</unhcr:value-USD>
+   <unhcr:value-USD>8260000</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0154">
+  <transaction ref="G0081">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-05-20"></transaction-date>
-   <value currency="USD" value-date="2022-05-20">30300000</value>
+   <transaction-date iso-date="2023-05-26"></transaction-date>
+   <value currency="USD" value-date="2023-05-26">1800000</value>
    <provider-org ref="US-USAGOV" type="10">
     <narrative xml:lang="EN">United States</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>30300000</unhcr:value-USD>
+   <unhcr:value-USD>1800000</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0154">
+  <transaction ref="G0080">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-07-29"></transaction-date>
-   <value currency="USD" value-date="2022-07-29">17500000</value>
+   <transaction-date iso-date="2023-05-26"></transaction-date>
+   <value currency="USD" value-date="2023-05-26">35600000</value>
    <provider-org ref="US-USAGOV" type="10">
     <narrative xml:lang="EN">United States</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>17500000</unhcr:value-USD>
+   <unhcr:value-USD>35600000</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0155">
+  <transaction>
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-07-29"></transaction-date>
-   <value currency="USD" value-date="2022-07-29">2300000</value>
-   <provider-org ref="US-USAGOV" type="10">
-    <narrative xml:lang="EN">United States</narrative>
-   </provider-org>
-   <aid-type code="3" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>2300000</unhcr:value-USD>
-  </transaction>
-  <transaction ref="F0154">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-09-27"></transaction-date>
-   <value currency="USD" value-date="2022-09-27">13300000</value>
-   <provider-org ref="US-USAGOV" type="10">
-    <narrative xml:lang="EN">United States</narrative>
-   </provider-org>
-   <aid-type code="3" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>13300000</unhcr:value-USD>
-  </transaction>
-  <transaction ref="F0155">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-09-27"></transaction-date>
-   <value currency="USD" value-date="2022-09-27">700000</value>
-   <provider-org ref="US-USAGOV" type="10">
-    <narrative xml:lang="EN">United States</narrative>
-   </provider-org>
-   <aid-type code="3" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>700000</unhcr:value-USD>
-  </transaction>
-  <transaction ref="F0268">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-09-27"></transaction-date>
-   <value currency="EUR" value-date="2022-09-27">2000000</value>
-   <provider-org provider-activity-id="XM-DAC-2-10-4145" ref="XM-DAC-2-10" type="10">
-    <narrative xml:lang="EN">Belgian Development Cooperation</narrative>
+   <transaction-date iso-date="2023-02-28"></transaction-date>
+   <value currency="USD" value-date="2023-02-28">1893</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>2006018.054</unhcr:value-USD>
+   <unhcr:value-USD>1893.353</unhcr:value-USD>
   </transaction>
-  <transaction ref="F3016">
+  <transaction>
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-05-24"></transaction-date>
-   <value currency="EUR" value-date="2022-05-24">1998124</value>
-   <provider-org provider-activity-id="XI-IATI-EC_ECHO-ECHO/SYR/BUD/2022/91008" ref="XI-IATI-EC_ECHO" type="15">
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">2111328</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>2111327.596</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-04-30"></transaction-date>
+   <value currency="USD" value-date="2023-04-30">228048</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>228048.406</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-31"></transaction-date>
+   <value currency="USD" value-date="2023-05-31">18988</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>18987.572</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G3019">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-09"></transaction-date>
+   <value currency="EUR" value-date="2023-05-09">2497655</value>
+   <provider-org ref="XI-IATI-EC_ECHO" type="15">
     <narrative xml:lang="EN">European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>2109951.425</unhcr:value-USD>
+   <unhcr:value-USD>2747695.27</unhcr:value-USD>
   </transaction>
-  <transaction ref="D0175">
+  <transaction ref="G0095">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2020-06-12"></transaction-date>
-   <value currency="USD" value-date="2020-06-12">1062250.17</value>
+   <transaction-date iso-date="2023-04-18"></transaction-date>
+   <value currency="EUR" value-date="2023-04-18">290000</value>
    <provider-org type="10">
-    <narrative xml:lang="EN">Government of Qatar</narrative>
+    <narrative xml:lang="EN">Government of Spain</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1062250.17</unhcr:value-USD>
+   <unhcr:value-USD>318331.504</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0041">
+  <transaction ref="GK009">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-01-04"></transaction-date>
-   <value currency="USD" value-date="2022-01-04">4500000</value>
-   <provider-org ref="XM-DAC-701-2" type="10">
-    <narrative xml:lang="EN">Ministry of Foreign Affairs of Japan</narrative>
+   <transaction-date iso-date="2023-03-29"></transaction-date>
+   <value currency="USD" value-date="2023-03-29">140000</value>
+   <provider-org ref="XM-DAC-576" type="10">
+    <narrative xml:lang="EN">Government of the United Arab Emirates</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>4500000</unhcr:value-USD>
+   <unhcr:value-USD>140000</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0071">
+  <transaction ref="G0087">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-03-03"></transaction-date>
-   <value currency="USD" value-date="2022-03-03">925925</value>
-   <provider-org ref="XM-DAC-701-2" type="10">
-    <narrative xml:lang="EN">Ministry of Foreign Affairs of Japan</narrative>
-   </provider-org>
-   <aid-type code="4" vocabulary="2"></aid-type>
-   <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>925925</unhcr:value-USD>
-  </transaction>
-  <transaction ref="F0276">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-09-22"></transaction-date>
-   <value currency="USD" value-date="2022-09-22">799992.86</value>
-   <provider-org provider-activity-id="XM-OCHA-CBPF-SYR-22/DDA-3558/SA1/S/NFI/UN/22895" ref="XM-OCHA-CBPF" type="40">
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">905250</value>
+   <provider-org ref="XM-OCHA-CBPF" type="40">
     <narrative xml:lang="EN">OCHA Country Based Pooled Funds</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>799992.86</unhcr:value-USD>
+   <unhcr:value-USD>905250</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0144">
+  <transaction ref="G0058">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-04-22"></transaction-date>
-   <value currency="USD" value-date="2022-04-22">2999999</value>
-   <provider-org provider-activity-id="XM-OCHA-CERF-22-UF-HCR-012" ref="XM-OCHA-CERF" type="40">
+   <transaction-date iso-date="2023-02-20"></transaction-date>
+   <value currency="USD" value-date="2023-02-20">1500053</value>
+   <provider-org provider-activity-id="XM-OCHA-CERF-23-RR-HCR-005" ref="XM-OCHA-CERF" type="40">
     <narrative xml:lang="EN">United Nations Central Emergency Response Fund (CERF)</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>2999999</unhcr:value-USD>
+   <unhcr:value-USD>1500053</unhcr:value-USD>
   </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2022-12-31"></transaction-date>
-   <value currency="USD" value-date="2022-12-31">139600.91</value>
-   <description>
-    <narrative xml:lang="EN">Total disbursement to Governmental partners for 2022</narrative>
-   </description>
-   <receiver-org type="10">
-    <narrative xml:lang="EN">Governmental</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2022-12-31"></transaction-date>
-   <value currency="USD" value-date="2022-12-31">25617026.36</value>
-   <description>
-    <narrative xml:lang="EN">Total disbursement to International NGO partners for 2022</narrative>
-   </description>
-   <receiver-org type="21">
-    <narrative xml:lang="EN">International NGO</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2022-12-31"></transaction-date>
-   <value currency="USD" value-date="2022-12-31">964440</value>
-   <description>
-    <narrative xml:lang="EN">Total disbursement to Multilateral partners for 2022</narrative>
-   </description>
-   <receiver-org type="40">
-    <narrative xml:lang="EN">Multilateral</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2022-12-31"></transaction-date>
-   <value currency="USD" value-date="2022-12-31">49591309.09</value>
-   <description>
-    <narrative xml:lang="EN">Total disbursement to Partner country based NGO partners for 2022</narrative>
-   </description>
-   <receiver-org type="24">
-    <narrative xml:lang="EN">Partner country based NGO</narrative>
-   </receiver-org>
-  </transaction>
-  <transaction>
-   <transaction-type code="4"></transaction-type>
-   <transaction-date iso-date="2022-12-31"></transaction-date>
-   <value currency="USD" value-date="2022-12-31">81041698.53</value>
-   <description>
-    <narrative xml:lang="EN">Total expenditure for 2022</narrative>
-   </description>
+  <transaction ref="G0100">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-04-28"></transaction-date>
+   <value currency="USD" value-date="2023-04-28">2500002</value>
+   <provider-org provider-activity-id="XM-OCHA-CERF-23-UF-HCR-008" ref="XM-OCHA-CERF" type="40">
+    <narrative xml:lang="EN">United Nations Central Emergency Response Fund (CERF)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>2500002</unhcr:value-USD>
   </transaction>
   <document-link format="TEXT/HTML" url="https://reporting.unhcr.org/syria">
    <title>
@@ -59242,7 +59247,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="A12"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://www.unhcr.org/ar/">
    <title>
@@ -59250,7 +59255,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="B16"></category>
    <language code="AR"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://help.unhcr.org/">
    <title>
@@ -59258,7 +59263,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://www.unhcr.org/">
    <title>
@@ -59266,7 +59271,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://reporting.unhcr.org/iati">
    <title>
@@ -59274,15 +59279,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://www.unhcr.org/search?page=search&amp;skip=0&amp;docid=&amp;cid=49aea93a7d&amp;coi=SYR&amp;comid=4a098fdd6">
-   <title>
-    <narrative xml:lang="EN">Latest News</narrative>
-   </title>
-   <category code="B17"></category>
-   <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://refugee-funding-tracker.org/">
    <title>
@@ -59290,25 +59287,24 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
-  <related-activity ref="XM-DAC-41121-2021-MENA-SYR" type="3"></related-activity>
-  <related-activity ref="XM-DAC-41121-2022-MENA" type="1"></related-activity>
-  <related-activity ref="XM-DAC-41121-2023-MENA-SYR" type="3"></related-activity>
+  <related-activity ref="XM-DAC-41121-2022-MENA-SYR" type="3"></related-activity>
+  <related-activity ref="XM-DAC-41121-2023-MENA" type="1"></related-activity>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="unhcr-2022" dstore:index="82" hierarchy="3" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:unhcr="http://reporting.unhcr.org/">
-  <iati-identifier>XM-DAC-41121-2022-EUR-TUR</iati-identifier>
+ <iati-activity default-currency="USD" dstore:dataset="unhcr-2023" dstore:index="85" hierarchy="3" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:unhcr="http://reporting.unhcr.org/">
+  <iati-identifier>XM-DAC-41121-2023-EUR-TUR</iati-identifier>
   <reporting-org ref="XM-DAC-41121" type="40">
    <narrative xml:lang="EN">United Nations High Commissioner for Refugees (UNHCR)</narrative>
   </reporting-org>
   <title>
    <narrative xml:lang="FR">L&apos;op&#xE9;ration du HCR en Turquie</narrative>
-   <narrative xml:lang="EN">UNHCR operation in T&#xFC;rkiye</narrative>
+   <narrative xml:lang="EN">UNHCR operation in Turkey</narrative>
   </title>
   <description type="1">
-   <narrative xml:lang="FR">Cette activit&#xE9; montre les d&#xE9;tails de l&apos;op&#xE9;ration du HCR en Turquie pour 2022, y compris le budget, les financements, les d&#xE9;penses et les r&#xE9;sultats.</narrative>
-   <narrative xml:lang="EN">This activity shows details of the UNHCR operation in T&#xFC;rkiye for 2022 including the budget, funding, expenditure and results.</narrative>
+   <narrative xml:lang="FR">Cette activit&#xE9; montre les d&#xE9;tails de l&apos;op&#xE9;ration du HCR en Turquie pour 2023 et les ann&#xE9;es &#xE0; venir, y compris le budget, les financements, les d&#xE9;penses et les r&#xE9;sultats.</narrative>
+   <narrative xml:lang="EN">This activity shows details of the UNHCR operation in Turkey for 2023 and future years including the budget, funding, expenditure and results.</narrative>
   </description>
   <description type="3">
    <narrative xml:lang="FR">Le HCR, l&apos;Agence des Nations Unies pour les r&#xE9;fugi&#xE9;s, est une organisation internationale qui a pour mission de sauver des vies, de prot&#xE9;ger les droits des r&#xE9;fugi&#xE9;s et de construire un avenir meilleur pour les r&#xE9;fugi&#xE9;s, les communaut&#xE9;s d&#xE9;plac&#xE9;es et les apatrides.</narrative>
@@ -59336,10 +59332,28 @@ Through this project, the International Organization for Migration (IOM) is cont
    <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
   </participating-org>
   <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Government of Denmark</narrative>
+  </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Government of Kuwait</narrative>
+  </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Government of Qatar</narrative>
+  </participating-org>
+  <participating-org ref="XM-DAC-576" role="1" type="10">
+   <narrative xml:lang="EN">Government of the United Arab Emirates</narrative>
+  </participating-org>
+  <participating-org role="1" type="10">
    <narrative xml:lang="EN">Governmental donors of unearmarked and flexible funds</narrative>
+  </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Hashemite Kingdom of Jordan</narrative>
   </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Japan for UNHCR</narrative>
+  </participating-org>
+  <participating-org ref="XM-DAC-701-2" role="1" type="10">
+   <narrative xml:lang="EN">Ministry of Foreign Affairs of Japan</narrative>
   </participating-org>
   <participating-org ref="XM-DAC-3-1" role="1" type="10">
    <narrative xml:lang="EN">Ministry of Foreign Affairs, Denmark</narrative>
@@ -59350,14 +59364,17 @@ Through this project, the International Organization for Migration (IOM) is cont
   <participating-org role="1" type="70">
    <narrative xml:lang="EN">Private donors</narrative>
   </participating-org>
-  <participating-org ref="KR-GOV-010" role="1" type="10">
-   <narrative xml:lang="EN">Republic of Korea</narrative>
-  </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Sweden for UNHCR</narrative>
   </participating-org>
+  <participating-org ref="SE-0" role="1" type="10">
+   <narrative xml:lang="EN">Sweden, through Swedish International Development Cooperation Agency (Sida)</narrative>
+  </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Switzerland for UNHCR</narrative>
+  </participating-org>
+  <participating-org ref="GB-GOV-1" role="1" type="10">
+   <narrative xml:lang="EN">UK - Foreign, Commonwealth and Development Office</narrative>
   </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">UK for UNHCR</narrative>
@@ -59367,6 +59384,9 @@ Through this project, the International Organization for Migration (IOM) is cont
   </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">USA for UNHCR</narrative>
+  </participating-org>
+  <participating-org ref="XM-OCHA-CERF" role="1" type="40">
+   <narrative xml:lang="EN">United Nations Central Emergency Response Fund (CERF)</narrative>
   </participating-org>
   <participating-org ref="XM-DAC-41121" role="2" type="40">
    <narrative xml:lang="EN">United Nations High Commissioner for Refugees (UNHCR)</narrative>
@@ -59378,8 +59398,8 @@ Through this project, the International Organization for Migration (IOM) is cont
    <narrative xml:lang="EN">United States</narrative>
   </participating-org>
   <activity-status code="2"></activity-status>
-  <activity-date iso-date="2022-01-01" type="1"></activity-date>
-  <activity-date iso-date="2022-01-01" type="2"></activity-date>
+  <activity-date iso-date="2023-01-01" type="1"></activity-date>
+  <activity-date iso-date="2023-01-01" type="2"></activity-date>
   <activity-date iso-date="2023-12-31" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
@@ -59491,118 +59511,93 @@ Through this project, the International Organization for Migration (IOM) is cont
    <exactness code="1"></exactness>
    <location-class code="3"></location-class>
   </location>
-  <sector code="OA1" percentage="16.96" vocabulary="98">
+  <sector code="OA1" percentage="17.23" vocabulary="98">
    <narrative xml:lang="EN">Access to Territory, Registration and Documentation</narrative>
   </sector>
-  <sector code="IA1" percentage="28.3" vocabulary="99">
+  <sector code="IA1" percentage="28.7" vocabulary="99">
    <narrative xml:lang="EN">Attaining Favorable Protection Environments</narrative>
   </sector>
-  <sector code="5403" percentage="2.56" vocabulary="10">
+  <sector code="5403" percentage="2.15" vocabulary="10">
    <narrative xml:lang="EN">Child Protection</narrative>
   </sector>
-  <sector code="OA5" percentage="2.46" vocabulary="98">
+  <sector code="OA5" percentage="2.08" vocabulary="98">
    <narrative xml:lang="EN">Child Protection</narrative>
   </sector>
-  <sector code="OA7" percentage="12.25" vocabulary="98">
+  <sector code="OA7" percentage="11.9" vocabulary="98">
    <narrative xml:lang="EN">Community Engagement and Women&apos;s Empowerment</narrative>
   </sector>
-  <sector code="2" percentage="13.4" vocabulary="10">
+  <sector code="2" percentage="4.68" vocabulary="10">
    <narrative xml:lang="EN">Early Recovery</narrative>
   </sector>
-  <sector code="72012" percentage="8.06" vocabulary="1">
+  <sector code="72012" percentage="11.12" vocabulary="1">
    <narrative xml:lang="EN">Education in emergencies</narrative>
   </sector>
-  <sector code="3" percentage="8.37" vocabulary="10">
+  <sector code="3" percentage="11.56" vocabulary="10">
    <narrative xml:lang="EN">Education</narrative>
   </sector>
-  <sector code="OA11" percentage="8.06" vocabulary="98">
+  <sector code="OA11" percentage="11.12" vocabulary="98">
    <narrative xml:lang="EN">Education</narrative>
   </sector>
-  <sector code="IA3" percentage="29.43" vocabulary="99">
+  <sector code="IA3" percentage="29.53" vocabulary="99">
    <narrative xml:lang="EN">Empowering Communities and Achieving Gender Equality</narrative>
   </sector>
-  <sector code="EA20" percentage="1.45" vocabulary="98">
+  <sector code="EA20" percentage="1.83" vocabulary="98">
    <narrative xml:lang="EN">External Engagement and Resource Mobilization</narrative>
   </sector>
-  <sector code="5404" percentage="2.12" vocabulary="10">
+  <sector code="6" percentage="6.78" vocabulary="10">
+   <narrative xml:lang="EN">Food Security</narrative>
+  </sector>
+  <sector code="5404" percentage="1.8" vocabulary="10">
    <narrative xml:lang="EN">Gender Based Violence</narrative>
   </sector>
   <sector code="E02" percentage="100" vocabulary="12">
    <narrative xml:lang="EN">Humanitarian Assistance</narrative>
   </sector>
-  <sector code="8" percentage="1.11" vocabulary="10">
+  <sector code="8" percentage="1.14" vocabulary="10">
    <narrative xml:lang="EN">Logistics</narrative>
   </sector>
-  <sector code="72010" percentage="87.18" vocabulary="1">
+  <sector code="72010" percentage="84" vocabulary="1">
    <narrative xml:lang="EN">Material relief assistance and services</narrative>
   </sector>
-  <sector code="EA18" percentage="1.07" vocabulary="98">
+  <sector code="EA18" percentage="1.09" vocabulary="98">
    <narrative xml:lang="EN">Operational Support and Supply Chain</narrative>
   </sector>
-  <sector code="OA3" percentage="1.03" vocabulary="98">
+  <sector code="OA3" percentage="1.05" vocabulary="98">
    <narrative xml:lang="EN">Protection Policy and Law</narrative>
   </sector>
-  <sector code="10" percentage="72.44" vocabulary="10">
+  <sector code="10" percentage="71.89" vocabulary="10">
    <narrative xml:lang="EN">Protection</narrative>
   </sector>
-  <sector code="IA2" percentage="38.48" vocabulary="99">
+  <sector code="IA2" percentage="37.27" vocabulary="99">
    <narrative xml:lang="EN">Realizing Basic Rights in Safe Environments</narrative>
   </sector>
-  <sector code="72050" percentage="4.76" vocabulary="1">
+  <sector code="72050" percentage="4.88" vocabulary="1">
    <narrative xml:lang="EN">Relief co-ordination and support services</narrative>
   </sector>
-  <sector code="OA15" percentage="2.14" vocabulary="98">
+  <sector code="OA15" percentage="2.29" vocabulary="98">
    <narrative xml:lang="EN">Resettlement and Complementary Pathways</narrative>
   </sector>
-  <sector code="OA6" percentage="37.69" vocabulary="98">
+  <sector code="OA6" percentage="37.09" vocabulary="98">
    <narrative xml:lang="EN">Safety and Access to Justice</narrative>
   </sector>
-  <sector code="IA4" percentage="3.79" vocabulary="99">
+  <sector code="IA4" percentage="4.5" vocabulary="99">
    <narrative xml:lang="EN">Securing Solutions</narrative>
   </sector>
-  <sector code="OA13" percentage="9.12" vocabulary="98">
+  <sector code="OA13" percentage="6.52" vocabulary="98">
    <narrative xml:lang="EN">Self Reliance, Economic Inclusion and Livelihoods</narrative>
   </sector>
-  <sector code="OA4" percentage="2.04" vocabulary="98">
+  <sector code="OA4" percentage="1.73" vocabulary="98">
    <narrative xml:lang="EN">Sexual and Gender-based Violence</narrative>
   </sector>
-  <sector code="OA2" percentage="1.85" vocabulary="98">
+  <sector code="OA2" percentage="1.9" vocabulary="98">
    <narrative xml:lang="EN">Status Determination</narrative>
   </sector>
-  <sector code="EA17" percentage="2.24" vocabulary="98">
+  <sector code="EA17" percentage="1.96" vocabulary="98">
    <narrative xml:lang="EN">Systems and Processes</narrative>
   </sector>
-  <sector code="OA14" percentage="1.64" vocabulary="98">
+  <sector code="OA14" percentage="2.21" vocabulary="98">
    <narrative xml:lang="EN">Voluntary Repatriation and Sustainable Reintegration</narrative>
   </sector>
-  <tag code="4" vocabulary="2">
-   <narrative xml:lang="EN">04. Quality education</narrative>
-  </tag>
-  <tag code="5" vocabulary="2">
-   <narrative xml:lang="EN">05. Gender equality</narrative>
-  </tag>
-  <tag code="8" vocabulary="2">
-   <narrative xml:lang="EN">08. Decent work and economic growth</narrative>
-  </tag>
-  <tag code="10" vocabulary="2">
-   <narrative xml:lang="EN">10. Reduced inequalities</narrative>
-  </tag>
-  <tag code="16" vocabulary="2">
-   <narrative xml:lang="EN">16. Peace, justice and strong institutions</narrative>
-  </tag>
-  <tag code="17" vocabulary="2">
-   <narrative xml:lang="EN">17. Partnerships for the goals</narrative>
-  </tag>
-  <humanitarian-scope code="GLOBAL-APPEAL-2022" type="2" vocabulary="99" vocabulary-uri="http://reporting.unhcr.org/publications">
-   <narrative xml:lang="FR">Appel global 2022</narrative>
-   <narrative xml:lang="EN">Global Appeal 2022</narrative>
-  </humanitarian-scope>
-  <humanitarian-scope code="SYRIA-3RP-REGIONAL-STRATEGIC-OVERVIEW-2021-2022" type="2" vocabulary="99" vocabulary-uri="http://reporting.unhcr.org/publications">
-   <narrative xml:lang="EN">Syria 3RP Regional Strategic Overview 2021-2022</narrative>
-  </humanitarian-scope>
-  <humanitarian-scope code="RSYR22" type="2" vocabulary="2-1" vocabulary-uri="https://reporting.unhcr.org/publications">
-   <narrative xml:lang="EN">Syria Refugee Response and Resilience Plan (3RP) 2022</narrative>
-  </humanitarian-scope>
   <humanitarian-scope code="EQ-2023-000015-TUR" type="1" vocabulary="1-2">
    <narrative xml:lang="EN">T&#xFC;rkiye: Earthquake</narrative>
   </humanitarian-scope>
@@ -59611,11 +59606,6 @@ Through this project, the International Organization for Migration (IOM) is cont
   <default-finance-type code="110"></default-finance-type>
   <default-aid-type code="B02" vocabulary="1"></default-aid-type>
   <default-tied-status code="5"></default-tied-status>
-  <budget status="2" type="2">
-   <period-start iso-date="2022-01-01"></period-start>
-   <period-end iso-date="2022-12-31"></period-end>
-   <value currency="USD" value-date="2021-08-30">349369846</value>
-  </budget>
   <budget status="2" type="1">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
@@ -59624,57 +59614,35 @@ Through this project, the International Organization for Migration (IOM) is cont
   <budget status="2" type="2">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2023-05-22">498500000</value>
+   <value currency="USD" value-date="2023-06-19">498500000</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction ref="E0010">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2021-07-23"></transaction-date>
-   <value currency="EUR" value-date="2021-07-23">96804</value>
-   <provider-org provider-activity-id="XM-DAC-5-7-6610732" ref="XM-DAC-5-7" type="10">
-    <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
-   </provider-org>
-   <aid-type code="2" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>115517.899</unhcr:value-USD>
-  </transaction>
-  <transaction ref="E0010">
-   <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2021-11-24"></transaction-date>
-   <value currency="EUR" value-date="2021-11-24">64537</value>
+   <value currency="EUR" value-date="2021-11-24">1667499.86</value>
    <provider-org provider-activity-id="XM-DAC-5-7-6610732" ref="XM-DAC-5-7" type="10">
     <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
    </provider-org>
    <aid-type code="2" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>74010.321</unhcr:value-USD>
+   <unhcr:value-USD>1912270.482</unhcr:value-USD>
   </transaction>
   <transaction ref="E0010">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-11-08"></transaction-date>
-   <value currency="EUR" value-date="2022-11-08">580827.28</value>
+   <value currency="EUR" value-date="2022-11-08">3335000.04</value>
    <provider-org provider-activity-id="XM-DAC-5-7-6610732" ref="XM-DAC-5-7" type="10">
     <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
    </provider-org>
    <aid-type code="2" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>579090.01</unhcr:value-USD>
+   <unhcr:value-USD>3325024.965</unhcr:value-USD>
   </transaction>
-  <transaction ref="E0003">
+  <transaction>
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2020-12-17"></transaction-date>
-   <value currency="EUR" value-date="2020-12-17">161340.97</value>
-   <provider-org ref="XM-DAC-5-7" type="10">
-    <narrative xml:lang="EN">Germany - Federal Foreign Office</narrative>
-   </provider-org>
-   <aid-type code="2" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>192761.016</unhcr:value-USD>
-  </transaction>
-  <transaction ref="F5698">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-12-31"></transaction-date>
-   <value currency="USD" value-date="2022-12-31">106496</value>
+   <transaction-date iso-date="2023-02-28"></transaction-date>
+   <value currency="USD" value-date="2023-02-28">146536</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -59683,155 +59651,247 @@ Through this project, the International Organization for Migration (IOM) is cont
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>106496.272</unhcr:value-USD>
+   <unhcr:value-USD>146535.511</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0145">
+  <transaction>
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-04-28"></transaction-date>
-   <value currency="EUR" value-date="2022-04-28">1000000</value>
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">27688</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>27688.45</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-04-30"></transaction-date>
+   <value currency="USD" value-date="2023-04-30">41</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>41.3</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-31"></transaction-date>
+   <value currency="USD" value-date="2023-05-31">351156</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>351156.039</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0092">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-04-06"></transaction-date>
+   <value currency="EUR" value-date="2023-04-06">3500000</value>
    <provider-org ref="FR-6" type="10">
     <narrative xml:lang="EN">France - Ministry for Europe and Foreign Affairs</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1086956.522</unhcr:value-USD>
+   <unhcr:value-USD>3820960.698</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0079">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-03-16"></transaction-date>
+   <value currency="USD" value-date="2023-03-16">9000000</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of Kuwait</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>9000000</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0018">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-12-14"></transaction-date>
+   <value currency="USD" value-date="2022-12-14">925925</value>
+   <provider-org ref="XM-DAC-701-2" type="10">
+    <narrative xml:lang="EN">Ministry of Foreign Affairs of Japan</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>925925</unhcr:value-USD>
   </transaction>
   <transaction ref="F0212">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-06-29"></transaction-date>
-   <value currency="DKK" value-date="2022-06-29">6000000</value>
+   <value currency="DKK" value-date="2022-06-29">14000000</value>
    <provider-org ref="XM-DAC-3-1" type="10">
     <narrative xml:lang="EN">Ministry of Foreign Affairs, Denmark</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>842105.263</unhcr:value-USD>
+   <unhcr:value-USD>1964912.281</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0163">
+  <transaction ref="G0086">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-05-25"></transaction-date>
-   <value currency="NOK" value-date="2022-05-25">5000000</value>
+   <transaction-date iso-date="2023-04-05"></transaction-date>
+   <value currency="DKK" value-date="2023-04-05">11000000</value>
+   <provider-org ref="XM-DAC-3-1" type="10">
+    <narrative xml:lang="EN">Ministry of Foreign Affairs, Denmark</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>1612194.05</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0063">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-02-28"></transaction-date>
+   <value currency="NOK" value-date="2023-02-28">20000000</value>
    <provider-org ref="NO-BRC-971277882" type="10">
     <narrative xml:lang="EN">Norad - Norwegian Agency for Development Cooperation</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>518188.413</unhcr:value-USD>
+   <unhcr:value-USD>1978630.788</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0235">
+  <transaction ref="F0074">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-07-19"></transaction-date>
-   <value currency="USD" value-date="2022-07-19">1000000</value>
-   <provider-org ref="KR-GOV-010" type="10">
-    <narrative xml:lang="EN">Republic of Korea</narrative>
+   <transaction-date iso-date="2023-03-06"></transaction-date>
+   <value currency="SEK" value-date="2023-03-06">25000000</value>
+   <provider-org ref="SE-0" type="10">
+    <narrative xml:lang="EN">Sweden, through Swedish International Development Cooperation Agency (Sida)</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1000000</unhcr:value-USD>
+   <unhcr:value-USD>2400614.558</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0033">
+  <transaction ref="G0088">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2021-12-14"></transaction-date>
-   <value currency="USD" value-date="2021-12-14">2300000</value>
+   <transaction-date iso-date="2023-04-06"></transaction-date>
+   <value currency="SEK" value-date="2023-04-06">20000000</value>
+   <provider-org ref="SE-0" type="10">
+    <narrative xml:lang="EN">Sweden, through Swedish International Development Cooperation Agency (Sida)</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>1932927.418</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0076">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-03-16"></transaction-date>
+   <value currency="GBP" value-date="2023-03-16">1000000</value>
+   <provider-org provider-activity-id="GOV-1-400009-405" ref="GB-GOV-1" type="10">
+    <narrative xml:lang="EN">UK - Foreign, Commonwealth and Development Office</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>1210653.753</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0040">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-12-14"></transaction-date>
+   <value currency="USD" value-date="2022-12-14">800000</value>
    <provider-org ref="US-USAGOV" type="10">
     <narrative xml:lang="EN">United States</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>2300000</unhcr:value-USD>
+   <unhcr:value-USD>800000</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0158">
+  <transaction ref="G0080">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-04-30"></transaction-date>
-   <value currency="USD" value-date="2022-04-30">1000000</value>
+   <transaction-date iso-date="2023-03-28"></transaction-date>
+   <value currency="USD" value-date="2023-03-28">7900000</value>
    <provider-org ref="US-USAGOV" type="10">
     <narrative xml:lang="EN">United States</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1000000</unhcr:value-USD>
+   <unhcr:value-USD>7900000</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0154">
+  <transaction ref="G0093">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-04-30"></transaction-date>
-   <value currency="USD" value-date="2022-04-30">15200000</value>
+   <transaction-date iso-date="2023-04-12"></transaction-date>
+   <value currency="USD" value-date="2023-04-12">14600000</value>
    <provider-org ref="US-USAGOV" type="10">
     <narrative xml:lang="EN">United States</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>15200000</unhcr:value-USD>
+   <unhcr:value-USD>14600000</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0154">
+  <transaction ref="G0111">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-05-20"></transaction-date>
-   <value currency="USD" value-date="2022-05-20">26100000</value>
+   <transaction-date iso-date="2023-05-11"></transaction-date>
+   <value currency="USD" value-date="2023-05-11">429835</value>
    <provider-org ref="US-USAGOV" type="10">
     <narrative xml:lang="EN">United States</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>26100000</unhcr:value-USD>
+   <unhcr:value-USD>429835</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0197">
+  <transaction ref="G0080">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-06-13"></transaction-date>
-   <value currency="USD" value-date="2022-06-13">2769000</value>
+   <transaction-date iso-date="2023-05-26"></transaction-date>
+   <value currency="USD" value-date="2023-05-26">22500000</value>
    <provider-org ref="US-USAGOV" type="10">
     <narrative xml:lang="EN">United States</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>2769000</unhcr:value-USD>
+   <unhcr:value-USD>22500000</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0239">
+  <transaction ref="G0127">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-07-29"></transaction-date>
-   <value currency="USD" value-date="2022-07-29">5000000</value>
+   <transaction-date iso-date="2023-05-26"></transaction-date>
+   <value currency="USD" value-date="2023-05-26">2700000</value>
    <provider-org ref="US-USAGOV" type="10">
     <narrative xml:lang="EN">United States</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>5000000</unhcr:value-USD>
+   <unhcr:value-USD>2700000</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0154">
+  <transaction ref="F3004">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-07-29"></transaction-date>
-   <value currency="USD" value-date="2022-07-29">6300000</value>
-   <provider-org ref="US-USAGOV" type="10">
-    <narrative xml:lang="EN">United States</narrative>
+   <transaction-date iso-date="2021-12-17"></transaction-date>
+   <value currency="EUR" value-date="2021-12-17">1350000</value>
+   <description>
+    <narrative xml:lang="EN">For 2024</narrative>
+   </description>
+   <provider-org provider-activity-id="XI-IATI-EC_NEAR-2021/430-144" ref="XI-IATI-EC_NEAR" type="15">
+    <narrative xml:lang="EN">European Commission - Neighbourhood and Enlargement Negotiations</narrative>
    </provider-org>
-   <aid-type code="3" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>6300000</unhcr:value-USD>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>1520270.27</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0270">
+  <transaction ref="E3003">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-09-27"></transaction-date>
-   <value currency="USD" value-date="2022-09-27">1300000</value>
-   <provider-org ref="US-USAGOV" type="10">
-    <narrative xml:lang="EN">United States</narrative>
+   <transaction-date iso-date="2021-01-15"></transaction-date>
+   <value currency="EUR" value-date="2021-01-15">26653</value>
+   <description>
+    <narrative xml:lang="EN">For 2024</narrative>
+   </description>
+   <provider-org ref="XI-IATI-EC_NEAR" type="15">
+    <narrative xml:lang="EN">European Commission - Neighbourhood and Enlargement Negotiations</narrative>
    </provider-org>
-   <aid-type code="3" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>1300000</unhcr:value-USD>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>32424.574</unhcr:value-USD>
   </transaction>
-  <transaction ref="F0154">
+  <transaction>
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-09-27"></transaction-date>
-   <value currency="USD" value-date="2022-09-27">7700000</value>
-   <provider-org ref="US-USAGOV" type="10">
-    <narrative xml:lang="EN">United States</narrative>
-   </provider-org>
-   <aid-type code="3" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>7700000</unhcr:value-USD>
-  </transaction>
-  <transaction ref="FK540">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2022-03-31"></transaction-date>
-   <value currency="USD" value-date="2022-03-31">121</value>
+   <transaction-date iso-date="2023-02-28"></transaction-date>
+   <value currency="USD" value-date="2023-02-28">511310</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -59840,92 +59900,159 @@ Through this project, the International Organization for Migration (IOM) is cont
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>120.75</unhcr:value-USD>
+   <unhcr:value-USD>511309.92</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">102813</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>102813.053</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-04-30"></transaction-date>
+   <value currency="USD" value-date="2023-04-30">599679</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>599678.76</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-31"></transaction-date>
+   <value currency="USD" value-date="2023-05-31">2287880</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>2287880.18</unhcr:value-USD>
   </transaction>
   <transaction ref="E3036">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2021-10-27"></transaction-date>
-   <value currency="EUR" value-date="2021-10-27">12359680</value>
+   <value currency="EUR" value-date="2021-10-27">4124842</value>
    <provider-org provider-activity-id="XI-IATI-EC_ECHO-ECHO/TUR/BUD/2021/91009" ref="XI-IATI-EC_ECHO" type="15">
     <narrative xml:lang="EN">European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>14371720.93</unhcr:value-USD>
+   <unhcr:value-USD>4796327.907</unhcr:value-USD>
+  </transaction>
+  <transaction ref="E3036">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-05-31"></transaction-date>
+   <value currency="EUR" value-date="2022-05-31">11988744</value>
+   <provider-org provider-activity-id="XI-IATI-EC_ECHO-ECHO/TUR/BUD/2021/91009" ref="XI-IATI-EC_ECHO" type="15">
+    <narrative xml:lang="EN">European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>12659708.554</unhcr:value-USD>
+  </transaction>
+  <transaction ref="E3036">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2022-12-06"></transaction-date>
+   <value currency="EUR" value-date="2022-12-06">1638462</value>
+   <provider-org provider-activity-id="XI-IATI-EC_ECHO-ECHO/TUR/BUD/2021/91009" ref="XI-IATI-EC_ECHO" type="15">
+    <narrative xml:lang="EN">European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>1694376.422</unhcr:value-USD>
   </transaction>
   <transaction ref="F3004">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2021-12-17"></transaction-date>
-   <value currency="EUR" value-date="2021-12-17">300000</value>
+   <value currency="EUR" value-date="2021-12-17">1350000</value>
    <provider-org provider-activity-id="XI-IATI-EC_NEAR-2021/430-144" ref="XI-IATI-EC_NEAR" type="15">
     <narrative xml:lang="EN">European Commission - Neighbourhood and Enlargement Negotiations</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>337837.837</unhcr:value-USD>
-  </transaction>
-  <transaction ref="B3040">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2018-12-10"></transaction-date>
-   <value currency="EUR" value-date="2018-12-10">5339650</value>
-   <provider-org ref="XI-IATI-EC_NEAR" type="15">
-    <narrative xml:lang="EN">European Commission - Neighbourhood and Enlargement Negotiations</narrative>
-   </provider-org>
-   <aid-type code="4" vocabulary="2"></aid-type>
-   <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>6074687.144</unhcr:value-USD>
+   <unhcr:value-USD>1520270.27</unhcr:value-USD>
   </transaction>
   <transaction ref="E3003">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2021-01-15"></transaction-date>
-   <value currency="EUR" value-date="2021-01-15">100000</value>
+   <value currency="EUR" value-date="2021-01-15">789238</value>
    <provider-org ref="XI-IATI-EC_NEAR" type="15">
     <narrative xml:lang="EN">European Commission - Neighbourhood and Enlargement Negotiations</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>121654.501</unhcr:value-USD>
+   <unhcr:value-USD>960143.553</unhcr:value-USD>
   </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2022-12-31"></transaction-date>
-   <value currency="USD" value-date="2022-12-31">6056167.23</value>
-   <description>
-    <narrative xml:lang="EN">Total disbursement to Governmental partners for 2022</narrative>
-   </description>
-   <receiver-org type="10">
-    <narrative xml:lang="EN">Governmental</narrative>
-   </receiver-org>
+  <transaction ref="GK011">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-22"></transaction-date>
+   <value currency="USD" value-date="2023-05-22">110000</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of Denmark</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>110000</unhcr:value-USD>
   </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2022-12-31"></transaction-date>
-   <value currency="USD" value-date="2022-12-31">1000526.28</value>
-   <description>
-    <narrative xml:lang="EN">Total disbursement to International NGO partners for 2022</narrative>
-   </description>
-   <receiver-org type="21">
-    <narrative xml:lang="EN">International NGO</narrative>
-   </receiver-org>
+  <transaction ref="GK014">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-22"></transaction-date>
+   <value currency="USD" value-date="2023-05-22">579000</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of Qatar</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>579000</unhcr:value-USD>
   </transaction>
-  <transaction>
-   <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2022-12-31"></transaction-date>
-   <value currency="USD" value-date="2022-12-31">14495053.84</value>
-   <description>
-    <narrative xml:lang="EN">Total disbursement to Partner country based NGO partners for 2022</narrative>
-   </description>
-   <receiver-org type="24">
-    <narrative xml:lang="EN">Partner country based NGO</narrative>
-   </receiver-org>
+  <transaction ref="GK006">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-11"></transaction-date>
+   <value currency="USD" value-date="2023-05-11">141000</value>
+   <provider-org ref="XM-DAC-576" type="10">
+    <narrative xml:lang="EN">Government of the United Arab Emirates</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>141000</unhcr:value-USD>
   </transaction>
-  <transaction>
-   <transaction-type code="4"></transaction-type>
-   <transaction-date iso-date="2022-12-31"></transaction-date>
-   <value currency="USD" value-date="2022-12-31">74645965.71</value>
-   <description>
-    <narrative xml:lang="EN">Total expenditure for 2022</narrative>
-   </description>
+  <transaction ref="GK008">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-22"></transaction-date>
+   <value currency="USD" value-date="2023-05-22">110000</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Hashemite Kingdom of Jordan</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>110000</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0057">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-02-17"></transaction-date>
+   <value currency="USD" value-date="2023-02-17">2300000</value>
+   <provider-org provider-activity-id="XM-OCHA-CERF-23-RR-HCR-004" ref="XM-OCHA-CERF" type="40">
+    <narrative xml:lang="EN">United Nations Central Emergency Response Fund (CERF)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>2300000</unhcr:value-USD>
   </transaction>
   <document-link format="TEXT/HTML" url="https://reporting.unhcr.org/turkey">
    <title>
@@ -59933,7 +60060,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="A12"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://help.unhcr.org/">
    <title>
@@ -59941,7 +60068,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://www.unhcr.org/">
    <title>
@@ -59949,7 +60076,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://reporting.unhcr.org/iati">
    <title>
@@ -59957,7 +60084,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://www.unhcr.org/search?page=search&amp;skip=0&amp;docid=&amp;cid=49aea93a7d&amp;coi=TUR&amp;comid=4a098fdd6">
    <title>
@@ -59965,7 +60092,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://refugee-funding-tracker.org/">
    <title>
@@ -59973,11 +60100,10 @@ Through this project, the International Organization for Migration (IOM) is cont
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-11"></document-date>
+   <document-date iso-date="2023-06-18"></document-date>
   </document-link>
-  <related-activity ref="XM-DAC-41121-2021-EUR-TUR" type="3"></related-activity>
-  <related-activity ref="XM-DAC-41121-2022-EUR" type="1"></related-activity>
-  <related-activity ref="XM-DAC-41121-2023-EUR-TUR" type="3"></related-activity>
+  <related-activity ref="XM-DAC-41121-2022-EUR-TUR" type="3"></related-activity>
+  <related-activity ref="XM-DAC-41121-2023-EUR" type="1"></related-activity>
  </iati-activity>
 
  <iati-activity default-currency="EUR" dstore:dataset="zoa-activities" dstore:index="106" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
