@@ -21493,6 +21493,30 @@
   <sector code="OA14" percentage="7.1" vocabulary="98">
    <narrative xml:lang="EN">Voluntary Repatriation and Sustainable Reintegration</narrative>
   </sector>
+  <tag code="3" vocabulary="2">
+   <narrative xml:lang="EN">03. Good health and well-being</narrative>
+  </tag>
+  <tag code="4" vocabulary="2">
+   <narrative xml:lang="EN">04. Quality education</narrative>
+  </tag>
+  <tag code="5" vocabulary="2">
+   <narrative xml:lang="EN">05. Gender equality</narrative>
+  </tag>
+  <tag code="8" vocabulary="2">
+   <narrative xml:lang="EN">08. Decent work and economic growth</narrative>
+  </tag>
+  <tag code="10" vocabulary="2">
+   <narrative xml:lang="EN">10. Reduced inequalities</narrative>
+  </tag>
+  <tag code="11" vocabulary="2">
+   <narrative xml:lang="EN">11. Sustainable cities and communities</narrative>
+  </tag>
+  <tag code="16" vocabulary="2">
+   <narrative xml:lang="EN">16. Peace, justice and strong institutions</narrative>
+  </tag>
+  <tag code="17" vocabulary="2">
+   <narrative xml:lang="EN">17. Partnerships for the goals</narrative>
+  </tag>
   <humanitarian-scope code="OPAK2223" type="2" vocabulary="2-1" vocabulary-uri="https://reporting.unhcr.org/publications">
    <narrative xml:lang="EN">Pakistan Floods Response Plan 2022</narrative>
   </humanitarian-scope>
@@ -21514,7 +21538,7 @@
   <budget status="1" type="1">
    <period-start iso-date="2024-01-01"></period-start>
    <period-end iso-date="2024-12-31"></period-end>
-   <value currency="USD" value-date="2022-01-01">0</value>
+   <value currency="USD" value-date="2023-06-19">0</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction ref="F0019">
@@ -21946,7 +21970,7 @@
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-05-31"></transaction-date>
-   <value currency="USD" value-date="2023-05-31">271</value>
+   <value currency="USD" value-date="2023-05-31">28010</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -21955,7 +21979,7 @@
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>271.389</unhcr:value-USD>
+   <unhcr:value-USD>28010.144</unhcr:value-USD>
   </transaction>
   <transaction ref="F3013">
    <transaction-type code="11"></transaction-type>
