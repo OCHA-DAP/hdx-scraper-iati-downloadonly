@@ -58605,7 +58605,7 @@ Through this project, the International Organization for Migration (IOM) is cont
   <activity-status code="2"></activity-status>
   <activity-date iso-date="2023-01-01" type="1"></activity-date>
   <activity-date iso-date="2023-01-01" type="2"></activity-date>
-  <activity-date iso-date="2023-12-31" type="3"></activity-date>
+  <activity-date iso-date="2025-12-31" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
     <narrative xml:lang="EN">United Nations High Commissioner for Refugees (UNHCR)</narrative>
@@ -58804,6 +58804,36 @@ Through this project, the International Organization for Migration (IOM) is cont
   <sector code="OA8" percentage="49.63" vocabulary="98">
    <narrative xml:lang="EN">Well-Being and Basic Needs</narrative>
   </sector>
+  <tag code="1" vocabulary="2">
+   <narrative xml:lang="EN">01. No poverty</narrative>
+  </tag>
+  <tag code="3" vocabulary="2">
+   <narrative xml:lang="EN">03. Good health and well-being</narrative>
+  </tag>
+  <tag code="4" vocabulary="2">
+   <narrative xml:lang="EN">04. Quality education</narrative>
+  </tag>
+  <tag code="5" vocabulary="2">
+   <narrative xml:lang="EN">05. Gender equality</narrative>
+  </tag>
+  <tag code="6" vocabulary="2">
+   <narrative xml:lang="EN">06. Clean water and sanitation</narrative>
+  </tag>
+  <tag code="8" vocabulary="2">
+   <narrative xml:lang="EN">08. Decent work and economic growth</narrative>
+  </tag>
+  <tag code="10" vocabulary="2">
+   <narrative xml:lang="EN">10. Reduced inequalities</narrative>
+  </tag>
+  <tag code="11" vocabulary="2">
+   <narrative xml:lang="EN">11. Sustainable cities and communities</narrative>
+  </tag>
+  <tag code="16" vocabulary="2">
+   <narrative xml:lang="EN">16. Peace, justice and strong institutions</narrative>
+  </tag>
+  <tag code="17" vocabulary="2">
+   <narrative xml:lang="EN">17. Partnerships for the goals</narrative>
+  </tag>
   <humanitarian-scope code="HSYR22" type="2" vocabulary="2-1" vocabulary-uri="https://reporting.unhcr.org/publications">
    <narrative xml:lang="EN">Syria Humanitarian Response Plan 2022 - 2023</narrative>
   </humanitarian-scope>
@@ -58824,6 +58854,16 @@ Through this project, the International Organization for Migration (IOM) is cont
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
    <value currency="USD" value-date="2023-06-19">504295122</value>
+  </budget>
+  <budget status="1" type="1">
+   <period-start iso-date="2024-01-01"></period-start>
+   <period-end iso-date="2024-12-31"></period-end>
+   <value currency="USD" value-date="2023-06-19">0</value>
+  </budget>
+  <budget status="1" type="1">
+   <period-start iso-date="2025-01-01"></period-start>
+   <period-end iso-date="2025-12-31"></period-end>
+   <value currency="USD" value-date="2023-06-19">0</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction ref="E0010">
@@ -59179,7 +59219,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-05-09"></transaction-date>
    <value currency="EUR" value-date="2023-05-09">2497655</value>
-   <provider-org ref="XI-IATI-EC_ECHO" type="15">
+   <provider-org provider-activity-id="XI-IATI-EC_ECHO-ECHO/SYR/BUD/2023/91012" ref="XI-IATI-EC_ECHO" type="15">
     <narrative xml:lang="EN">European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
@@ -59212,7 +59252,7 @@ Through this project, the International Organization for Migration (IOM) is cont
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-03-31"></transaction-date>
    <value currency="USD" value-date="2023-03-31">905250</value>
-   <provider-org ref="XM-OCHA-CBPF" type="40">
+   <provider-org provider-activity-id="XM-OCHA-CBPF-CBPF-SYR-23-R-UN-24663" ref="XM-OCHA-CBPF" type="40">
     <narrative xml:lang="EN">OCHA Country Based Pooled Funds</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
@@ -59300,11 +59340,11 @@ Through this project, the International Organization for Migration (IOM) is cont
   </reporting-org>
   <title>
    <narrative xml:lang="FR">L&apos;op&#xE9;ration du HCR en Turquie</narrative>
-   <narrative xml:lang="EN">UNHCR operation in Turkey</narrative>
+   <narrative xml:lang="EN">UNHCR operation in T&#xFC;rkiye</narrative>
   </title>
   <description type="1">
    <narrative xml:lang="FR">Cette activit&#xE9; montre les d&#xE9;tails de l&apos;op&#xE9;ration du HCR en Turquie pour 2023 et les ann&#xE9;es &#xE0; venir, y compris le budget, les financements, les d&#xE9;penses et les r&#xE9;sultats.</narrative>
-   <narrative xml:lang="EN">This activity shows details of the UNHCR operation in Turkey for 2023 and future years including the budget, funding, expenditure and results.</narrative>
+   <narrative xml:lang="EN">This activity shows details of the UNHCR operation in T&#xFC;rkiye for 2023 and future years including the budget, funding, expenditure and results.</narrative>
   </description>
   <description type="3">
    <narrative xml:lang="FR">Le HCR, l&apos;Agence des Nations Unies pour les r&#xE9;fugi&#xE9;s, est une organisation internationale qui a pour mission de sauver des vies, de prot&#xE9;ger les droits des r&#xE9;fugi&#xE9;s et de construire un avenir meilleur pour les r&#xE9;fugi&#xE9;s, les communaut&#xE9;s d&#xE9;plac&#xE9;es et les apatrides.</narrative>
@@ -59400,7 +59440,7 @@ Through this project, the International Organization for Migration (IOM) is cont
   <activity-status code="2"></activity-status>
   <activity-date iso-date="2023-01-01" type="1"></activity-date>
   <activity-date iso-date="2023-01-01" type="2"></activity-date>
-  <activity-date iso-date="2023-12-31" type="3"></activity-date>
+  <activity-date iso-date="2025-12-31" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
     <narrative xml:lang="EN">United Nations High Commissioner for Refugees (UNHCR)</narrative>
@@ -59598,6 +59638,24 @@ Through this project, the International Organization for Migration (IOM) is cont
   <sector code="OA14" percentage="2.21" vocabulary="98">
    <narrative xml:lang="EN">Voluntary Repatriation and Sustainable Reintegration</narrative>
   </sector>
+  <tag code="4" vocabulary="2">
+   <narrative xml:lang="EN">04. Quality education</narrative>
+  </tag>
+  <tag code="5" vocabulary="2">
+   <narrative xml:lang="EN">05. Gender equality</narrative>
+  </tag>
+  <tag code="8" vocabulary="2">
+   <narrative xml:lang="EN">08. Decent work and economic growth</narrative>
+  </tag>
+  <tag code="10" vocabulary="2">
+   <narrative xml:lang="EN">10. Reduced inequalities</narrative>
+  </tag>
+  <tag code="16" vocabulary="2">
+   <narrative xml:lang="EN">16. Peace, justice and strong institutions</narrative>
+  </tag>
+  <tag code="17" vocabulary="2">
+   <narrative xml:lang="EN">17. Partnerships for the goals</narrative>
+  </tag>
   <humanitarian-scope code="EQ-2023-000015-TUR" type="1" vocabulary="1-2">
    <narrative xml:lang="EN">T&#xFC;rkiye: Earthquake</narrative>
   </humanitarian-scope>
@@ -59615,6 +59673,16 @@ Through this project, the International Organization for Migration (IOM) is cont
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
    <value currency="USD" value-date="2023-06-19">498500000</value>
+  </budget>
+  <budget status="1" type="1">
+   <period-start iso-date="2024-01-01"></period-start>
+   <period-end iso-date="2024-12-31"></period-end>
+   <value currency="USD" value-date="2023-06-19">0</value>
+  </budget>
+  <budget status="1" type="1">
+   <period-start iso-date="2025-01-01"></period-start>
+   <period-end iso-date="2025-12-31"></period-end>
+   <value currency="USD" value-date="2023-06-19">0</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction ref="E0010">
