@@ -58834,11 +58834,17 @@ Through this project, the International Organization for Migration (IOM) is cont
   <tag code="17" vocabulary="2">
    <narrative xml:lang="EN">17. Partnerships for the goals</narrative>
   </tag>
-  <humanitarian-scope code="HSYR22" type="2" vocabulary="2-1" vocabulary-uri="https://reporting.unhcr.org/publications">
-   <narrative xml:lang="EN">Syria Humanitarian Response Plan 2022 - 2023</narrative>
+  <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1">
+   <narrative xml:lang="EN">Syria Earthquake Flash Appeal 2023</narrative>
+  </humanitarian-scope>
+  <humanitarian-scope code="2023-EARTHQUAKE-EMERGENCY-RESPONSE" type="2" vocabulary="99" vocabulary-uri="https://reporting.unhcr.org/syria-and-t%C3%BCrkiye-earthquake-emergency-supplementary-appeal">
+   <narrative xml:lang="EN">Syria and T&#xFC;rkiye Earthquake Emergency Supplementary Appeal</narrative>
   </humanitarian-scope>
   <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2">
    <narrative xml:lang="EN">Syria: Earthquake</narrative>
+  </humanitarian-scope>
+  <humanitarian-scope code="HSYR23" type="2" vocabulary="2-1">
+   <narrative xml:lang="EN">Syrian Arab Republic Humanitarian Response Plan 2023</narrative>
   </humanitarian-scope>
   <collaboration-type code="4"></collaboration-type>
   <default-flow-type code="10"></default-flow-type>
@@ -59656,6 +59662,12 @@ Through this project, the International Organization for Migration (IOM) is cont
   <tag code="17" vocabulary="2">
    <narrative xml:lang="EN">17. Partnerships for the goals</narrative>
   </tag>
+  <humanitarian-scope code="2023-EARTHQUAKE-EMERGENCY-RESPONSE" type="2" vocabulary="99" vocabulary-uri="https://reporting.unhcr.org/syria-and-t%C3%BCrkiye-earthquake-emergency-supplementary-appeal">
+   <narrative xml:lang="EN">Syria and T&#xFC;rkiye Earthquake Emergency Supplementary Appeal</narrative>
+  </humanitarian-scope>
+  <humanitarian-scope code="FTUR23" type="2" vocabulary="2-1">
+   <narrative xml:lang="EN">T&#xFC;rkiye Earthquake Flash Appeal 2023</narrative>
+  </humanitarian-scope>
   <humanitarian-scope code="EQ-2023-000015-TUR" type="1" vocabulary="1-2">
    <narrative xml:lang="EN">T&#xFC;rkiye: Earthquake</narrative>
   </humanitarian-scope>
