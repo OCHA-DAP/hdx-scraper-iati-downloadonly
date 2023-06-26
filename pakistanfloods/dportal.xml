@@ -21215,6 +21215,15 @@
   <participating-org role="1" type="10">
    <narrative xml:lang="EN">Bailiwick of Jersey</narrative>
   </participating-org>
+  <participating-org role="4" type="10">
+   <narrative xml:lang="EN">Balochistan University of Information Technology, Engineering and Management Sci</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">Citizens Archive of Pakistan</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">DRUGS AND NARCOTICS EDUCATIONAL SERVICES FOR HUMANITY</narrative>
+  </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Espa&#xF1;a con ACNUR (Spain)</narrative>
   </participating-org>
@@ -21232,6 +21241,15 @@
   </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Fundaci&#xF3;n ACNUR Comit&#xE9; Argentino (Argentina)</narrative>
+  </participating-org>
+  <participating-org role="4" type="10">
+   <narrative xml:lang="EN">GOVERNMENT OF PAKISTAN - CCAR, ISLAMABAD</narrative>
+  </participating-org>
+  <participating-org role="4" type="10">
+   <narrative xml:lang="EN">GOVERNMENT OF PAKISTAN, CAR KPK</narrative>
+  </participating-org>
+  <participating-org role="4" type="10">
+   <narrative xml:lang="EN">GOVT OF PAKISTAN, CAR BALOCHISTAN</narrative>
   </participating-org>
   <participating-org ref="DE-1" role="1" type="10">
    <narrative xml:lang="EN">Germany - Ministry for Economic Cooperation and Development</narrative>
@@ -21269,8 +21287,26 @@
   <participating-org role="1" type="10">
    <narrative xml:lang="EN">Governmental donors of unearmarked and flexible funds</narrative>
   </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">Hashoo Foundation</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">INITIATIVE FOR DEVELOPMENT AND EMPOWERMENT AXIS</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">INNOVATIVE DEVELOPMENT ORGANIZATION</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">Imkaan Welfare Organization</narrative>
+  </participating-org>
+  <participating-org ref="US-EIN-13-5660870" role="4" type="21">
+   <narrative xml:lang="EN">International Rescue Committee, Inc.</narrative>
+  </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Japan for UNHCR</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">Khwendo kor</narrative>
   </participating-org>
   <participating-org ref="XM-DAC-701-2" role="1" type="10">
    <narrative xml:lang="EN">Ministry of Foreign Affairs of Japan</narrative>
@@ -21278,8 +21314,23 @@
   <participating-org ref="XM-DAC-3-1" role="1" type="10">
    <narrative xml:lang="EN">Ministry of Foreign Affairs, Denmark</narrative>
   </participating-org>
+  <participating-org role="4" type="10">
+   <narrative xml:lang="EN">NATIONAL DATABASE &amp; REGISTRATION AUTHORITY,GOVT OF PAK</narrative>
+  </participating-org>
+  <participating-org role="4" type="10">
+   <narrative xml:lang="EN">National Vocational and Technical Training Commission</narrative>
+  </participating-org>
   <participating-org ref="XM-DAC-7" role="1" type="10">
    <narrative xml:lang="EN">Netherlands - Ministry of Foreign Affairs</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">Pakistan Poverty Alleviation Fund</narrative>
+  </participating-org>
+  <participating-org role="4" type="21">
+   <narrative xml:lang="EN">Pathfinder International</narrative>
+  </participating-org>
+  <participating-org role="4" type="10">
+   <narrative xml:lang="EN">Peoples Primary Healthcare Initiative PPHI Balochistan</narrative>
   </participating-org>
   <participating-org role="1" type="70">
    <narrative xml:lang="EN">Private donors</narrative>
@@ -21287,11 +21338,35 @@
   <participating-org ref="KR-GOV-010" role="1" type="10">
    <narrative xml:lang="EN">Republic of Korea</narrative>
   </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">SARHAD RURAL SUPPORT PROGRAMME</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">SOCIETY FOR COMMUNITY SUPPORT TO PRIMARY EDUCATION</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">SOCIETY FOR EMPOWERING HUMAN RESOURCES</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">SOCIETY FOR HUMANITARIAN RIGHTS &amp; PRISONERS, PAK</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">Special Talent Exchange Program</narrative>
+  </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Sweden for UNHCR</narrative>
   </participating-org>
   <participating-org role="1" type="22">
    <narrative xml:lang="EN">Switzerland for UNHCR</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">TAMEER-E KHALQ FOUNDATION</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">TARAQEE FOUNDATION, PAKISTAN</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">THE FRONTIER PRIMARY HEALTH CARE, PAKISTAN</narrative>
   </participating-org>
   <participating-org ref="GB-GOV-1" role="1" type="10">
    <narrative xml:lang="EN">UK - Foreign, Commonwealth and Development Office</narrative>
@@ -21313,6 +21388,9 @@
   </participating-org>
   <participating-org ref="US-USAGOV" role="1" type="10">
    <narrative xml:lang="EN">United States</narrative>
+  </participating-org>
+  <participating-org role="4" type="24">
+   <narrative xml:lang="EN">WATER, ENVIRONMENT &amp; SANITATION SOCIETY, PAKISTAN</narrative>
   </participating-org>
   <activity-status code="3"></activity-status>
   <activity-date iso-date="2022-01-01" type="1"></activity-date>
