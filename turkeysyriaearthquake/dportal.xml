@@ -60186,7 +60186,7 @@ Through this project, the International Organization for Migration (IOM) is cont
   <related-activity ref="XM-DAC-41121-2023-EUR" type="1"></related-activity>
  </iati-activity>
 
- <iati-activity default-currency="EUR" dstore:dataset="zoa-activities" dstore:index="106" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="EUR" dstore:dataset="zoa-activities" dstore:index="107" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>NL-KVK-41009723-SYR2026</iati-identifier>
   <reporting-org ref="NL-KVK-41009723" secondary-reporter="0" type="21">
    <narrative xml:lang="EN">ZOA</narrative>
@@ -60256,68 +60256,6 @@ Through this project, the International Organization for Migration (IOM) is cont
   </transaction>
   <result type="1">
    <title>
-    <narrative xml:lang="EN">CSH-I1 Unconditional and unrestricted cash</narrative>
-   </title>
-   <indicator aggregation-status="1" ascending="1" measure="1">
-    <title>
-     <narrative xml:lang="EN">Number of people benefitting from unconditional and unrestricted cash transfers</narrative>
-    </title>
-    <description>
-     <narrative xml:lang="EN">Three rounds of MPC to 350 HH</narrative>
-    </description>
-    <baseline iso-date="2022-01-01" value="0" year="2022"></baseline>
-    <period>
-     <period-start iso-date="2022-01-01"></period-start>
-     <period-end iso-date="2023-12-31"></period-end>
-     <target value="647">
-      <dimension name="Age" value="18+"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </target>
-     <actual>
-      <dimension name="Age" value="18+"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </actual>
-    </period>
-    <period>
-     <period-start iso-date="2022-01-01"></period-start>
-     <period-end iso-date="2023-12-31"></period-end>
-     <target value="463">
-      <dimension name="Age" value="18+"></dimension>
-      <dimension name="Sex" value="Male"></dimension>
-     </target>
-     <actual>
-      <dimension name="Age" value="18+"></dimension>
-      <dimension name="Sex" value="Male"></dimension>
-     </actual>
-    </period>
-    <period>
-     <period-start iso-date="2022-01-01"></period-start>
-     <period-end iso-date="2023-12-31"></period-end>
-     <target value="370">
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </target>
-     <actual>
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </actual>
-    </period>
-    <period>
-     <period-start iso-date="2022-01-01"></period-start>
-     <period-end iso-date="2023-12-31"></period-end>
-     <target value="370">
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Male"></dimension>
-     </target>
-     <actual>
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Male"></dimension>
-     </actual>
-    </period>
-   </indicator>
-  </result>
-  <result type="1">
-   <title>
     <narrative xml:lang="EN">FSC-I2 Availability of, access to and consumption of food</narrative>
    </title>
    <indicator aggregation-status="1" ascending="1" measure="1">
@@ -60332,7 +60270,22 @@ Distribution of Regular FP:
 GOPA: 3250 Individuals (650 HH)</narrative>
     </description>
     <reference code="FSC-I2" indicator-uri="https://www.zoa-international.com/" vocabulary="99"></reference>
-    <baseline iso-date="2023-02-11" value="0" year="2023"></baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="18+"></dimension>
+     <dimension name="Sex" value="Female"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="18+"></dimension>
+     <dimension name="Sex" value="Male"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="Under 18"></dimension>
+     <dimension name="Sex" value="Female"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="Under 18"></dimension>
+     <dimension name="Sex" value="Male"></dimension>
+    </baseline>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
@@ -60395,7 +60348,22 @@ GOPA: 3250 Individuals (650 HH)</narrative>
      <narrative xml:lang="EN">Focus group discussions, Assessments, PDM surveys</narrative>
     </description>
     <reference code="ACC-I2" indicator-uri="https://dutchrelief.org/" vocabulary="99"></reference>
-    <baseline iso-date="2023-02-11" value="0" year="2023"></baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="18+"></dimension>
+     <dimension name="Sex" value="Female"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="18+"></dimension>
+     <dimension name="Sex" value="Male"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="Under 18"></dimension>
+     <dimension name="Sex" value="Female"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="Under 18"></dimension>
+     <dimension name="Sex" value="Male"></dimension>
+    </baseline>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
@@ -60460,7 +60428,22 @@ ZOA: 8330 Individuals (1666HH) - (overlapping with water trucking beneficiaries)
 GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     </description>
     <reference code="WSH-I1" indicator-uri="https://www.zoa-international.com/" vocabulary="99"></reference>
-    <baseline iso-date="2023-02-11" value="0" year="2023"></baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="18+"></dimension>
+     <dimension name="Sex" value="Female"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="18+"></dimension>
+     <dimension name="Sex" value="Male"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="Under 18"></dimension>
+     <dimension name="Sex" value="Female"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="Under 18"></dimension>
+     <dimension name="Sex" value="Male"></dimension>
+    </baseline>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
@@ -60513,6 +60496,83 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
   </result>
   <result type="1">
    <title>
+    <narrative xml:lang="EN">CSH-I1 Unconditional and unrestricted cash</narrative>
+   </title>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">Number of people benefitting from unconditional and unrestricted cash transfers</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Three rounds of MPC to 350 HH</narrative>
+    </description>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="18+"></dimension>
+     <dimension name="Sex" value="Female"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="18+"></dimension>
+     <dimension name="Sex" value="Male"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="Under 18"></dimension>
+     <dimension name="Sex" value="Female"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="Under 18"></dimension>
+     <dimension name="Sex" value="Male"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2023-12-31"></period-end>
+     <target value="647">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2023-12-31"></period-end>
+     <target value="463">
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="18+"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2023-12-31"></period-end>
+     <target value="370">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2023-12-31"></period-end>
+     <target value="370">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </target>
+     <actual>
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Male"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="1">
+   <title>
     <narrative xml:lang="EN">WSH-I4 Water supply</narrative>
    </title>
    <indicator aggregation-status="1" ascending="1" measure="1">
@@ -60523,7 +60583,22 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
      <narrative xml:lang="EN">Water trucking for two months</narrative>
     </description>
     <reference code="WSH-I4" indicator-uri="https://www.zoa-international.com/" vocabulary="99"></reference>
-    <baseline iso-date="2023-02-11" value="0" year="2023"></baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="18+"></dimension>
+     <dimension name="Sex" value="Female"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="18+"></dimension>
+     <dimension name="Sex" value="Male"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="Under 18"></dimension>
+     <dimension name="Sex" value="Female"></dimension>
+    </baseline>
+    <baseline iso-date="2022-01-01" value="0" year="2022">
+     <dimension name="Age" value="Under 18"></dimension>
+     <dimension name="Sex" value="Male"></dimension>
+    </baseline>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
@@ -60583,6 +60658,7 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
      <narrative xml:lang="EN">Number of national and local actors supported with capacity strengthening</narrative>
     </title>
     <reference code="LOC-I3" indicator-uri="https://www.zoa-international.com/" vocabulary="99"></reference>
+    <baseline iso-date="2022-01-01" value="0" year="2022"></baseline>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
