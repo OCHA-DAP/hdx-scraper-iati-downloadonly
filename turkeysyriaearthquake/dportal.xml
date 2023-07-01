@@ -57842,7 +57842,117 @@
   </conditions>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1360" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1437" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-SN.0213</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Lifesaving Assistance to Earthquake Affected Populations in Northwest Syria (NWS)</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">The main objective of the project is to alleviate the suffering and enhance the dignity of earthquake-affected populations in northwest Syria (NWS) through the provision of shelter assistance and complementary light infrastructure support. In coordination with the Shelter Cluster and relevant agencies on the ground, IOM is conducting field assessments to ensure the prioritization of the most vulnerable earthquake-affected families from communities who have suffered the most damage, with special consideration given to persons with specific needs such as people with disabilities, the elderly, and female-headed families.</narrative>
+  </description>
+  <participating-org activity-id="XM-OCHA-CERF-23-UF-IOM-011" ref="XM-OCHA-CERF" role="1" type="40">
+   <narrative xml:lang="EN">CENTRAL EMERGENCY RESPONSE FUND</narrative>
+  </participating-org>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-05-01" type="1"></activity-date>
+  <activity-date iso-date="2023-05-01" type="2"></activity-date>
+  <activity-date iso-date="2024-04-30" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+   </organisation>
+   <telephone>+41 22 717 91 11</telephone>
+   <email>hq@iom.int</email>
+   <website>www.iom.int</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <location ref="SY">
+   <location-reach code="2"></location-reach>
+   <location-id code="SY" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Syrian Arab Republic</narrative>
+   </name>
+   <administrative code="SY" vocabulary="A4"></administrative>
+  </location>
+  <sector code="SN" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Shelter and Settlements</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Syrian Arab Republic Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="2A" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with sufficient inclusion of gender issues (mainstreamed)</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-05-01">2000000.08</value>
+  </budget>
+  <budget status="2" type="1">
+   <period-start iso-date="2024-01-01"></period-start>
+   <period-end iso-date="2024-12-31"></period-end>
+   <value currency="USD" value-date="2024-01-01">999999.8</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-01"></transaction-date>
+   <value currency="USD" value-date="2023-05-19">2999999.88</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-OCHA-CERF-23-UF-IOM-011" ref="XM-OCHA-CERF" type="40">
+    <narrative xml:lang="EN">CENTRAL EMERGENCY RESPONSE FUND</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-SN.0213" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">2999999.88</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-05-01"></transaction-date>
+   <value currency="USD" value-date="2023-05-01">2999999.88</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-SN.0213" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-SN.0213" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1435" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0211</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -57966,7 +58076,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1357" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1432" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0206</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -58038,13 +58148,13 @@ In response to the immediate need for better shelter and access to basic service
   <budget status="2" type="1">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2023-02-24">2500000.06</value>
+   <value currency="USD" value-date="2023-02-24">2500000.07</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-02-01"></transaction-date>
-   <value currency="USD" value-date="2023-03-06">2500000.06</value>
+   <value currency="USD" value-date="2023-03-06">2500000.07</value>
    <description>
     <narrative xml:lang="EN">Contracted Grant Amount</narrative>
    </description>
@@ -58058,7 +58168,7 @@ In response to the immediate need for better shelter and access to basic service
    <finance-type code="110"></finance-type>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <iom:agency-currency-value currency="USD">2500000.06</iom:agency-currency-value>
+   <iom:agency-currency-value currency="USD">2500000.07</iom:agency-currency-value>
   </transaction>
   <transaction>
    <transaction-type code="1"></transaction-type>
@@ -58082,7 +58192,7 @@ In response to the immediate need for better shelter and access to basic service
   <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-02-24"></transaction-date>
-   <value currency="USD" value-date="2023-02-24">2500000.06</value>
+   <value currency="USD" value-date="2023-02-24">2500000.07</value>
    <description>
     <narrative xml:lang="EN">Total Budget Committed</narrative>
    </description>
@@ -58102,7 +58212,465 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="377" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1431" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-SN.0205</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Emergency Humanitarian Support for Earthquake-Affected Population in Northwest Syria (NWS)</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Within this project, IOM will support 1,400 households representing approximately 12,400 individuals (2,480 men, 2,480 women, 3,720 boys, 3,720 girls) through shelter and non-food items (NFI) kit distributions. The standard NFI kit (in-line with local Shelter/NFI Cluster recommendations) contains a kitchen set, a hygiene kit, mattresses, blankets, jerrycans, plastic sheets, solar lamps, diapers, and carpets for a family of five.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <participating-org activity-id="XM-OCHA-CBPF-TUR-22/3559/SA2/NFI/UN/2" ref="XM-OCHA-CBPF" role="1" type="40">
+   <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-02-18" type="1"></activity-date>
+  <activity-date iso-date="2023-02-18" type="2"></activity-date>
+  <activity-date iso-date="2023-07-22" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+   </organisation>
+   <telephone>+41 22 717 91 11</telephone>
+   <email>hq@iom.int</email>
+   <website>www.iom.int</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <location ref="SY">
+   <location-reach code="2"></location-reach>
+   <location-id code="SY" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Syrian Arab Republic</narrative>
+   </name>
+   <administrative code="SY" vocabulary="A4"></administrative>
+  </location>
+  <sector code="SN" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Shelter and Settlements</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Syrian Arab Republic Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="2A" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with sufficient inclusion of gender issues (mainstreamed)</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-02-18">3000000.02</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-02-01"></transaction-date>
+   <value currency="USD" value-date="2023-03-02">3000000.02</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-OCHA-CBPF-TUR-22/3559/SA2/NFI/UN/2" ref="XM-OCHA-CBPF" type="40">
+    <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-SN.0205" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">3000000.02</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">3000000</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution &#x2013; Tightly Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-OCHA-CBPF-TUR-22/3559/SA2/NFI/UN/2" ref="XM-OCHA-CBPF" type="40">
+    <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-SN.0205" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">3000000</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-02-18"></transaction-date>
+   <value currency="USD" value-date="2023-02-18">3000000.02</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-SN.0205" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-SN.0205" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="415" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-DP.2641</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Additional Emergency Grant Aid in Response to the Earthquake in Syria</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Under this project, IOM is contributing to lifesaving and life-sustaining activities by providing humanitarian assistance to internally displaced persons (IDPs) and the most vulnerable earthquake-affected populations inside northwest Syria (NWS), supporting crisis-affected groups with emergency non-food items (NFI).</narrative>
+  </description>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <participating-org activity-id="XM-DAC-701-2-YK/IOM/138" ref="XM-DAC-701-2" role="1" type="10">
+   <narrative xml:lang="EN">Japan - Ministry of Foreign Affairs</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-05-31" type="1"></activity-date>
+  <activity-date iso-date="2023-05-31" type="2"></activity-date>
+  <activity-date iso-date="2023-11-30" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+   </organisation>
+   <telephone>+41 22 717 91 11</telephone>
+   <email>hq@iom.int</email>
+   <website>www.iom.int</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <location ref="SY">
+   <location-reach code="2"></location-reach>
+   <location-id code="SY" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Syrian Arab Republic</narrative>
+   </name>
+   <administrative code="SY" vocabulary="A4"></administrative>
+  </location>
+  <sector code="DP" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Assistance to Displaced Populations</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Syrian Arab Republic Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="1" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with some but insufficient inclusion of gender issues</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-05-31">1000000.03</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-01"></transaction-date>
+   <value currency="USD" value-date="2023-05-26">1000000.03</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-701-2-YK/IOM/138" ref="XM-DAC-701-2" type="10">
+    <narrative xml:lang="EN">Japan - Ministry of Foreign Affairs</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2641" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">1000000.03</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-05-31"></transaction-date>
+   <value currency="USD" value-date="2023-05-31">1000000.03</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2641" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2641" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="409" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-DP.2632</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Life-Saving Assistance to Earthquake-Affected Households in Northwest Syria</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">A magnitude 7.7 earthquake, followed by a magnitude 7.4 tremor, struck central T&#xFC;rkiye and northwest Syria (NWS) on 6 February 2023; more than 1,200 aftershocks occurred, causing widespread damage. According to OCHA, as of 9 February, 7 million individuals are estimated to have been affected by the earthquake across Aleppo and Idleb Governorates. Thousands are reported to have died and many more have been injured. Affected families still face urgent needs including shelter and non-food items (e.g., blankets, mattresses, plastic sheets, hygiene items). Many affected families are estimated to be staying with friends or relatives; however, large numbers are estimated to be staying in temporary collective centres or makeshift shelters out in the open. 
+ 
+The project aims to contribute to the humanitarian operation to improve the living conditions of the earthquake affected populations in Syria, particularly in the north-western region by improving access to basic services and temporary living conditions for the earthquake affected populations in northwest Syria and identifying needs of the displaced populations to inform interventions and advocacy efforts.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <participating-org activity-id="XM-DAC-552-99-AK/IK" ref="XM-DAC-552-99" role="1" type="10">
+   <narrative xml:lang="EN">Kuwait</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-03-21" type="1"></activity-date>
+  <activity-date iso-date="2023-03-21" type="2"></activity-date>
+  <activity-date iso-date="2024-08-20" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+   </organisation>
+   <telephone>+41 22 717 91 11</telephone>
+   <email>hq@iom.int</email>
+   <website>www.iom.int</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <location ref="SY">
+   <location-reach code="2"></location-reach>
+   <location-id code="SY" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Syrian Arab Republic</narrative>
+   </name>
+   <administrative code="SY" vocabulary="A4"></administrative>
+  </location>
+  <sector code="DP" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Assistance to Displaced Populations</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Syrian Arab Republic Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="1" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with some but insufficient inclusion of gender issues</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-03-21">3012591.18</value>
+  </budget>
+  <budget status="2" type="1">
+   <period-start iso-date="2024-01-01"></period-start>
+   <period-end iso-date="2024-12-31"></period-end>
+   <value currency="USD" value-date="2024-01-01">1987409.23</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-03-01"></transaction-date>
+   <value currency="USD" value-date="2023-05-18">5000000.41</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-552-99-AK/IK" ref="XM-DAC-552-99" type="10">
+    <narrative xml:lang="EN">Kuwait</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2632" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">5000000.41</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-03-21"></transaction-date>
+   <value currency="USD" value-date="2023-03-21">5000000.41</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2632" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2632" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="407" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-DP.2629</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Turkiye Earthquake Humanitarian Response</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">This project aims to provide emergency assistance to earthquake-affected populations in T&#xFC;rkiye through the following activities: (i) providing multi-purpose cash, vouchers, non-food items assistance to earthquake-affected women, men, girls and boys; (ii) providing emergency shelter assistance to earthquake-affected women, men, girls and boys; and (iii) providing mental health and psychological support to earthquake-affected women, men, girls and boys.</narrative>
+  </description>
+  <participating-org activity-id="CA-3-P012673" ref="CA-3" role="1" type="10">
+   <narrative xml:lang="EN">Canada - Global Affairs Canada | Affaires mondiales Canada</narrative>
+  </participating-org>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-03-24" type="1"></activity-date>
+  <activity-date iso-date="2023-03-24" type="2"></activity-date>
+  <activity-date iso-date="2023-12-31" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+   </organisation>
+   <telephone>+41 22 717 91 11</telephone>
+   <email>hq@iom.int</email>
+   <website>www.iom.int</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="TR" percentage="100"></recipient-country>
+  <location ref="TR">
+   <location-reach code="2"></location-reach>
+   <location-id code="TR" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Republic of T&#xFC;rkiye</narrative>
+   </name>
+   <administrative code="TR" vocabulary="A4"></administrative>
+  </location>
+  <location>
+   <location-reach code="1"></location-reach>
+   <name>
+    <narrative xml:lang="EN">IOM Country Office - TR</narrative>
+   </name>
+   <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+    <pos>39.883033 32.871533</pos>
+   </point>
+   <exactness code="2"></exactness>
+   <location-class code="3"></location-class>
+   <feature-designation code="BLDO"></feature-designation>
+  </location>
+  <sector code="DP" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Assistance to Displaced Populations</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FTUR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Turkiye Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="1" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with some but insufficient inclusion of gender issues</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-03-24">3706034.5</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-03-01"></transaction-date>
+   <value currency="CAD" value-date="2023-05-15">5000000.09</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="CA-3-P012673" ref="CA-3" type="10">
+    <narrative xml:lang="EN">Canada - Global Affairs Canada | Affaires mondiales Canada</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2629" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">3706034.5</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-03-24"></transaction-date>
+   <value currency="USD" value-date="2023-03-24">3706034.5</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2629" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2629" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="401" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2623</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -58221,7 +58789,469 @@ Through this project, the International Organization for Migration (IOM) is cont
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="362" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="398" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-DP.2620</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Lifesaving Emergency Assistance for Affected Populations</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Within this project, IOM will provide camp coordination and camp management activities as well as coordination of multi-sectoral assistance for 4,000 individuals (800 men, 800 women, 1200 boys and 1200 girls) living in the reception centers (RCs) in Sharan,sub-district, Aleppo Governorate, and Salqin subdistrict, Idleb Governorate. IOM will also provide camp coordination and camp management activities and ensure access to basic services and dignified living conditions for 94,917 individuals ( 18,380men, 20,013 women, 27,533 boys and 28,991 girls) inIDP sites in Dana, Qourqeena subdistricts, Idleb Governorate, and Sharan subdistrict, Aleppo Governorate. 
+ 
+In partnership with Shafak, IOM will provide on-site protection assistance and services for newly displaced IDPs residing in RCs and IDP sites following the earthquake. Pursuing a multi-sectoral and integrated approach with the CCCM component, IOM with its IP will focus on providing emergency protection services to newly displaced families, including the elderly, women, children, and People with Disabilities (PwD) residing in in RCs Sharan and Salqin sub-districts and IDPs sites across Dana sub-district.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <participating-org activity-id="XM-OCHA-CBPF-CBPF-TUR-23-R-UN-24623" ref="XM-OCHA-CBPF" role="1" type="40">
+   <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-04-01" type="1"></activity-date>
+  <activity-date iso-date="2023-04-01" type="2"></activity-date>
+  <activity-date iso-date="2023-09-30" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+   </organisation>
+   <telephone>+41 22 717 91 11</telephone>
+   <email>hq@iom.int</email>
+   <website>www.iom.int</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <location ref="SY">
+   <location-reach code="2"></location-reach>
+   <location-id code="SY" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Syrian Arab Republic</narrative>
+   </name>
+   <administrative code="SY" vocabulary="A4"></administrative>
+  </location>
+  <sector code="DP" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Assistance to Displaced Populations</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Syrian Arab Republic Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="2A" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with sufficient inclusion of gender issues (mainstreamed)</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-04-01">1982882.85</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-04-01"></transaction-date>
+   <value currency="USD" value-date="2023-04-05">1982882.85</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-OCHA-CBPF-CBPF-TUR-23-R-UN-24623" ref="XM-OCHA-CBPF" type="40">
+    <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2620" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">1982882.85</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-04-01"></transaction-date>
+   <value currency="USD" value-date="2023-04-01">1982882.85</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2620" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2620" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="397" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-DP.2619</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">EQ Phase 1 [FSL Support for Earthquake-affected Populations in Northwest Syria (NWS)]</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Within this project, IOM will support 9,500 households, representing approximately 47,500 vulnerable persons (9,500 women, 9,500 men, 14,250 boys, 14,250 girls) through three months of cash for food. In line with Food Security and Livelihood (FSL), IOM will target Salqin, and Harim subdistricts in Idleb Governorate; and Atareb, Afrin and Jindiris subdistricts in Aleppo Governorate. The cash amount per month per household will be USD 75. This value is based on the FSL Cluster&#x2019;s guideline of 70 per cent of the survival minimum expenditure basket (SMEB) plus 15 per cent to account for inflation as coordinated with FSL Cluster. Within this project three rounds are foreseen, and each round of cash covers 30 days. To implement activities under this project, IOM will contract IYD following its internal procurement and financial procedures.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <participating-org activity-id="XM-OCHA-CBPF-CBPF-TUR-23-R-UN-24642" ref="XM-OCHA-CBPF" role="1" type="40">
+   <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-04-01" type="1"></activity-date>
+  <activity-date iso-date="2023-04-01" type="2"></activity-date>
+  <activity-date iso-date="2023-09-30" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+   </organisation>
+   <telephone>+41 22 717 91 11</telephone>
+   <email>hq@iom.int</email>
+   <website>www.iom.int</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <location ref="SY">
+   <location-reach code="2"></location-reach>
+   <location-id code="SY" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Syrian Arab Republic</narrative>
+   </name>
+   <administrative code="SY" vocabulary="A4"></administrative>
+  </location>
+  <sector code="DP" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Assistance to Displaced Populations</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Syrian Arab Republic Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="2A" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with sufficient inclusion of gender issues (mainstreamed)</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-04-01">2847347.6</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-04-01"></transaction-date>
+   <value currency="USD" value-date="2023-04-05">2847347.6</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-OCHA-CBPF-CBPF-TUR-23-R-UN-24642" ref="XM-OCHA-CBPF" type="40">
+    <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2619" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">2847347.6</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-04-01"></transaction-date>
+   <value currency="USD" value-date="2023-04-01">2847347.6</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2619" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2619" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="384" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-DP.2602</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Emergency Grant Aid in Response to the Earthquake in T&#xFC;rkiye and Syria</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">Under this project, IOM proposes to provide humanitarian assistance to the most vulnerable earthquake-affected populations inside northwest Syria (NWS) and support these crisis-affected groups with emergency NFI services. Through these activities, IOM plans to support 14,225 earthquake-affected individuals, including internally displaced persons (IDPs) and host community members. 
+ 
+Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining winterization activities by improving displaced populations&#x2019; access to full NFI kits by pre-positioning 2,000 full NFI kits and 845 shelter repair kits (estimated one kit per family). IOM will work through pre-approved Rapid Response Mechanism (RRM) partners to distribute the kits to most vulnerable households.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <participating-org activity-id="XM-DAC-701-2-TI/IOM/063" ref="XM-DAC-701-2" role="1" type="10">
+   <narrative xml:lang="EN">Japan - Ministry of Foreign Affairs</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-02-24" type="1"></activity-date>
+  <activity-date iso-date="2023-02-24" type="2"></activity-date>
+  <activity-date iso-date="2023-08-23" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+   </organisation>
+   <telephone>+41 22 717 91 11</telephone>
+   <email>hq@iom.int</email>
+   <website>www.iom.int</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <location ref="SY">
+   <location-reach code="2"></location-reach>
+   <location-id code="SY" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Syrian Arab Republic</narrative>
+   </name>
+   <administrative code="SY" vocabulary="A4"></administrative>
+  </location>
+  <sector code="DP" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Assistance to Displaced Populations</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Syrian Arab Republic Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="2A" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with sufficient inclusion of gender issues (mainstreamed)</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-02-24">1000000</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-02-01"></transaction-date>
+   <value currency="USD" value-date="2023-03-06">1000000</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-701-2-TI/IOM/063" ref="XM-DAC-701-2" type="10">
+    <narrative xml:lang="EN">Japan - Ministry of Foreign Affairs</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2602" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">1000000</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">1000000</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-701-2-TI/IOM/063" ref="XM-DAC-701-2" type="10">
+    <narrative xml:lang="EN">Japan - Ministry of Foreign Affairs</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2602" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">1000000</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-02-24"></transaction-date>
+   <value currency="USD" value-date="2023-02-24">1000000</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2602" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2602" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="382" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-DP.2600</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Multi-Sector Assistance to Populations Affected by the Syria Crisis</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">This project&#x2019;s overall objective is to contribute to the delivery of targeted lifesaving WASH assistance to the most vulnerable persons among the affected population in NWS. IOM and IPs will be providing emergency WASH assistance and life-saving protection service to Earthquake (EQ) affected people in NWS for in both camps and/or collective centers, based on needs.</narrative>
+  </description>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <participating-org activity-id="US-GOV-1-720BHA23IO00066" ref="US-GOV-1" role="1" type="10">
+   <narrative xml:lang="EN">United States Agency for International Development (USAID) - BHA</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-01-01" type="1"></activity-date>
+  <activity-date iso-date="2023-01-01" type="2"></activity-date>
+  <activity-date iso-date="2023-12-31" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+   </organisation>
+   <telephone>+41 22 717 91 11</telephone>
+   <email>hq@iom.int</email>
+   <website>www.iom.int</website>
+   <mailing-address>
+    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <location ref="SY">
+   <location-reach code="2"></location-reach>
+   <location-id code="SY" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Syrian Arab Republic</narrative>
+   </name>
+   <administrative code="SY" vocabulary="A4"></administrative>
+  </location>
+  <sector code="DP" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Assistance to Displaced Populations</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Syrian Arab Republic Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="2A" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with sufficient inclusion of gender issues (mainstreamed)</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-01-01">12500000.57</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-01-01"></transaction-date>
+   <value currency="USD" value-date="2023-03-02">12500000.57</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="US-GOV-1-720BHA23IO00066" ref="US-GOV-1" type="10">
+    <narrative xml:lang="EN">United States Agency for International Development (USAID) - BHA</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2600" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">12500000.57</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">2493</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="US-GOV-1-720BHA23IO00066" ref="US-GOV-1" type="10">
+    <narrative xml:lang="EN">United States Agency for International Development (USAID) - BHA</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2600" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">2493</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-01-01"></transaction-date>
+   <value currency="USD" value-date="2023-01-01">12500000.57</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2600" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2600" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="381" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2599</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -58357,7 +59387,7 @@ Through this project, the International Organization for Migration (IOM) is cont
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="357" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="376" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2594</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -60186,7 +61216,7 @@ Through this project, the International Organization for Migration (IOM) is cont
   <related-activity ref="XM-DAC-41121-2023-EUR" type="1"></related-activity>
  </iati-activity>
 
- <iati-activity default-currency="EUR" dstore:dataset="zoa-activities" dstore:index="107" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="EUR" dstore:dataset="zoa-activities" dstore:index="107" hierarchy="1" humanitarian="1" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>NL-KVK-41009723-SYR2026</iati-identifier>
   <reporting-org ref="NL-KVK-41009723" secondary-reporter="0" type="21">
    <narrative xml:lang="EN">ZOA</narrative>
