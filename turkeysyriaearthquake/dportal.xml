@@ -63880,6 +63880,20 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>220406.752</unhcr:value-USD>
   </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">435</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>434.549</unhcr:value-USD>
+  </transaction>
   <transaction ref="F0191">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-06-02"></transaction-date>
@@ -64001,6 +64015,28 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>593589.237</unhcr:value-USD>
   </transaction>
+  <transaction ref="G0109">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-06-16"></transaction-date>
+   <value currency="NOK" value-date="2023-06-16">35000000</value>
+   <provider-org ref="NO-BRC-971277882" type="10">
+    <narrative xml:lang="EN">Norad - Norwegian Agency for Development Cooperation</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>3272863.288</unhcr:value-USD>
+  </transaction>
+  <transaction ref="F0378">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-15"></transaction-date>
+   <value currency="USD" value-date="2023-05-15">426351.45</value>
+   <provider-org provider-activity-id="XM-OCHA-CBPF-SYR-22/DDA-3558/RA2/S/NFI/UN/23905" ref="XM-OCHA-CBPF" type="40">
+    <narrative xml:lang="EN">OCHA Country Based Pooled Funds</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>426351.45</unhcr:value-USD>
+  </transaction>
   <transaction ref="G0036">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-12-14"></transaction-date>
@@ -64098,7 +64134,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-04-30"></transaction-date>
-   <value currency="USD" value-date="2023-04-30">228048</value>
+   <value currency="USD" value-date="2023-04-30">230771</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -64107,12 +64143,12 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>228048.406</unhcr:value-USD>
+   <unhcr:value-USD>230770.976</unhcr:value-USD>
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-05-31"></transaction-date>
-   <value currency="USD" value-date="2023-05-31">18988</value>
+   <value currency="USD" value-date="2023-05-31">35780</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -64121,7 +64157,21 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>18987.572</unhcr:value-USD>
+   <unhcr:value-USD>35779.532</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">15297</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>15296.548</unhcr:value-USD>
   </transaction>
   <transaction ref="G3019">
    <transaction-type code="11"></transaction-type>
@@ -64167,6 +64217,17 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>905250</unhcr:value-USD>
   </transaction>
+  <transaction ref="G0159">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-24"></transaction-date>
+   <value currency="USD" value-date="2023-05-24">499893.53</value>
+   <provider-org provider-activity-id="XM-OCHA-CBPF-CBPF-SYR-23-R-UN-24886" ref="XM-OCHA-CBPF" type="40">
+    <narrative xml:lang="EN">OCHA Country Based Pooled Funds</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>499893.53</unhcr:value-USD>
+  </transaction>
   <transaction ref="G0058">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-02-20"></transaction-date>
@@ -64195,7 +64256,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="A12"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://www.unhcr.org/ar/">
    <title>
@@ -64203,7 +64264,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="B16"></category>
    <language code="AR"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://help.unhcr.org/">
    <title>
@@ -64211,7 +64272,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://www.unhcr.org/">
    <title>
@@ -64219,7 +64280,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://reporting.unhcr.org/iati">
    <title>
@@ -64227,7 +64288,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://refugee-funding-tracker.org/">
    <title>
@@ -64235,7 +64296,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <related-activity ref="XM-DAC-41121-2022-MENA-SYR" type="3"></related-activity>
   <related-activity ref="XM-DAC-41121-2023-MENA" type="1"></related-activity>
@@ -64287,6 +64348,9 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </participating-org>
   <participating-org role="1" type="10">
    <narrative xml:lang="EN">Government of Qatar</narrative>
+  </participating-org>
+  <participating-org role="1" type="10">
+   <narrative xml:lang="EN">Government of T&#xFC;rkiye</narrative>
   </participating-org>
   <participating-org ref="XM-DAC-576" role="1" type="10">
    <narrative xml:lang="EN">Government of the United Arab Emirates</narrative>
@@ -64652,7 +64716,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-04-30"></transaction-date>
-   <value currency="USD" value-date="2023-04-30">41</value>
+   <value currency="USD" value-date="2023-04-30">27334</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -64661,7 +64725,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>41.3</unhcr:value-USD>
+   <unhcr:value-USD>27333.876</unhcr:value-USD>
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
@@ -64676,6 +64740,20 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>351156.039</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">3980</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>3979.613</unhcr:value-USD>
   </transaction>
   <transaction ref="G0092">
    <transaction-type code="11"></transaction-type>
@@ -64742,6 +64820,17 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>1978630.788</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0109">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-06-16"></transaction-date>
+   <value currency="NOK" value-date="2023-06-16">5000000</value>
+   <provider-org ref="NO-BRC-971277882" type="10">
+    <narrative xml:lang="EN">Norad - Norwegian Agency for Development Cooperation</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>467551.898</unhcr:value-USD>
   </transaction>
   <transaction ref="F0074">
    <transaction-type code="11"></transaction-type>
@@ -64887,7 +64976,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-03-31"></transaction-date>
-   <value currency="USD" value-date="2023-03-31">102813</value>
+   <value currency="USD" value-date="2023-03-31">207693</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -64896,7 +64985,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>102813.053</unhcr:value-USD>
+   <unhcr:value-USD>207693.053</unhcr:value-USD>
   </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
@@ -64925,6 +65014,20 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>2287880.18</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">37736</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>37735.849</unhcr:value-USD>
   </transaction>
   <transaction ref="E3036">
    <transaction-type code="11"></transaction-type>
@@ -64958,6 +65061,17 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>1694376.422</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G3025">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-07-10"></transaction-date>
+   <value currency="EUR" value-date="2023-07-10">5994372</value>
+   <provider-org ref="XI-IATI-EC_ECHO" type="15">
+    <narrative xml:lang="EN">European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>6565577.218</unhcr:value-USD>
   </transaction>
   <transaction ref="F3004">
    <transaction-type code="11"></transaction-type>
@@ -65003,6 +65117,17 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>579000</unhcr:value-USD>
   </transaction>
+  <transaction ref="GK010">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-06-22"></transaction-date>
+   <value currency="USD" value-date="2023-06-22">2526797</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of T&#xFC;rkiye</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>2526797</unhcr:value-USD>
+  </transaction>
   <transaction ref="GK006">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-05-11"></transaction-date>
@@ -65042,7 +65167,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="A12"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://help.unhcr.org/">
    <title>
@@ -65050,7 +65175,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://www.unhcr.org/">
    <title>
@@ -65058,7 +65183,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://reporting.unhcr.org/iati">
    <title>
@@ -65066,7 +65191,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://www.unhcr.org/search?page=search&amp;skip=0&amp;docid=&amp;cid=49aea93a7d&amp;coi=TUR&amp;comid=4a098fdd6">
    <title>
@@ -65074,7 +65199,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://refugee-funding-tracker.org/">
    <title>
@@ -65082,7 +65207,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-07-16"></document-date>
   </document-link>
   <related-activity ref="XM-DAC-41121-2022-EUR-TUR" type="3"></related-activity>
   <related-activity ref="XM-DAC-41121-2023-EUR" type="1"></related-activity>
