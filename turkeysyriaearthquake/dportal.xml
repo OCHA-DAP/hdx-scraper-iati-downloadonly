@@ -61714,7 +61714,7 @@
   </conditions>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1437" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1490" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0213</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -61802,6 +61802,25 @@
    <iom:agency-currency-value currency="USD">2999999.88</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">3000000</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution &#x2013; Tightly Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-OCHA-CERF-23-UF-IOM-011" ref="XM-OCHA-CERF" type="40">
+    <narrative xml:lang="EN">CENTRAL EMERGENCY RESPONSE FUND</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-SN.0213" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">3000000</iom:agency-currency-value>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-05-01"></transaction-date>
    <value currency="USD" value-date="2023-05-01">2999999.88</value>
@@ -61824,7 +61843,7 @@
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1435" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1488" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0211</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -61926,6 +61945,25 @@ In response to the immediate need for better shelter and access to basic service
    <iom:agency-currency-value currency="USD">9000000.01</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">8999980</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-552-99-AK/IK" ref="XM-DAC-552-99" type="10">
+    <narrative xml:lang="EN">Kuwait</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-SN.0211" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">8999980</iom:agency-currency-value>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-03-01"></transaction-date>
    <value currency="USD" value-date="2023-03-01">9000000.01</value>
@@ -61948,7 +61986,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1432" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1485" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0206</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -62062,6 +62100,18 @@ In response to the immediate need for better shelter and access to basic service
    <iom:agency-currency-value currency="USD">2500000</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">38469.18</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-SN.0206" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-02-24"></transaction-date>
    <value currency="USD" value-date="2023-02-24">2500000.07</value>
@@ -62084,7 +62134,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1431" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1484" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0205</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -62101,10 +62151,11 @@ In response to the immediate need for better shelter and access to basic service
   <participating-org activity-id="XM-OCHA-CBPF-TUR-22/3559/SA2/NFI/UN/2" ref="XM-OCHA-CBPF" role="1" type="40">
    <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
   </participating-org>
-  <activity-status code="2"></activity-status>
+  <activity-status code="3"></activity-status>
   <activity-date iso-date="2023-02-18" type="1"></activity-date>
   <activity-date iso-date="2023-02-18" type="2"></activity-date>
   <activity-date iso-date="2023-07-22" type="3"></activity-date>
+  <activity-date iso-date="2023-07-22" type="4"></activity-date>
   <contact-info type="1">
    <organisation>
     <narrative xml:lang="EN">IOM - Switzerland</narrative>
@@ -62186,6 +62237,18 @@ In response to the immediate need for better shelter and access to basic service
    <iom:agency-currency-value currency="USD">3000000</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">30761.76</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-SN.0205" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-02-18"></transaction-date>
    <value currency="USD" value-date="2023-02-18">3000000.02</value>
@@ -62208,7 +62271,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="415" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="417" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2641</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -62291,6 +62354,25 @@ In response to the immediate need for better shelter and access to basic service
    <iom:agency-currency-value currency="USD">1000000.03</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">1000000</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-701-2-YK/IOM/138" ref="XM-DAC-701-2" type="10">
+    <narrative xml:lang="EN">Japan - Ministry of Foreign Affairs</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2641" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">1000000</iom:agency-currency-value>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-05-31"></transaction-date>
    <value currency="USD" value-date="2023-05-31">1000000.03</value>
@@ -62313,7 +62395,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="409" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="410" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2632</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -62403,6 +62485,25 @@ The project aims to contribute to the humanitarian operation to improve the livi
    <iom:agency-currency-value currency="USD">5000000.41</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">5000000</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-552-99-AK/IK" ref="XM-DAC-552-99" type="10">
+    <narrative xml:lang="EN">Kuwait</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2632" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">5000000</iom:agency-currency-value>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-03-21"></transaction-date>
    <value currency="USD" value-date="2023-03-21">5000000.41</value>
@@ -62425,7 +62526,7 @@ The project aims to contribute to the humanitarian operation to improve the livi
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="407" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="408" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2629</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -62520,6 +62621,25 @@ The project aims to contribute to the humanitarian operation to improve the livi
    <iom:agency-currency-value currency="USD">3706034.5</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="CAD" value-date="2023-06-30">5000000</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="CA-3-P012673" ref="CA-3" type="10">
+    <narrative xml:lang="EN">Canada - Global Affairs Canada | Affaires mondiales Canada</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2629" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">3641660.6</iom:agency-currency-value>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-03-24"></transaction-date>
    <value currency="USD" value-date="2023-03-24">3706034.5</value>
@@ -62542,7 +62662,7 @@ The project aims to contribute to the humanitarian operation to improve the livi
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="401" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="402" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2623</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -62639,6 +62759,25 @@ Through this project, the International Organization for Migration (IOM) is cont
    <iom:agency-currency-value currency="USD">1438792.38</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="NOK" value-date="2023-06-30">15000000</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-8-4-NO-BRC-971277882" ref="XM-DAC-8-4" type="10">
+    <narrative xml:lang="EN">Norway - Ministry of Foreign Affairs</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2623" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">1436231.33</iom:agency-currency-value>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-03-01"></transaction-date>
    <value currency="USD" value-date="2023-03-01">1438792.38</value>
@@ -62661,7 +62800,7 @@ Through this project, the International Organization for Migration (IOM) is cont
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="398" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="399" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2620</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -62746,6 +62885,25 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
    <iom:agency-currency-value currency="USD">1982882.85</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">1982882.81</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution &#x2013; Tightly Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-OCHA-CBPF-CBPF-TUR-23-R-UN-24623" ref="XM-OCHA-CBPF" type="40">
+    <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2620" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">1982882.81</iom:agency-currency-value>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-04-01"></transaction-date>
    <value currency="USD" value-date="2023-04-01">1982882.85</value>
@@ -62768,7 +62926,7 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="397" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="398" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2619</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -62851,6 +63009,25 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
    <iom:agency-currency-value currency="USD">2847347.6</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">2847347.58</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution &#x2013; Tightly Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-OCHA-CBPF-CBPF-TUR-23-R-UN-24642" ref="XM-OCHA-CBPF" type="40">
+    <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2619" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">2847347.58</iom:agency-currency-value>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-04-01"></transaction-date>
    <value currency="USD" value-date="2023-04-01">2847347.6</value>
@@ -62873,7 +63050,7 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="384" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="385" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2602</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -62999,7 +63176,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="382" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="383" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2600</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -63101,6 +63278,37 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <iom:agency-currency-value currency="USD">2493</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">641185</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="US-GOV-1-720BHA23IO00066" ref="US-GOV-1" type="10">
+    <narrative xml:lang="EN">United States Agency for International Development (USAID) - BHA</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2600" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">641185</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">177422.74</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2600" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-01-01"></transaction-date>
    <value currency="USD" value-date="2023-01-01">12500000.57</value>
@@ -63123,7 +63331,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="381" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="382" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2599</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -63237,6 +63445,37 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <iom:agency-currency-value currency="USD">1994</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">4189884</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="US-GOV-1-720BHA23IO00081" ref="US-GOV-1" type="10">
+    <narrative xml:lang="EN">United States Agency for International Development (USAID) - BHA</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2599" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">4189884</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">919274.47</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2599" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-02-16"></transaction-date>
    <value currency="USD" value-date="2023-02-16">4999999.97</value>
@@ -63259,7 +63498,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="376" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="377" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2594</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -63371,6 +63610,18 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
    <iom:agency-currency-value currency="USD">2250000</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-03-31"></transaction-date>
+   <value currency="USD" value-date="2023-03-31">398744.17</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2594" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
   </transaction>
   <transaction>
    <transaction-type code="2"></transaction-type>
