@@ -65567,11 +65567,11 @@ GOPA: 3250 Individuals (650 HH)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="5338">
+     <target value="17588">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
-     <actual>
+     <actual value="4566">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </actual>
@@ -65579,11 +65579,11 @@ GOPA: 3250 Individuals (650 HH)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="3812">
+     <target value="12062">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual>
+     <actual value="4029">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -65591,11 +65591,11 @@ GOPA: 3250 Individuals (650 HH)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="3050">
+     <target value="11300">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
-     <actual>
+     <actual value="2660">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </actual>
@@ -65603,11 +65603,11 @@ GOPA: 3250 Individuals (650 HH)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="3050">
+     <target value="11300">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual>
+     <actual value="2898">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -65649,7 +65649,7 @@ GOPA: 3250 Individuals (650 HH)</narrative>
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
-     <actual>
+     <actual value="0">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </actual>
@@ -65661,7 +65661,7 @@ GOPA: 3250 Individuals (650 HH)</narrative>
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual>
+     <actual value="0">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -65673,7 +65673,7 @@ GOPA: 3250 Individuals (650 HH)</narrative>
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
-     <actual>
+     <actual value="0">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </actual>
@@ -65685,7 +65685,7 @@ GOPA: 3250 Individuals (650 HH)</narrative>
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual>
+     <actual value="0">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -65725,11 +65725,11 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="4665">
+     <target value="2319">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
-     <actual>
+     <actual value="1892">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </actual>
@@ -65737,11 +65737,11 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="3333">
+     <target value="1656">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual>
+     <actual value="1690">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -65749,11 +65749,11 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="2666">
+     <target value="1325">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
-     <actual>
+     <actual value="1308">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </actual>
@@ -65761,11 +65761,11 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="2666">
+     <target value="1325">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual>
+     <actual value="1239">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -65774,91 +65774,14 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
   </result>
   <result type="1">
    <title>
-    <narrative xml:lang="EN">CSH-I1 Unconditional and unrestricted cash</narrative>
+    <narrative xml:lang="EN">WSH-I5 Solid waste management</narrative>
    </title>
    <indicator aggregation-status="1" ascending="1" measure="1">
     <title>
-     <narrative xml:lang="EN">Number of people benefitting from unconditional and unrestricted cash transfers</narrative>
+     <narrative xml:lang="EN">Number of people living in settlements with a functional solid waste management system</narrative>
     </title>
     <description>
-     <narrative xml:lang="EN">Three rounds of MPC to 350 HH</narrative>
-    </description>
-    <baseline iso-date="2022-01-01" value="0" year="2022">
-     <dimension name="Age" value="18+"></dimension>
-     <dimension name="Sex" value="Female"></dimension>
-    </baseline>
-    <baseline iso-date="2022-01-01" value="0" year="2022">
-     <dimension name="Age" value="18+"></dimension>
-     <dimension name="Sex" value="Male"></dimension>
-    </baseline>
-    <baseline iso-date="2022-01-01" value="0" year="2022">
-     <dimension name="Age" value="Under 18"></dimension>
-     <dimension name="Sex" value="Female"></dimension>
-    </baseline>
-    <baseline iso-date="2022-01-01" value="0" year="2022">
-     <dimension name="Age" value="Under 18"></dimension>
-     <dimension name="Sex" value="Male"></dimension>
-    </baseline>
-    <period>
-     <period-start iso-date="2022-01-01"></period-start>
-     <period-end iso-date="2023-12-31"></period-end>
-     <target value="647">
-      <dimension name="Age" value="18+"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </target>
-     <actual>
-      <dimension name="Age" value="18+"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </actual>
-    </period>
-    <period>
-     <period-start iso-date="2022-01-01"></period-start>
-     <period-end iso-date="2023-12-31"></period-end>
-     <target value="463">
-      <dimension name="Age" value="18+"></dimension>
-      <dimension name="Sex" value="Male"></dimension>
-     </target>
-     <actual>
-      <dimension name="Age" value="18+"></dimension>
-      <dimension name="Sex" value="Male"></dimension>
-     </actual>
-    </period>
-    <period>
-     <period-start iso-date="2022-01-01"></period-start>
-     <period-end iso-date="2023-12-31"></period-end>
-     <target value="370">
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </target>
-     <actual>
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </actual>
-    </period>
-    <period>
-     <period-start iso-date="2022-01-01"></period-start>
-     <period-end iso-date="2023-12-31"></period-end>
-     <target value="370">
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Male"></dimension>
-     </target>
-     <actual>
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Male"></dimension>
-     </actual>
-    </period>
-   </indicator>
-  </result>
-  <result type="1">
-   <title>
-    <narrative xml:lang="EN">WSH-I4 Water supply</narrative>
-   </title>
-   <indicator aggregation-status="1" ascending="1" measure="1">
-    <title>
-     <narrative xml:lang="EN">Number of people having access to sufficient and safe water for domestic use</narrative>
-    </title>
-    <description>
-     <narrative xml:lang="EN">Water trucking for two months</narrative>
+     <narrative xml:lang="EN">WASH rehabilitation in collective shelters: 2250 individuals (450 HHs)</narrative>
     </description>
     <reference code="WSH-I4" indicator-uri="https://www.zoa-international.com/" vocabulary="99"></reference>
     <baseline iso-date="2022-01-01" value="0" year="2022">
@@ -65880,11 +65803,11 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="5833">
+     <target value="787">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
-     <actual>
+     <actual value="0">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </actual>
@@ -65892,11 +65815,11 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="4167">
+     <target value="563">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual>
+     <actual value="0">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -65904,11 +65827,11 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="3333">
+     <target value="450">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
-     <actual>
+     <actual value="0">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </actual>
@@ -65916,11 +65839,11 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="3333">
+     <target value="450">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual>
+     <actual value="0">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
