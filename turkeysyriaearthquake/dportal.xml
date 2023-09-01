@@ -67418,7 +67418,7 @@
   </conditions>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1490" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1552" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0213</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -67547,7 +67547,7 @@
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1488" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1550" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0211</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -67690,7 +67690,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1485" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1547" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0206</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -67707,10 +67707,11 @@ In response to the immediate need for better shelter and access to basic service
   <participating-org activity-id="XM-DAC-701-2-TI/IOM/063" ref="XM-DAC-701-2" role="1" type="10">
    <narrative xml:lang="EN">Japan - Ministry of Foreign Affairs</narrative>
   </participating-org>
-  <activity-status code="2"></activity-status>
+  <activity-status code="3"></activity-status>
   <activity-date iso-date="2023-02-24" type="1"></activity-date>
   <activity-date iso-date="2023-02-24" type="2"></activity-date>
   <activity-date iso-date="2023-08-23" type="3"></activity-date>
+  <activity-date iso-date="2023-08-23" type="4"></activity-date>
   <contact-info type="1">
    <organisation>
     <narrative xml:lang="EN">IOM - Switzerland</narrative>
@@ -67838,7 +67839,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1484" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1546" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0205</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -67855,11 +67856,10 @@ In response to the immediate need for better shelter and access to basic service
   <participating-org activity-id="XM-OCHA-CBPF-TUR-22/3559/SA2/NFI/UN/2" ref="XM-OCHA-CBPF" role="1" type="40">
    <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
   </participating-org>
-  <activity-status code="3"></activity-status>
+  <activity-status code="2"></activity-status>
   <activity-date iso-date="2023-02-18" type="1"></activity-date>
   <activity-date iso-date="2023-02-18" type="2"></activity-date>
-  <activity-date iso-date="2023-07-22" type="3"></activity-date>
-  <activity-date iso-date="2023-07-22" type="4"></activity-date>
+  <activity-date iso-date="2023-10-22" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
     <narrative xml:lang="EN">IOM - Switzerland</narrative>
@@ -67899,13 +67899,13 @@ In response to the immediate need for better shelter and access to basic service
   <budget status="2" type="1">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2023-02-18">3000000.02</value>
+   <value currency="USD" value-date="2023-02-18">3000000</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-02-01"></transaction-date>
-   <value currency="USD" value-date="2023-03-02">3000000.02</value>
+   <value currency="USD" value-date="2023-03-02">3000000</value>
    <description>
     <narrative xml:lang="EN">Contracted Grant Amount</narrative>
    </description>
@@ -67919,7 +67919,7 @@ In response to the immediate need for better shelter and access to basic service
    <finance-type code="110"></finance-type>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <iom:agency-currency-value currency="USD">3000000.02</iom:agency-currency-value>
+   <iom:agency-currency-value currency="USD">3000000</iom:agency-currency-value>
   </transaction>
   <transaction>
    <transaction-type code="1"></transaction-type>
@@ -67955,7 +67955,7 @@ In response to the immediate need for better shelter and access to basic service
   <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-02-18"></transaction-date>
-   <value currency="USD" value-date="2023-02-18">3000000.02</value>
+   <value currency="USD" value-date="2023-02-18">3000000</value>
    <description>
     <narrative xml:lang="EN">Total Budget Committed</narrative>
    </description>
@@ -67975,7 +67975,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="417" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="422" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2641</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -68099,7 +68099,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="410" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="415" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2632</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -68230,7 +68230,7 @@ The project aims to contribute to the humanitarian operation to improve the livi
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="408" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="413" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2629</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -68366,7 +68366,7 @@ The project aims to contribute to the humanitarian operation to improve the livi
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="402" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="407" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2623</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -68504,7 +68504,7 @@ Through this project, the International Organization for Migration (IOM) is cont
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="399" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="404" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2620</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -68630,7 +68630,7 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="398" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="403" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2619</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -68754,7 +68754,7 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="385" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="390" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2602</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -68773,10 +68773,11 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <participating-org activity-id="XM-DAC-701-2-TI/IOM/063" ref="XM-DAC-701-2" role="1" type="10">
    <narrative xml:lang="EN">Japan - Ministry of Foreign Affairs</narrative>
   </participating-org>
-  <activity-status code="2"></activity-status>
+  <activity-status code="3"></activity-status>
   <activity-date iso-date="2023-02-24" type="1"></activity-date>
   <activity-date iso-date="2023-02-24" type="2"></activity-date>
   <activity-date iso-date="2023-08-23" type="3"></activity-date>
+  <activity-date iso-date="2023-08-23" type="4"></activity-date>
   <contact-info type="1">
    <organisation>
     <narrative xml:lang="EN">IOM - Switzerland</narrative>
@@ -68880,7 +68881,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="383" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="388" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2600</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -69035,7 +69036,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="382" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="387" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2599</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -69052,10 +69053,11 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <participating-org activity-id="US-GOV-1-720BHA23IO00081" ref="US-GOV-1" role="1" type="10">
    <narrative xml:lang="EN">United States Agency for International Development (USAID) - BHA</narrative>
   </participating-org>
-  <activity-status code="2"></activity-status>
+  <activity-status code="3"></activity-status>
   <activity-date iso-date="2023-02-16" type="1"></activity-date>
   <activity-date iso-date="2023-02-16" type="2"></activity-date>
   <activity-date iso-date="2023-08-15" type="3"></activity-date>
+  <activity-date iso-date="2023-08-15" type="4"></activity-date>
   <contact-info type="1">
    <organisation>
     <narrative xml:lang="EN">IOM - Switzerland</narrative>
@@ -69202,7 +69204,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="377" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="382" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2594</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -69219,10 +69221,11 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <participating-org ref="XM-DAC-47066" role="2" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
   </participating-org>
-  <activity-status code="2"></activity-status>
+  <activity-status code="3"></activity-status>
   <activity-date iso-date="2023-02-06" type="1"></activity-date>
   <activity-date iso-date="2023-02-06" type="2"></activity-date>
   <activity-date iso-date="2023-08-05" type="3"></activity-date>
+  <activity-date iso-date="2023-08-05" type="4"></activity-date>
   <contact-info type="1">
    <organisation>
     <narrative xml:lang="EN">IOM - Switzerland</narrative>
