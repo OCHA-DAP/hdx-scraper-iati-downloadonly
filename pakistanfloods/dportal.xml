@@ -23594,8 +23594,8 @@
    <narrative xml:lang="EN">United Nations High Commissioner for Refugees (UNHCR)</narrative>
   </reporting-org>
   <title>
-   <narrative xml:lang="FR">L&apos;op&#xE9;ration du HCR au Pakistan</narrative>
-   <narrative xml:lang="EN">UNHCR operation in Pakistan</narrative>
+   <narrative xml:lang="FR">L&apos;op&#xE9;ration du HCR au Pakistan (2022)</narrative>
+   <narrative xml:lang="EN">UNHCR operation in Pakistan (2022)</narrative>
   </title>
   <description type="1">
    <narrative xml:lang="FR">Cette activit&#xE9; montre les d&#xE9;tails de l&apos;op&#xE9;ration du HCR au Pakistan pour 2022, y compris le budget, les financements, les d&#xE9;penses et les r&#xE9;sultats.</narrative>
@@ -23604,6 +23604,9 @@
   <description type="3">
    <narrative xml:lang="FR">Le HCR, l&apos;Agence des Nations Unies pour les r&#xE9;fugi&#xE9;s, est une organisation internationale qui a pour mission de sauver des vies, de prot&#xE9;ger les droits des r&#xE9;fugi&#xE9;s et de construire un avenir meilleur pour les r&#xE9;fugi&#xE9;s, les communaut&#xE9;s d&#xE9;plac&#xE9;es et les apatrides.</narrative>
    <narrative xml:lang="EN">UNHCR, the UN Refugee Agency, is a global organisation dedicated to saving lives, protecting rights and building a better future for refugees, forcibly displaced communities and stateless people.</narrative>
+  </description>
+  <description type="4">
+   <narrative xml:lang="EN">UNHCR has moved to new RBM approach and 2022 is first year of reporting on new indicators. Setting baseline and target remains challenging in terms of timing and its accuracy due to various reasoning hence the data provided are best available at the time of setting baseline and targets. Hence comparison of baseline and target with actual may not best represent the status and traffic light in d-portal.org. UNHCR strives to work around better quality data for baseline, target and actuals in comings year. With new RBM approach, targets for core impact indicator are not applicable.</narrative>
   </description>
   <participating-org ref="XM-DAC-6-4" role="1" type="10">
    <narrative xml:lang="EN">AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development</narrative>
@@ -24034,6 +24037,9 @@
   </humanitarian-scope>
   <humanitarian-scope code="PAKISTAN-FLOOD-RESPONSE-2022" type="2" vocabulary="99" vocabulary-uri="https://reporting.unhcr.org/pakistan-flood-supplementary-appeal">
    <narrative xml:lang="EN">Pakistan Flood Response Supplementary Appeal</narrative>
+  </humanitarian-scope>
+  <humanitarian-scope code="PAKISTAN-FLOOD-RESPONSE-2023" type="2" vocabulary="99" vocabulary-uri="https://reporting.unhcr.org/pakistan-flood-response-unhcr-supplementary-appeal">
+   <narrative xml:lang="EN">Pakistan Flood Response, UNHCR Supplementary Appeal, September 2022-December 2023</narrative>
   </humanitarian-scope>
   <humanitarian-scope code="OPAK2223" type="2" vocabulary="2-1" vocabulary-uri="https://reporting.unhcr.org/publications">
    <narrative xml:lang="EN">Pakistan Floods Response Plan 2022</narrative>
@@ -25207,13 +25213,45 @@
     <narrative xml:lang="EN">Total expenditure for 2022</narrative>
    </description>
   </transaction>
+  <document-link format="TEXT/HTML" url="https://reporting.unhcr.org/operational/operations/pakistan?year=2022#toc-narratives">
+   <title>
+    <narrative xml:lang="EN">Strategy</narrative>
+   </title>
+   <category code="A02"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2023-08-21"></document-date>
+  </document-link>
+  <document-link format="TEXT/HTML" url="https://reporting.unhcr.org/operational/operations/pakistan?year=2022#toc-populations">
+   <title>
+    <narrative xml:lang="EN">Populations</narrative>
+   </title>
+   <category code="A03"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2023-08-21"></document-date>
+  </document-link>
+  <document-link format="TEXT/HTML" url="https://reporting.unhcr.org/operational/operations/pakistan?year=2022#toc-financials">
+   <title>
+    <narrative xml:lang="EN">Financials</narrative>
+   </title>
+   <category code="A05"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2023-08-21"></document-date>
+  </document-link>
+  <document-link format="TEXT/HTML" url="https://reporting.unhcr.org/sites/default/files/2023-06/Asia%20-%20Pakistan.pdf">
+   <title>
+    <narrative xml:lang="EN">Annual Results Report 2022</narrative>
+   </title>
+   <category code="A08"></category>
+   <language code="EN"></language>
+   <document-date iso-date="2023-05-29"></document-date>
+  </document-link>
   <document-link format="TEXT/HTML" url="https://reporting.unhcr.org/pakistan">
    <title>
     <narrative xml:lang="EN">Operation Website</narrative>
    </title>
    <category code="A12"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-08-21"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://help.unhcr.org/">
    <title>
@@ -25221,7 +25259,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-08-21"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="https://www.unhcr.org/">
    <title>
@@ -25229,7 +25267,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-08-21"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://reporting.unhcr.org/iati">
    <title>
@@ -25237,15 +25275,7 @@
    </title>
    <category code="B16"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
-  </document-link>
-  <document-link format="TEXT/HTML" url="http://www.unhcr.org/search?page=search&amp;skip=0&amp;docid=&amp;cid=49aea93a7d&amp;coi=PAK&amp;comid=4a098fdd6">
-   <title>
-    <narrative xml:lang="EN">Latest News</narrative>
-   </title>
-   <category code="B17"></category>
-   <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-08-21"></document-date>
   </document-link>
   <document-link format="TEXT/HTML" url="http://refugee-funding-tracker.org/">
    <title>
@@ -25253,7 +25283,7 @@
    </title>
    <category code="B17"></category>
    <language code="EN"></language>
-   <document-date iso-date="2023-06-18"></document-date>
+   <document-date iso-date="2023-08-21"></document-date>
   </document-link>
   <related-activity ref="XM-DAC-41121-2021-ASO-PAK" type="3"></related-activity>
   <related-activity ref="XM-DAC-41121-2022-ASO" type="1"></related-activity>
