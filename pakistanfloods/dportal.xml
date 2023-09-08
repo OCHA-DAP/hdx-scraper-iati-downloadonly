@@ -25288,6 +25288,635 @@
   <related-activity ref="XM-DAC-41121-2021-ASO-PAK" type="3"></related-activity>
   <related-activity ref="XM-DAC-41121-2022-ASO" type="1"></related-activity>
   <related-activity ref="XM-DAC-41121-2023-ASO-PAK" type="3"></related-activity>
+  <result type="3">
+   <title>
+    <narrative xml:lang="EN">3. Impact area: Empowering communities and achieving gender equality (Empower)</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">3.1 Proportion of PoC who have the right to decent work [GCR, 2.1.1]</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Note: Targets are not applicable for this core impact indicator</narrative>
+    </description>
+    <reference code="GCR 2.1.1" indicator-uri="https://www.unhcr.org/media/global-compact-refugees-indicator-framework-2022" vocabulary="99"></reference>
+    <baseline value="0" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="0">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">3.2a Proportion of PoC enrolled in primary education</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Note: Targets are not applicable for this core impact indicator</narrative>
+    </description>
+    <baseline value="17.18" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="18.35">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">3.2b Proportion of PoC enrolled in secondary education</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Note: Targets are not applicable for this core impact indicator</narrative>
+    </description>
+    <baseline value="3.6" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="3.58">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="3">
+   <title>
+    <narrative xml:lang="EN">4. Impact area: Securing solutions (Solve)</narrative>
+   </title>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">4.3b Number of refugees for whom residency status is granted or confirmed.</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Note: Targets are not applicable for this core impact indicator</narrative>
+    </description>
+    <baseline value="0" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="0">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">4.2a Number of PoC who departed on resettlement. [GCR 3.1.1]</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Note: Targets are not applicable for this core impact indicator</narrative>
+    </description>
+    <reference code="GCR 3.1.1" indicator-uri="https://www.unhcr.org/media/global-compact-refugees-indicator-framework-2022" vocabulary="99"></reference>
+    <baseline value="16" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="19">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">4.1 Number of refugees who voluntarily return in safety and dignity to their country of origin. [RF/GCR 4.2.1]</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Note: Targets are not applicable for this core impact indicator</narrative>
+    </description>
+    <reference code="GCR 4.2.1" indicator-uri="https://www.unhcr.org/media/global-compact-refugees-indicator-framework-2022" vocabulary="99"></reference>
+    <baseline value="435" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="6039">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">4.3a Number of stateless persons for whom nationality is granted or confirmed.</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Note: Targets are not applicable for this core impact indicator</narrative>
+    </description>
+    <baseline value="2500" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Stateless Persons"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="72">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Stateless Persons"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">4.2b Number of PoC who departed through complementary pathways</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Note: Targets are not applicable for this core impact indicator</narrative>
+    </description>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="79">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="2">
+   <title>
+    <narrative xml:lang="EN">13. Outcome area: Self-reliance, economic inclusion and livelihoods</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">13.1. Proportion of PoC with an account at a bank or other financial institution or with a mobile-money-service provider [SDG 8.10.2 Tier 1].</narrative>
+    </title>
+    <reference code="SDG 8.10.2 Tier 1" vocabulary="9"></reference>
+    <baseline value="0" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="25">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="0.05">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="3">
+   <title>
+    <narrative xml:lang="EN">1. Impact area: Attaining favorable protection environments (Protect)</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">1.2 Proportion of PoC who are able to move freely within the country of habitual residence. [GCR 2.1.2]</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Note: Targets are not applicable for this core impact indicator</narrative>
+    </description>
+    <reference code="GCR 2.1.2" indicator-uri="https://www.unhcr.org/media/global-compact-refugees-indicator-framework-2022" vocabulary="99"></reference>
+    <baseline value="100" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="100">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">1.1 Proportion of individuals seeking international protection who are able to access asylum procedures.</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Note: Targets are not applicable for this core impact indicator</narrative>
+    </description>
+    <baseline value="93.24" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="0">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="3">
+   <title>
+    <narrative xml:lang="EN">2. Impact area: Realizing rights in safe environments (Respond)</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">2.3 Proportion of PoC with access to health services</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Note: Targets are not applicable for this core impact indicator</narrative>
+    </description>
+    <baseline value="100" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="80.96">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="2">
+   <title>
+    <narrative xml:lang="EN">14. Outcome area: Voluntary repatriation and sustainable reintegration</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">14.2 Proportion of PoC who wants to receive the CoO information actually receives it.</narrative>
+    </title>
+    <baseline value="100" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="100">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="100">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="2">
+   <title>
+    <narrative xml:lang="EN">5. Outcome area: Child protection</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">5.1 Proportion of children at heightened risk who are supported by a Best Interests Procedure.</narrative>
+    </title>
+    <baseline value="24.99" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="60">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="30.16">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">5.2 Proportion of children who participate in community-based child protection programmes</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <actual value="1">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">5.3 Proportion of unaccompanied and separated children who are in an appropriate alternative care arrangement</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="70">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="95.11">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="2">
+   <title>
+    <narrative xml:lang="EN">2. Outcome area: Status determination</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="0" measure="1">
+    <title>
+     <narrative xml:lang="EN">2.1 Average processing time (in days) from registration to first instance asylum decision (disaggregated by individual and group procedures).</narrative>
+    </title>
+    <baseline value="344" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="270">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="322">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">2.3 Proportion of individuals undergoing asylum procedures who have access to an effective appeal mechanism after first instance rejection of their claim.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="100">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="100">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="2">
+   <title>
+    <narrative xml:lang="EN">10. Outcome area: Healthy Lives</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">10.2. Proportion of births attended by skilled health personnel. [SDG 3.1.2 Tier 1]</narrative>
+    </title>
+    <reference code="SDG 3.1.2 Tier 1" vocabulary="9"></reference>
+    <baseline value="68" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="85">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="83.99">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">10.1 Proportion of children aged 9 months to five years who have received measles vaccination.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="95">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="82.1">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="2">
+   <title>
+    <narrative xml:lang="EN">15. Outcome area: Resettlement and complementary pathways</narrative>
+   </title>
+   <indicator aggregation-status="1" ascending="1" measure="1">
+    <title>
+     <narrative xml:lang="EN">15.1 Number of refugees submitted by UNHCR for resettlement.</narrative>
+    </title>
+    <baseline value="7" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="3500">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="3504">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="2">
+   <title>
+    <narrative xml:lang="EN">1. Outcome area: Access to territory, registration and documentation</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">1.3 Proportion of PoC with legally recognized identity documents or credentials [GCR 4.2.2].</narrative>
+    </title>
+    <reference code="GCR 4.2.2" indicator-uri="https://www.unhcr.org/media/global-compact-refugees-indicator-framework-2022" vocabulary="99"></reference>
+    <baseline value="84.2" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="100">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="74.47">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">1.1 Proportion of refugees and asylum seekers registered on an individual basis.</narrative>
+    </title>
+    <baseline value="92.82" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="100">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="83.91">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="2">
+   <title>
+    <narrative xml:lang="EN">8. Outcome area: Well-being and basic needs</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">8.1 Proportion of PoC in need that receive cash transfers or in-kind assistance.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="100">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="100">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">8.2 Proportion of PoC with primary reliance on clean (cooking) fuels and technology [SDG 7.1.2 Tier 1]</narrative>
+    </title>
+    <reference code="SDG 7.1.2 Tier 1" vocabulary="9"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="26">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="26.36">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="2">
+   <title>
+    <narrative xml:lang="EN">9. Outcome area: Sustainable housing and settlements</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">9.2 Proportion of PoC that have energy to ensure lighting (close to Sphere).</narrative>
+    </title>
+    <reference code="Shelter and Settlement, Household items" vocabulary="2"></reference>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="20">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="26.36">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="2">
+   <title>
+    <narrative xml:lang="EN">7. Outcome area: Community engagement and women&apos;s empowerment</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">7.2 Proportion of PoC who have access to effective feedback and response mechanisms.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="4">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="3.98">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">7.3 Proportion (and number) of active female participants on leadership/management structures.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="45">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="44.86">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="1" measure="2">
+    <title>
+     <narrative xml:lang="EN">7.1 Proportion of PoC who participate meaningfully across all phases of the OMC.</narrative>
+    </title>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="8">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="8.09">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
  </iati-activity>
 
  <iati-activity dstore:dataset="cordaid-41160054" dstore:index="122" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
