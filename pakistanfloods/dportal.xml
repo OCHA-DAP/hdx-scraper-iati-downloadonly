@@ -25639,6 +25639,59 @@
   </result>
   <result type="2">
    <title>
+    <narrative xml:lang="EN">3. Outcome area: Protection policy and law</narrative>
+   </title>
+   <indicator aggregation-status="0" ascending="0" measure="4">
+    <title>
+     <narrative xml:lang="EN">3.1 Extent national legal framework is in line with the 1951 Convention and/or its 1967 Protocol.</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Legend: 1=Favorable; 2=Adequate; 3=Not Adequate</narrative>
+    </description>
+    <baseline value="3" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="3">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </target>
+     <actual value="3">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Refugees and Asylum-seekers"></dimension>
+     </actual>
+    </period>
+   </indicator>
+   <indicator aggregation-status="0" ascending="0" measure="4">
+    <title>
+     <narrative xml:lang="EN">3.2 Extent national legal framework is in line with the 1961 Convention on the Reduction of Statelessness.</narrative>
+    </title>
+    <description>
+     <narrative xml:lang="EN">Legend: 1=Favorable; 2=Adequate; 3=Not Adequate</narrative>
+    </description>
+    <baseline value="3" year="2021">
+     <location ref="Pakistan"></location>
+     <dimension name="Population Type" value="Stateless Persons"></dimension>
+    </baseline>
+    <period>
+     <period-start iso-date="2022-01-01"></period-start>
+     <period-end iso-date="2022-12-31"></period-end>
+     <target value="3">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Stateless Persons"></dimension>
+     </target>
+     <actual value="3">
+      <location ref="Pakistan"></location>
+      <dimension name="Population Type" value="Stateless Persons"></dimension>
+     </actual>
+    </period>
+   </indicator>
+  </result>
+  <result type="2">
+   <title>
     <narrative xml:lang="EN">2. Outcome area: Status determination</narrative>
    </title>
    <indicator aggregation-status="0" ascending="0" measure="1">
