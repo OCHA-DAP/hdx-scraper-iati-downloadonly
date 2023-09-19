@@ -74876,10 +74876,10 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <default-finance-type code="110"></default-finance-type>
   <default-aid-type code="C01" vocabulary="1"></default-aid-type>
   <default-tied-status code="5"></default-tied-status>
-  <budget status="2" type="1">
+  <budget status="2" type="2">
    <period-start iso-date="2023-02-11"></period-start>
    <period-end iso-date="2023-08-10"></period-end>
-   <value currency="EUR" value-date="2023-02-21">429210</value>
+   <value currency="EUR" value-date="2023-08-07">443884</value>
   </budget>
   <transaction humanitarian="1" ref="Incoming commitment ZOA">
    <transaction-type code="11"></transaction-type>
