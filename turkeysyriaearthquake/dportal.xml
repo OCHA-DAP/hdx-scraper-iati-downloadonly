@@ -70886,7 +70886,7 @@
   </conditions>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1552" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1600" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0213</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -70927,14 +70927,14 @@
    </name>
    <administrative code="SY" vocabulary="A4"></administrative>
   </location>
-  <sector code="SN" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
-   <narrative xml:lang="EN">Emergency Shelter and Settlements</narrative>
-  </sector>
   <sector code="72010" percentage="100" vocabulary="1">
    <narrative xml:lang="EN">Material relief assistance and services</narrative>
   </sector>
   <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
    <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <sector code="SN" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Shelter and Settlements</narrative>
   </sector>
   <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
    <narrative xml:lang="EN">Flash Appeal: Syrian Arab Republic Earthquake</narrative>
@@ -71015,7 +71015,7 @@
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1550" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1598" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0211</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -71070,14 +71070,14 @@ In response to the immediate need for better shelter and access to basic service
    <location-class code="3"></location-class>
    <feature-designation code="BLDO"></feature-designation>
   </location>
-  <sector code="SN" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
-   <narrative xml:lang="EN">Emergency Shelter and Settlements</narrative>
-  </sector>
   <sector code="72010" percentage="100" vocabulary="1">
    <narrative xml:lang="EN">Material relief assistance and services</narrative>
   </sector>
   <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
    <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <sector code="SN" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Shelter and Settlements</narrative>
   </sector>
   <humanitarian-scope code="FTUR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
    <narrative xml:lang="EN">Flash Appeal: Turkiye Earthquake</narrative>
@@ -71158,7 +71158,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1547" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1595" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0206</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -71212,14 +71212,14 @@ In response to the immediate need for better shelter and access to basic service
    <location-class code="3"></location-class>
    <feature-designation code="BLDO"></feature-designation>
   </location>
-  <sector code="SN" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
-   <narrative xml:lang="EN">Emergency Shelter and Settlements</narrative>
-  </sector>
   <sector code="72010" percentage="100" vocabulary="1">
    <narrative xml:lang="EN">Material relief assistance and services</narrative>
   </sector>
   <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
    <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <sector code="SN" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Shelter and Settlements</narrative>
   </sector>
   <humanitarian-scope code="FTUR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
    <narrative xml:lang="EN">Flash Appeal: Turkiye Earthquake</narrative>
@@ -71307,7 +71307,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1546" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1594" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0205</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -71348,14 +71348,14 @@ In response to the immediate need for better shelter and access to basic service
    </name>
    <administrative code="SY" vocabulary="A4"></administrative>
   </location>
-  <sector code="SN" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
-   <narrative xml:lang="EN">Emergency Shelter and Settlements</narrative>
-  </sector>
   <sector code="72010" percentage="100" vocabulary="1">
    <narrative xml:lang="EN">Material relief assistance and services</narrative>
   </sector>
   <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
    <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <sector code="SN" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Shelter and Settlements</narrative>
   </sector>
   <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
    <narrative xml:lang="EN">Flash Appeal: Syrian Arab Republic Earthquake</narrative>
@@ -71443,7 +71443,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="422" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="426" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2641</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -71567,7 +71567,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="415" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="418" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2632</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -71698,7 +71698,7 @@ The project aims to contribute to the humanitarian operation to improve the livi
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="413" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="416" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2629</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -71834,7 +71834,7 @@ The project aims to contribute to the humanitarian operation to improve the livi
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="407" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="410" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2623</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -71972,7 +71972,7 @@ Through this project, the International Organization for Migration (IOM) is cont
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="404" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="407" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2620</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -72098,7 +72098,7 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="403" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="406" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2619</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -72222,7 +72222,7 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="390" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="392" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2602</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -72349,7 +72349,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="388" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="390" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2600</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -72504,7 +72504,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="387" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="389" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2599</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -72672,7 +72672,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="382" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="384" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2594</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
