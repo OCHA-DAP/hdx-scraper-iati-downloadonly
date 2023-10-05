@@ -24246,7 +24246,7 @@
   <participating-org crs-channel-code="23000" role="4" type="22">
    <narrative xml:lang="EN">Human Friends Organization</narrative>
   </participating-org>
-  <activity-status code="3"></activity-status>
+  <activity-status code="4"></activity-status>
   <activity-date iso-date="2022-10-21" type="1">
    <narrative xml:lang="DE">geplanter Projektbeginn</narrative>
   </activity-date>
@@ -24335,7 +24335,7 @@
   <participating-org crs-channel-code="41143" role="4" type="40">
    <narrative xml:lang="EN">World Health Organisation - core voluntary contributions account</narrative>
   </participating-org>
-  <activity-status code="4"></activity-status>
+  <activity-status code="3"></activity-status>
   <activity-date iso-date="2022-09-01" type="1">
    <narrative xml:lang="DE">geplanter Projektbeginn</narrative>
   </activity-date>
