@@ -70621,7 +70621,7 @@
   <participating-org crs-channel-code="22000" role="2" type="22">
    <narrative xml:lang="EN">Rat der Aleviten Hamburg</narrative>
   </participating-org>
-  <activity-status code="4"></activity-status>
+  <activity-status code="3"></activity-status>
   <activity-date iso-date="2023-03-01" type="1">
    <narrative xml:lang="DE">geplanter Projektbeginn</narrative>
   </activity-date>
