@@ -77284,7 +77284,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <humanitarian-scope code="2023-EARTHQUAKE-EMERGENCY-RESPONSE" type="2" vocabulary="99" vocabulary-uri="https://reporting.unhcr.org/syria-and-t%C3%BCrkiye-earthquake-emergency-supplementary-appeal">
    <narrative xml:lang="EN">Syria and T&#xFC;rkiye Earthquake Emergency Supplementary Appeal</narrative>
   </humanitarian-scope>
-  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2">
+  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2" vocabulary-uri="https://glidenumber.net">
    <narrative xml:lang="EN">Syria: Earthquake</narrative>
   </humanitarian-scope>
   <humanitarian-scope code="HSYR23" type="2" vocabulary="2-1">
@@ -77681,6 +77681,28 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>35600000</unhcr:value-USD>
   </transaction>
+  <transaction ref="G0080">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-09-13"></transaction-date>
+   <value currency="USD" value-date="2023-09-13">15300000</value>
+   <provider-org ref="US-USAGOV" type="10">
+    <narrative xml:lang="EN">United States</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>15300000</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0081">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-09-13"></transaction-date>
+   <value currency="USD" value-date="2023-09-13">800000</value>
+   <provider-org ref="US-USAGOV" type="10">
+    <narrative xml:lang="EN">United States</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>800000</unhcr:value-USD>
+  </transaction>
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-02-28"></transaction-date>
@@ -77768,7 +77790,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-08-31"></transaction-date>
-   <value currency="USD" value-date="2023-08-31">98</value>
+   <value currency="USD" value-date="2023-08-31">952</value>
    <description>
     <narrative xml:lang="EN">Monthly contribution summary</narrative>
    </description>
@@ -77777,7 +77799,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
-   <unhcr:value-USD>97.906</unhcr:value-USD>
+   <unhcr:value-USD>952.316</unhcr:value-USD>
   </transaction>
   <transaction ref="G3019">
    <transaction-type code="11"></transaction-type>
@@ -78278,7 +78300,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <humanitarian-scope code="FTUR23" type="2" vocabulary="2-1">
    <narrative xml:lang="EN">T&#xFC;rkiye Earthquake Flash Appeal 2023</narrative>
   </humanitarian-scope>
-  <humanitarian-scope code="EQ-2023-000015-TUR" type="1" vocabulary="1-2">
+  <humanitarian-scope code="EQ-2023-000015-TUR" type="1" vocabulary="1-2" vocabulary-uri="https://glidenumber.net">
    <narrative xml:lang="EN">T&#xFC;rkiye: Earthquake</narrative>
   </humanitarian-scope>
   <collaboration-type code="4"></collaboration-type>
@@ -78447,7 +78469,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2022-06-29"></transaction-date>
    <value currency="DKK" value-date="2022-06-29">14000000</value>
-   <provider-org ref="XM-DAC-3-1" type="10">
+   <provider-org provider-activity-id="XM-DAC-3-1-286958-35651" ref="XM-DAC-3-1" type="10">
     <narrative xml:lang="EN">Ministry of Foreign Affairs, Denmark</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
@@ -78458,7 +78480,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-04-05"></transaction-date>
    <value currency="DKK" value-date="2023-04-05">11000000</value>
-   <provider-org ref="XM-DAC-3-1" type="10">
+   <provider-org provider-activity-id="XM-DAC-3-1-288318-36069" ref="XM-DAC-3-1" type="10">
     <narrative xml:lang="EN">Ministry of Foreign Affairs, Denmark</narrative>
    </provider-org>
    <aid-type code="3" vocabulary="2"></aid-type>
@@ -78575,17 +78597,6 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>14600000</unhcr:value-USD>
   </transaction>
-  <transaction ref="G0111">
-   <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2023-05-11"></transaction-date>
-   <value currency="USD" value-date="2023-05-11">429835</value>
-   <provider-org ref="US-USAGOV" type="10">
-    <narrative xml:lang="EN">United States</narrative>
-   </provider-org>
-   <aid-type code="3" vocabulary="2"></aid-type>
-   <aid-type code="B03" vocabulary="1"></aid-type>
-   <unhcr:value-USD>429835</unhcr:value-USD>
-  </transaction>
   <transaction ref="G0080">
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-05-26"></transaction-date>
@@ -78607,6 +78618,39 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="3" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
    <unhcr:value-USD>2700000</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0239">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-09-13"></transaction-date>
+   <value currency="USD" value-date="2023-09-13">1100000</value>
+   <provider-org ref="US-USAGOV" type="10">
+    <narrative xml:lang="EN">United States</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>1100000</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0236">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-09-13"></transaction-date>
+   <value currency="USD" value-date="2023-09-13">400000</value>
+   <provider-org ref="US-USAGOV" type="10">
+    <narrative xml:lang="EN">United States</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>400000</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0080">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-09-13"></transaction-date>
+   <value currency="USD" value-date="2023-09-13">9600000</value>
+   <provider-org ref="US-USAGOV" type="10">
+    <narrative xml:lang="EN">United States</narrative>
+   </provider-org>
+   <aid-type code="3" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <unhcr:value-USD>9600000</unhcr:value-USD>
   </transaction>
   <transaction ref="F3004">
    <transaction-type code="11"></transaction-type>
@@ -78771,7 +78815,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-07-10"></transaction-date>
    <value currency="EUR" value-date="2023-07-10">5994372</value>
-   <provider-org ref="XI-IATI-EC_ECHO" type="15">
+   <provider-org provider-activity-id="XI-IATI-EC_ECHO-ECHO/TUR/BUD/2023/91013" ref="XI-IATI-EC_ECHO" type="15">
     <narrative xml:lang="EN">European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
    </provider-org>
    <aid-type code="4" vocabulary="2"></aid-type>
@@ -78799,6 +78843,17 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>960143.553</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0263">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-10-17"></transaction-date>
+   <value currency="EUR" value-date="2023-10-17">2000070</value>
+   <provider-org type="10">
+    <narrative xml:lang="EN">Government of Austria</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>2125472.902</unhcr:value-USD>
   </transaction>
   <transaction ref="GK011">
    <transaction-type code="11"></transaction-type>
@@ -78865,6 +78920,17 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>2300000</unhcr:value-USD>
+  </transaction>
+  <transaction ref="G0111">
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-11"></transaction-date>
+   <value currency="USD" value-date="2023-05-11">429835</value>
+   <provider-org ref="US-USAGOV" type="10">
+    <narrative xml:lang="EN">United States</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>429835</unhcr:value-USD>
   </transaction>
   <document-link format="TEXT/HTML" url="https://reporting.unhcr.org/operational/operations/t%C3%BCrkiye?year=2023#toc-narratives">
    <title>
@@ -79069,8 +79135,8 @@ The grant will be disbursed in the beginning of the year to allow UNHCR to plan 
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">2473361.8924186514</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">2473361.8924186514</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/15218_mendmentno1totheGrantAgreementbetweenSwedenandtheOfficeoftheUnitedNationsHighCommissionerforRefugees(UNHCR).PDF">
    <title>
@@ -79274,8 +79340,8 @@ The grant will be disbursed in the beginning of the year to allow UNHCR to plan 
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">1484017.1354511906</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">1484017.1354511906</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/15213_AgreementbetweenSwedenandtheUnitedNationsChildren&apos;sFund(UNICEF)onNon-ThematicSupporttoHumanitarianProgrammes2022-2025.PDF">
    <title>
@@ -79349,7 +79415,7 @@ The grant will be disbursed in the beginning of the year to allow UNHCR to plan 
     <narrative xml:lang="SV">Uppn&#xE5;dda resultat</narrative>
    </title>
    <description>
-    <narrative xml:lang="EN">Results and conclusions from 2022Some of the key humanitarian results achieved by UNICEF from January to June 2022 include:- In the area of health, UNICEF contributed so that 23,8 million children received vaccination against measles.- 2,6 million children aged 6 - 59 months with severe wasting admitted for treatment. - 28 million children accessed formal or non-formal education including early learning opportunities.- 13 million children, adolescents and care-givers accessed community-based mental health and psychosocial support. - 25,9 million people accessed a sufficient quantity of safe drinking water and for domestic use.- 557 million people were reached through messaging on prevention regarding social and behavioural change, and access to services. - 5,5 million people were reached with safe and accessible channels to report sexual exploitation and abuse by personnel who provide assistance to affected population. - 4,2 million women, girls and boys were provided with access to GBV risk mitigation, prevention and/or response interventions. - 24,9 million households were reached with cash transfers through supported governments systems. While these figures are aggregated, they illustrate the delivery capacity of UNICEF in various humanitarian settings as well as in which cluster assistance is provided. It is moreover important to note that these are semi-annual figures as the results for the remainder of 2022 will be released at a later instance.</narrative>
+    <narrative xml:lang="EN">Results and conclusions from 2022Some of the key humanitarian results achieved by UNICEF in 2022 include:- In terms of Water, Sanitation and Hygiene (WASH) approximately 39,4 million people accessed safe water.- In the area of health, UNICEF contributed so that 27,2 million children were vaccinated against measles. - 114,6 million children under the age of five benefited from services for the early detection and treatment of severe wasting and other forms of malnutrition. - In terms of child protection, 12,6 million children and caregivers accessed community-based mental health and psychosocial support. - 18,6 million children accessed education. - 8,8 million women, girls and boys access of gender-based violence risk mitigation, prevention and/or response interventions.- Within the area of Protection from Sexual Exploitation and Abuse - 49,2 million children and adults accessed safe and accessible channels to report sexual exploitation and abuse. - 2,8 million households were reached with UNICEF-supported humanitarian cash transfers. These figures demonstrate UNICEF&apos;s ability to deliver in various humanitarian settings. During 2022 UNICEF engaged with partners at the local, regional and global levels to save lives, protect childhoods and ensure children&apos;s rights were upheld.</narrative>
    </description>
    <indicator ascending="0" measure="5">
     <title>
@@ -79515,8 +79581,8 @@ The grant will be disbursed in the beginning of the year to allow UNHCR to plan 
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">989344.7569674605</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">989344.7569674605</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/15213_AgreementbetweenSwedenandtheUnitedNationsChildren&apos;sFund(UNICEF)onNon-ThematicSupporttoHumanitarianProgrammes2022-2025.PDF">
    <title>
@@ -79590,7 +79656,7 @@ The grant will be disbursed in the beginning of the year to allow UNHCR to plan 
     <narrative xml:lang="SV">Uppn&#xE5;dda resultat</narrative>
    </title>
    <description>
-    <narrative xml:lang="EN">Results and conclusions from 2022Some of the key humanitarian results achieved by UNICEF from January to June 2022 include:- In the area of health, UNICEF contributed so that 23,8 million children received vaccination against measles.- 2,6 million children aged 6 - 59 months with severe wasting admitted for treatment. - 28 million children accessed formal or non-formal education including early learning opportunities.- 13 million children, adolescents and care-givers accessed community-based mental health and psychosocial support. - 25,9 million people accessed a sufficient quantity of safe drinking water and for domestic use.- 557 million people were reached through messaging on prevention regarding social and behavioural change, and access to services. - 5,5 million people were reached with safe and accessible channels to report sexual exploitation and abuse by personnel who provide assistance to affected population. - 4,2 million women, girls and boys were provided with access to GBV risk mitigation, prevention and/or response interventions. - 24,9 million households were reached with cash transfers through supported governments systems. While these figures are aggregated, they illustrate the delivery capacity of UNICEF in various humanitarian settings as well as in which cluster assistance is provided. It is moreover important to note that these are semi-annual figures as the results for the remainder of 2022 will be released at a later instance.</narrative>
+    <narrative xml:lang="EN">Results and conclusions from 2022Some of the key humanitarian results achieved by UNICEF in 2022 include:- In terms of Water, Sanitation and Hygiene (WASH) approximately 39,4 million people accessed safe water.- In the area of health, UNICEF contributed so that 27,2 million children were vaccinated against measles. - 114,6 million children under the age of five benefited from services for the early detection and treatment of severe wasting and other forms of malnutrition. - In terms of child protection, 12,6 million children and caregivers accessed community-based mental health and psychosocial support. - 18,6 million children accessed education. - 8,8 million women, girls and boys access of gender-based violence risk mitigation, prevention and/or response interventions.- Within the area of Protection from Sexual Exploitation and Abuse - 49,2 million children and adults accessed safe and accessible channels to report sexual exploitation and abuse. - 2,8 million households were reached with UNICEF-supported humanitarian cash transfers. These figures demonstrate UNICEF&apos;s ability to deliver in various humanitarian settings. During 2022 UNICEF engaged with partners at the local, regional and global levels to save lives, protect childhoods and ensure children&apos;s rights were upheld.</narrative>
    </description>
    <indicator ascending="0" measure="5">
     <title>
@@ -80012,8 +80078,8 @@ Sida&apos;s assessment of this support is provided in more detail in section 5.1
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">296803.4270902381</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">296803.4270902381</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14409_019092-22Amendmentno.3totheAgreementSavetheChildrensHumanitarianprogramme2021-2025betweenSavetheChildrenandSida.pdf">
    <title>
@@ -80303,8 +80369,8 @@ Sida&apos;s assessment of this support is provided in more detail in section 5.1
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">296803.4270902381</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">296803.4270902381</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14409_019092-22Amendmentno.3totheAgreementSavetheChildrensHumanitarianprogramme2021-2025betweenSavetheChildrenandSida.pdf">
    <title>
@@ -80500,8 +80566,8 @@ Oxfam is a global movement of people who are fighting inequality to end poverty 
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">494672.3784837303</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">494672.3784837303</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14405_Amendmentno.1totheAgreement,HumanitarianPartnershipAgreement2021-2026,betweenTheSwedishInternationalDevelopmentCooperationAgency,SidaandOxfamGB.PDF">
    <title>
@@ -80667,8 +80733,8 @@ The above makes FAO a valuable strategic humanitarian partner to Sida. Sida will
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">510551.361833058</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">510551.361833058</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14399_022406-22AmendmentNo.2tothecontributionagreementbetweenSidaandFAOoftheUnitednationsonsupporttohumanitarianoperations2021-2025.pdf">
    <title>
@@ -80840,8 +80906,8 @@ The above makes FAO a valuable strategic humanitarian partner to Sida. Sida will
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">510551.361833058</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">510551.361833058</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14399_022406-22AmendmentNo.2tothecontributionagreementbetweenSidaandFAOoftheUnitednationsonsupporttohumanitarianoperations2021-2025.pdf">
    <title>
@@ -81036,8 +81102,8 @@ AAH international network (AAH-IN) is composed of AAH entities from France, (Sid
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">395737.9027869842</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">395737.9027869842</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14398_AmendmentNo.6totheAgreementonActionAgainstHungerHUM2021-2025betweenSidaandActionContrelaFaim.PDF">
    <title>
@@ -81295,8 +81361,8 @@ AAH international network (AAH-IN) is composed of AAH entities from France, (Sid
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">395737.9027869842</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">395737.9027869842</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14398_AmendmentNo.6totheAgreementonActionAgainstHungerHUM2021-2025betweenSidaandActionContrelaFaim.PDF">
    <title>
@@ -81535,8 +81601,8 @@ Earlier granted multi-year funding for 2023 was disbursed in January (52 MSEK) i
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">692541.3298772223</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">692541.3298772223</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14395_AmendmentNo.1totheGrantAgreementbetweentheSwedishInternationalDevelopmentCooperationAgency,Sida,andtheNorwegianRefugeeCouncil,NRC,regardingtheirStrategicFrameworkHumanitarianPartnership2021-2025.PDF">
    <title>
@@ -81772,8 +81838,8 @@ Earlier granted multi-year funding for 2023 was disbursed in January (52 MSEK) i
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-09"></transaction-date>
-   <value currency="USD" value-date="2023-10-09">692541.3298772223</value>
+   <transaction-date iso-date="2023-10-23"></transaction-date>
+   <value currency="USD" value-date="2023-10-23">692541.3298772223</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14395_AmendmentNo.1totheGrantAgreementbetweentheSwedishInternationalDevelopmentCooperationAgency,Sida,andtheNorwegianRefugeeCouncil,NRC,regardingtheirStrategicFrameworkHumanitarianPartnership2021-2025.PDF">
    <title>
