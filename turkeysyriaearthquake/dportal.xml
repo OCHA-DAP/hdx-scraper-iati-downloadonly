@@ -74999,7 +74999,7 @@
   </conditions>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1600" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1699" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0213</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -75059,18 +75059,18 @@
   <budget status="2" type="1">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2023-05-01">2000000.08</value>
+   <value currency="USD" value-date="2023-05-01">2000000.16</value>
   </budget>
   <budget status="2" type="1">
    <period-start iso-date="2024-01-01"></period-start>
    <period-end iso-date="2024-12-31"></period-end>
-   <value currency="USD" value-date="2024-01-01">999999.8</value>
+   <value currency="USD" value-date="2024-01-01">999999.88</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-05-01"></transaction-date>
-   <value currency="USD" value-date="2023-05-19">2999999.88</value>
+   <value currency="USD" value-date="2023-05-19">3000000.04</value>
    <description>
     <narrative xml:lang="EN">Contracted Grant Amount</narrative>
    </description>
@@ -75084,7 +75084,7 @@
    <finance-type code="110"></finance-type>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <iom:agency-currency-value currency="USD">2999999.88</iom:agency-currency-value>
+   <iom:agency-currency-value currency="USD">3000000.04</iom:agency-currency-value>
   </transaction>
   <transaction>
    <transaction-type code="1"></transaction-type>
@@ -75108,7 +75108,7 @@
   <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-05-01"></transaction-date>
-   <value currency="USD" value-date="2023-05-01">2999999.88</value>
+   <value currency="USD" value-date="2023-05-01">3000000.04</value>
    <description>
     <narrative xml:lang="EN">Total Budget Committed</narrative>
    </description>
@@ -75128,7 +75128,7 @@
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1598" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1697" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0211</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -75153,13 +75153,13 @@ In response to the immediate need for better shelter and access to basic service
   <activity-date iso-date="2024-06-30" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Austria</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+43 1 581 22 22 + EXT</telephone>
+   <email>ROVienna@iom.int;ROViennaRM@iom.int;ROViennaPE@iom.int</email>
+   <website>www.rovienna.iom.int</website>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">Dampfschiffstrasse 4, 10th &amp;11th Fl, Vienna 1030, Austria</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="TR" percentage="100"></recipient-country>
@@ -75249,6 +75249,18 @@ In response to the immediate need for better shelter and access to basic service
    <iom:agency-currency-value currency="USD">8999980</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">189772.1</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-SN.0211" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-03-01"></transaction-date>
    <value currency="USD" value-date="2023-03-01">9000000.01</value>
@@ -75271,7 +75283,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1595" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1694" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0206</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -75295,13 +75307,13 @@ In response to the immediate need for better shelter and access to basic service
   <activity-date iso-date="2023-08-23" type="4"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Austria</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+43 1 581 22 22 + EXT</telephone>
+   <email>ROVienna@iom.int;ROViennaRM@iom.int;ROViennaPE@iom.int</email>
+   <website>www.rovienna.iom.int</website>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">Dampfschiffstrasse 4, 10th &amp;11th Fl, Vienna 1030, Austria</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="TR" percentage="100"></recipient-country>
@@ -75398,6 +75410,18 @@ In response to the immediate need for better shelter and access to basic service
    <aid-type code="4" vocabulary="2"></aid-type>
   </transaction>
   <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">235404.52</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-SN.0206" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-02-24"></transaction-date>
    <value currency="USD" value-date="2023-02-24">2500000.07</value>
@@ -75420,7 +75444,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1594" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="1693" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-SN.0205</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -75437,19 +75461,19 @@ In response to the immediate need for better shelter and access to basic service
   <participating-org activity-id="XM-OCHA-CBPF-TUR-22/3559/SA2/NFI/UN/2" ref="XM-OCHA-CBPF" role="1" type="40">
    <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
   </participating-org>
-  <activity-status code="2"></activity-status>
+  <activity-status code="3"></activity-status>
   <activity-date iso-date="2023-02-18" type="1"></activity-date>
   <activity-date iso-date="2023-02-18" type="2"></activity-date>
   <activity-date iso-date="2023-10-22" type="3"></activity-date>
+  <activity-date iso-date="2023-10-22" type="4"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Egypt</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+202 27 36 51 40</telephone>
+   <email>ROCairo@iom.int; ROCairoRM@iom.int; ROCairoPE@iom.int</email>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">47 C, Abu-Elfeda Street, Cairo 11211, Egypt</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="SY" percentage="100"></recipient-country>
@@ -75522,9 +75546,36 @@ In response to the immediate need for better shelter and access to basic service
    <iom:agency-currency-value currency="USD">3000000</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">6782.5</value>
+   <description>
+    <narrative xml:lang="EN">Project Disbursement to Implementing Partner</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-SN.0205" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">National Civil Society Organizations</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="4"></transaction-type>
    <transaction-date iso-date="2023-03-31"></transaction-date>
    <value currency="USD" value-date="2023-03-31">30761.76</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-SN.0205" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">297900.85</value>
    <description>
     <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
    </description>
@@ -75556,7 +75607,135 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="426" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="455" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+  <iati-identifier>XM-DAC-47066-DP.2662</iati-identifier>
+  <reporting-org ref="XM-DAC-47066" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </reporting-org>
+  <title>
+   <narrative xml:lang="EN">Emergency Multisectoral Assistance for the Most Vulnerable Households in Northwest Syria (NWS) and Provision of SSAFE Programming</narrative>
+  </title>
+  <description>
+   <narrative xml:lang="EN">This project building upon similar past and ongoing interventions, will aim to address urgent humanitarian needs via multi-sectoral assistance to the most vulnerable populations inside Syria through: 1) provision of Prefabricated Shelter Units (PSU) in 4 sites; 2) multipurpose cash assistance (MPCA) in 6 sites; 3) comprehensive WASH services and infrastructure upgrades in 6 sites, 4) conducting site improvement and road graveling work in the 5 sites where the shelter component will be implemented; and 5) safety and security trainings for personnel involved in the delivery of humanitarian assistance. IOM will ensure complementary services of shelter, MPCA, WASH, and CCCM (Results 1, 2, 3 and 4) in the targeted sites, assisting 24,633 individuals. Four of these sites are in Aleppo Governorate, Atareb sub-district, while the remaining 2 are in Idleb Governorate, Dana sub-district. The Housing, Land, and Property (HLP) status of the selected sites has been confirmed, with Clusters confirming these locations have not been targeted by other agencies. Finally, IOM has ensured that there remains space in or near the sites for the future construction of schools and/or health facilities. Result 5 will target implementing partners operating in the context of humanitarian operations, with a particular focus on local NGOs.</narrative>
+  </description>
+  <participating-org activity-id="XI-IATI-EC_ECHO-ECHO/SYR/BUD/2023/91019" ref="XI-IATI-EC_ECHO" role="1" type="40">
+   <narrative xml:lang="EN">European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
+  </participating-org>
+  <participating-org ref="XM-DAC-47066" role="2" type="40">
+   <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+  </participating-org>
+  <activity-status code="2"></activity-status>
+  <activity-date iso-date="2023-05-01" type="1"></activity-date>
+  <activity-date iso-date="2023-05-01" type="2"></activity-date>
+  <activity-date iso-date="2024-04-30" type="3"></activity-date>
+  <contact-info type="1">
+   <organisation>
+    <narrative xml:lang="EN">IOM - Egypt</narrative>
+   </organisation>
+   <telephone>+202 27 36 51 40</telephone>
+   <email>ROCairo@iom.int; ROCairoRM@iom.int; ROCairoPE@iom.int</email>
+   <mailing-address>
+    <narrative xml:lang="EN">47 C, Abu-Elfeda Street, Cairo 11211, Egypt</narrative>
+   </mailing-address>
+  </contact-info>
+  <recipient-country code="SY" percentage="100"></recipient-country>
+  <location ref="SY">
+   <location-reach code="2"></location-reach>
+   <location-id code="SY" vocabulary="A4"></location-id>
+   <name>
+    <narrative xml:lang="EN">Syrian Arab Republic</narrative>
+   </name>
+   <administrative code="SY" vocabulary="A4"></administrative>
+  </location>
+  <sector code="DP" percentage="100" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Emergency Assistance to Displaced Populations</narrative>
+  </sector>
+  <sector code="72010" percentage="100" vocabulary="1">
+   <narrative xml:lang="EN">Material relief assistance and services</narrative>
+  </sector>
+  <sector code="01" percentage="100" vocabulary="98" vocabulary-uri="https://data.iom.int/codelist/sector.pdf">
+   <narrative xml:lang="EN">Movement, Emergency and Post-Crisis Migration Management</narrative>
+  </sector>
+  <humanitarian-scope code="FSYR23" type="2" vocabulary="2-1" vocabulary-uri="https://fts.unocha.org/plan-code-list-iati">
+   <narrative xml:lang="EN">Flash Appeal: Syrian Arab Republic Earthquake</narrative>
+  </humanitarian-scope>
+  <policy-marker code="2A" vocabulary="99" vocabulary-uri="https://data.iom.int/codelist/genderpolicy.pdf">
+   <narrative xml:lang="EN">Project with sufficient inclusion of gender issues (mainstreamed)</narrative>
+  </policy-marker>
+  <default-aid-type code="B03" vocabulary="1"></default-aid-type>
+  <budget status="2" type="1">
+   <period-start iso-date="2023-01-01"></period-start>
+   <period-end iso-date="2023-12-31"></period-end>
+   <value currency="USD" value-date="2023-05-01">5101057.16</value>
+  </budget>
+  <budget status="2" type="1">
+   <period-start iso-date="2024-01-01"></period-start>
+   <period-end iso-date="2024-12-31"></period-end>
+   <value currency="USD" value-date="2024-01-01">1157872.32</value>
+  </budget>
+  <capital-spend percentage="0"></capital-spend>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-05-01"></transaction-date>
+   <value currency="EUR" value-date="2023-07-05">5699999.69</value>
+   <description>
+    <narrative xml:lang="EN">Contracted Grant Amount</narrative>
+   </description>
+   <provider-org provider-activity-id="XI-IATI-EC_ECHO-ECHO/SYR/BUD/2023/91019" ref="XI-IATI-EC_ECHO" type="40">
+    <narrative xml:lang="EN">European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2662" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">6258929.48</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="EUR" value-date="2023-06-30">4560000</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution &#x2013; Tightly Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="XI-IATI-EC_ECHO-ECHO/SYR/BUD/2023/91019" ref="XI-IATI-EC_ECHO" type="40">
+    <narrative xml:lang="EN">European Commission - Humanitarian Aid &amp; Civil Protection</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2662" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="30"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">4919093.85</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-05-01"></transaction-date>
+   <value currency="USD" value-date="2023-05-01">6258929.48</value>
+   <description>
+    <narrative xml:lang="EN">Total Budget Committed</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2662" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2662" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <document-link format="APPLICATION/HTTP" url="https://crisisresponse.iom.int/">
+   <title>
+    <narrative xml:lang="EN">IOM Crisis Response Platform</narrative>
+   </title>
+   <category code="A12"></category>
+  </document-link>
+ </iati-activity>
+
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="436" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2641</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -75579,13 +75758,12 @@ In response to the immediate need for better shelter and access to basic service
   <activity-date iso-date="2023-11-30" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Egypt</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+202 27 36 51 40</telephone>
+   <email>ROCairo@iom.int; ROCairoRM@iom.int; ROCairoPE@iom.int</email>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">47 C, Abu-Elfeda Street, Cairo 11211, Egypt</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="SY" percentage="100"></recipient-country>
@@ -75658,6 +75836,18 @@ In response to the immediate need for better shelter and access to basic service
    <iom:agency-currency-value currency="USD">1000000</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">5642.14</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2641" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-05-31"></transaction-date>
    <value currency="USD" value-date="2023-05-31">1000000.03</value>
@@ -75680,7 +75870,7 @@ In response to the immediate need for better shelter and access to basic service
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="418" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="428" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2632</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -75705,13 +75895,12 @@ The project aims to contribute to the humanitarian operation to improve the livi
   <activity-date iso-date="2024-08-20" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Egypt</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+202 27 36 51 40</telephone>
+   <email>ROCairo@iom.int; ROCairoRM@iom.int; ROCairoPE@iom.int</email>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">47 C, Abu-Elfeda Street, Cairo 11211, Egypt</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="SY" percentage="100"></recipient-country>
@@ -75789,6 +75978,18 @@ The project aims to contribute to the humanitarian operation to improve the livi
    <iom:agency-currency-value currency="USD">5000000</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">38479.11</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2632" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-03-21"></transaction-date>
    <value currency="USD" value-date="2023-03-21">5000000.41</value>
@@ -75811,7 +76012,7 @@ The project aims to contribute to the humanitarian operation to improve the livi
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="416" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="426" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2629</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -75834,13 +76035,13 @@ The project aims to contribute to the humanitarian operation to improve the livi
   <activity-date iso-date="2023-12-31" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Austria</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+43 1 581 22 22 + EXT</telephone>
+   <email>ROVienna@iom.int;ROViennaRM@iom.int;ROViennaPE@iom.int</email>
+   <website>www.rovienna.iom.int</website>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">Dampfschiffstrasse 4, 10th &amp;11th Fl, Vienna 1030, Austria</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="TR" percentage="100"></recipient-country>
@@ -75887,6 +76088,25 @@ The project aims to contribute to the humanitarian operation to improve the livi
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-09-30"></transaction-date>
+   <value currency="CAD" value-date="2023-09-30">5000000</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Softly Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="CA-3-P012673" ref="CA-3" type="10">
+    <narrative xml:lang="EN">Canada - Global Affairs Canada | Affaires mondiales Canada</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2629" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="2" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">3641660.6</iom:agency-currency-value>
+  </transaction>
+  <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-03-01"></transaction-date>
    <value currency="CAD" value-date="2023-05-15">5000000.09</value>
@@ -75907,6 +76127,25 @@ The project aims to contribute to the humanitarian operation to improve the livi
   </transaction>
   <transaction>
    <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-09-30"></transaction-date>
+   <value currency="CAD" value-date="2023-09-30">-5000000</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="CA-3-P012673" ref="CA-3" type="10">
+    <narrative xml:lang="EN">Canada - Global Affairs Canada | Affaires mondiales Canada</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2629" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">-3641660.6</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="1"></transaction-type>
    <transaction-date iso-date="2023-06-30"></transaction-date>
    <value currency="CAD" value-date="2023-06-30">5000000</value>
    <description>
@@ -75923,6 +76162,18 @@ The project aims to contribute to the humanitarian operation to improve the livi
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
    <iom:agency-currency-value currency="USD">3641660.6</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">130190.54</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2629" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
   </transaction>
   <transaction>
    <transaction-type code="2"></transaction-type>
@@ -75947,7 +76198,7 @@ The project aims to contribute to the humanitarian operation to improve the livi
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="410" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="420" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2623</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -75972,13 +76223,13 @@ Through this project, the International Organization for Migration (IOM) is cont
   <activity-date iso-date="2023-11-30" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Austria</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+43 1 581 22 22 + EXT</telephone>
+   <email>ROVienna@iom.int;ROViennaRM@iom.int;ROViennaPE@iom.int</email>
+   <website>www.rovienna.iom.int</website>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">Dampfschiffstrasse 4, 10th &amp;11th Fl, Vienna 1030, Austria</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="TR" percentage="100"></recipient-country>
@@ -76063,6 +76314,18 @@ Through this project, the International Organization for Migration (IOM) is cont
    <iom:agency-currency-value currency="USD">1436231.33</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">368026.29</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2623" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-03-01"></transaction-date>
    <value currency="USD" value-date="2023-03-01">1438792.38</value>
@@ -76085,7 +76348,7 @@ Through this project, the International Organization for Migration (IOM) is cont
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="407" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="417" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2620</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -76107,16 +76370,15 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
   <activity-status code="2"></activity-status>
   <activity-date iso-date="2023-04-01" type="1"></activity-date>
   <activity-date iso-date="2023-04-01" type="2"></activity-date>
-  <activity-date iso-date="2023-09-30" type="3"></activity-date>
+  <activity-date iso-date="2023-11-30" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Egypt</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+202 27 36 51 40</telephone>
+   <email>ROCairo@iom.int; ROCairoRM@iom.int; ROCairoPE@iom.int</email>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">47 C, Abu-Elfeda Street, Cairo 11211, Egypt</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="SY" percentage="100"></recipient-country>
@@ -76147,13 +76409,13 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
   <budget status="2" type="1">
    <period-start iso-date="2023-01-01"></period-start>
    <period-end iso-date="2023-12-31"></period-end>
-   <value currency="USD" value-date="2023-04-01">1982882.85</value>
+   <value currency="USD" value-date="2023-04-01">1982882.79</value>
   </budget>
   <capital-spend percentage="0"></capital-spend>
   <transaction>
    <transaction-type code="11"></transaction-type>
    <transaction-date iso-date="2023-04-01"></transaction-date>
-   <value currency="USD" value-date="2023-04-05">1982882.85</value>
+   <value currency="USD" value-date="2023-04-05">1982882.79</value>
    <description>
     <narrative xml:lang="EN">Contracted Grant Amount</narrative>
    </description>
@@ -76167,7 +76429,7 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
    <finance-type code="110"></finance-type>
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="B03" vocabulary="1"></aid-type>
-   <iom:agency-currency-value currency="USD">1982882.85</iom:agency-currency-value>
+   <iom:agency-currency-value currency="USD">1982882.79</iom:agency-currency-value>
   </transaction>
   <transaction>
    <transaction-type code="1"></transaction-type>
@@ -76189,9 +76451,21 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
    <iom:agency-currency-value currency="USD">1982882.81</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">5706.15</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2620" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-04-01"></transaction-date>
-   <value currency="USD" value-date="2023-04-01">1982882.85</value>
+   <value currency="USD" value-date="2023-04-01">1982882.79</value>
    <description>
     <narrative xml:lang="EN">Total Budget Committed</narrative>
    </description>
@@ -76211,7 +76485,7 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="406" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="416" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2619</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -76228,19 +76502,19 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
   <participating-org activity-id="XM-OCHA-CBPF-CBPF-TUR-23-R-UN-24642" ref="XM-OCHA-CBPF" role="1" type="40">
    <narrative xml:lang="EN">Syria Cross-Border Humanitarian Fund</narrative>
   </participating-org>
-  <activity-status code="2"></activity-status>
+  <activity-status code="3"></activity-status>
   <activity-date iso-date="2023-04-01" type="1"></activity-date>
   <activity-date iso-date="2023-04-01" type="2"></activity-date>
   <activity-date iso-date="2023-09-30" type="3"></activity-date>
+  <activity-date iso-date="2023-09-30" type="4"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Egypt</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+202 27 36 51 40</telephone>
+   <email>ROCairo@iom.int; ROCairoRM@iom.int; ROCairoPE@iom.int</email>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">47 C, Abu-Elfeda Street, Cairo 11211, Egypt</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="SY" percentage="100"></recipient-country>
@@ -76313,6 +76587,18 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
    <iom:agency-currency-value currency="USD">2847347.58</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">9114.01</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2619" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-04-01"></transaction-date>
    <value currency="USD" value-date="2023-04-01">2847347.6</value>
@@ -76335,7 +76621,7 @@ In partnership with Shafak, IOM will provide on-site protection assistance and s
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="392" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="402" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2602</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -76361,13 +76647,12 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <activity-date iso-date="2023-08-23" type="4"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Egypt</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+202 27 36 51 40</telephone>
+   <email>ROCairo@iom.int; ROCairoRM@iom.int; ROCairoPE@iom.int</email>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">47 C, Abu-Elfeda Street, Cairo 11211, Egypt</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="SY" percentage="100"></recipient-country>
@@ -76440,6 +76725,18 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <iom:agency-currency-value currency="USD">1000000</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">329902.38</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2602" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-02-24"></transaction-date>
    <value currency="USD" value-date="2023-02-24">1000000</value>
@@ -76462,7 +76759,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="390" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="400" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2600</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -76485,13 +76782,12 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <activity-date iso-date="2023-12-31" type="3"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Egypt</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+202 27 36 51 40</telephone>
+   <email>ROCairo@iom.int; ROCairoRM@iom.int; ROCairoPE@iom.int</email>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">47 C, Abu-Elfeda Street, Cairo 11211, Egypt</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="SY" percentage="100"></recipient-country>
@@ -76565,6 +76861,25 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </transaction>
   <transaction>
    <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-09-30"></transaction-date>
+   <value currency="USD" value-date="2023-09-30">2526045</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="US-GOV-1-720BHA23IO00066" ref="US-GOV-1" type="10">
+    <narrative xml:lang="EN">United States Agency for International Development (USAID) - BHA</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2600" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">2526045</iom:agency-currency-value>
+  </transaction>
+  <transaction>
+   <transaction-type code="1"></transaction-type>
    <transaction-date iso-date="2023-06-30"></transaction-date>
    <value currency="USD" value-date="2023-06-30">641185</value>
    <description>
@@ -76583,9 +76898,36 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <iom:agency-currency-value currency="USD">641185</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">85204.56</value>
+   <description>
+    <narrative xml:lang="EN">Project Disbursement to Implementing Partner</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2600" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">National Civil Society Organizations</narrative>
+   </receiver-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
    <transaction-type code="4"></transaction-type>
    <transaction-date iso-date="2023-03-31"></transaction-date>
    <value currency="USD" value-date="2023-03-31">177422.74</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2600" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">1364628.84</value>
    <description>
     <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
    </description>
@@ -76617,7 +76959,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="389" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="399" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2599</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -76641,13 +76983,13 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <activity-date iso-date="2023-08-15" type="4"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Austria</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+43 1 581 22 22 + EXT</telephone>
+   <email>ROVienna@iom.int;ROViennaRM@iom.int;ROViennaPE@iom.int</email>
+   <website>www.rovienna.iom.int</website>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">Dampfschiffstrasse 4, 10th &amp;11th Fl, Vienna 1030, Austria</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="TR" percentage="100"></recipient-country>
@@ -76751,9 +77093,40 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <iom:agency-currency-value currency="USD">4189884</iom:agency-currency-value>
   </transaction>
   <transaction>
+   <transaction-type code="1"></transaction-type>
+   <transaction-date iso-date="2023-09-30"></transaction-date>
+   <value currency="USD" value-date="2023-09-30">718677</value>
+   <description>
+    <narrative xml:lang="EN">Voluntary Contribution - Earmarked</narrative>
+   </description>
+   <provider-org provider-activity-id="US-GOV-1-720BHA23IO00081" ref="US-GOV-1" type="10">
+    <narrative xml:lang="EN">United States Agency for International Development (USAID) - BHA</narrative>
+   </provider-org>
+   <receiver-org receiver-activity-id="XM-DAC-47066-DP.2599" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </receiver-org>
+   <flow-type code="10"></flow-type>
+   <finance-type code="110"></finance-type>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="B03" vocabulary="1"></aid-type>
+   <iom:agency-currency-value currency="USD">718677</iom:agency-currency-value>
+  </transaction>
+  <transaction>
    <transaction-type code="4"></transaction-type>
    <transaction-date iso-date="2023-03-31"></transaction-date>
    <value currency="USD" value-date="2023-03-31">919274.47</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2599" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">3660450.51</value>
    <description>
     <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
    </description>
@@ -76785,7 +77158,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </document-link>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="384" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
+ <iati-activity default-currency="USD" dstore:dataset="iom-activity_1" dstore:index="394" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities" xmlns:iom="http://iom.int">
   <iati-identifier>XM-DAC-47066-DP.2594</iati-identifier>
   <reporting-org ref="XM-DAC-47066" type="40">
    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
@@ -76809,13 +77182,13 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <activity-date iso-date="2023-08-05" type="4"></activity-date>
   <contact-info type="1">
    <organisation>
-    <narrative xml:lang="EN">IOM - Switzerland</narrative>
+    <narrative xml:lang="EN">IOM - Austria</narrative>
    </organisation>
-   <telephone>+41 22 717 91 11</telephone>
-   <email>hq@iom.int</email>
-   <website>www.iom.int</website>
+   <telephone>+43 1 581 22 22 + EXT</telephone>
+   <email>ROVienna@iom.int;ROViennaRM@iom.int;ROViennaPE@iom.int</email>
+   <website>www.rovienna.iom.int</website>
    <mailing-address>
-    <narrative xml:lang="EN">Route des Morillons, 17, Geneva 1218, Switzerland</narrative>
+    <narrative xml:lang="EN">Dampfschiffstrasse 4, 10th &amp;11th Fl, Vienna 1030, Austria</narrative>
    </mailing-address>
   </contact-info>
   <recipient-country code="TR" percentage="100"></recipient-country>
@@ -76903,6 +77276,18 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <transaction-type code="4"></transaction-type>
    <transaction-date iso-date="2023-03-31"></transaction-date>
    <value currency="USD" value-date="2023-03-31">398744.17</value>
+   <description>
+    <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
+   </description>
+   <provider-org provider-activity-id="XM-DAC-47066-DP.2594" ref="XM-DAC-47066" type="40">
+    <narrative xml:lang="EN">International Organization for Migration (IOM)</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+  </transaction>
+  <transaction>
+   <transaction-type code="4"></transaction-type>
+   <transaction-date iso-date="2023-06-30"></transaction-date>
+   <value currency="USD" value-date="2023-06-30">1088739.1</value>
    <description>
     <narrative xml:lang="EN">Project Expenditures (non-CBI)</narrative>
    </description>
@@ -82235,11 +82620,52 @@ The proposal covers projects in 10 contexts including: Niger, South Sudan, Bangl
   </budget>
   <transaction humanitarian="1" ref="Incoming commitment ZOA">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2023-02-13"></transaction-date>
-   <value currency="EUR" value-date="2023-02-13">429210</value>
+   <transaction-date iso-date="2023-08-08"></transaction-date>
+   <value currency="EUR" value-date="2023-08-08">443884</value>
+   <description>
+    <narrative xml:lang="EN">Amount based on addendum I.</narrative>
+   </description>
    <provider-org provider-activity-id="NL-KVK-41009723-NLD2302" ref="NL-KVK-41009723" type="21">
     <narrative xml:lang="EN">ZOA</narrative>
    </provider-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Outgoing commitment EPDC">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-08-03"></transaction-date>
+   <value currency="SYP" value-date="2023-08-03">1282550515</value>
+   <description>
+    <narrative xml:lang="EN">Amount based on amendment 2.</narrative>
+   </description>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">EPDC</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Outgoing commitment GOPA-DERD">
+   <transaction-type code="2"></transaction-type>
+   <transaction-date iso-date="2023-08-03"></transaction-date>
+   <value currency="SYP" value-date="2023-08-03">1434231022</value>
+   <description>
+    <narrative xml:lang="EN">Amount based on amendment 2.</narrative>
+   </description>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">GOPA-DERD</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Instalment 1 EPDC">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2023-03-02"></transaction-date>
+   <value currency="SYP" value-date="2023-03-02">231966023</value>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">EPDC</narrative>
+   </receiver-org>
+  </transaction>
+  <transaction humanitarian="1" ref="Instalment 1 GOPA-DERD">
+   <transaction-type code="3"></transaction-type>
+   <transaction-date iso-date="2023-02-14"></transaction-date>
+   <value currency="SYP" value-date="2023-02-14">426471500</value>
+   <receiver-org type="22">
+    <narrative xml:lang="EN">GOPA-DERD</narrative>
+   </receiver-org>
   </transaction>
   <result type="1">
    <title>
@@ -82276,11 +82702,32 @@ GOPA: 3250 Individuals (650 HH)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="17588">
+     <target value="10372">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual value="26662">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+      <comment>
+       <narrative xml:lang="EN">EPDC
+The distribution of 1,850 ready to eat food parcels in Jebel Samaan (1427 girls, 1591 boys, 2430 women, 1984 men) 
+Kitchen support to produce hot meals or collective shelters in Jebel Samaan (2669 girls, 3264 boys, 4889 women, 4029 men) 
+GOPA
+The distribution of 1,000 ready to eat food parcels in Latakia and Jableh (796 girls, 757 boys, 1353 women, 1311 men)
+The distribution of regular food parcels in Latakia and Jableh (476 girls, 511 boys, 783 women, 734 men)
+The rehabilitation of bakery in Latakia (21294 girls, 26046 boys, 39010 women, 32149 men)</narrative>
+      </comment>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="18132">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
-     <actual value="4566">
+     <actual value="48465">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </actual>
@@ -82288,11 +82735,11 @@ GOPA: 3250 Individuals (650 HH)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="12062">
+     <target value="13295">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual value="4029">
+     <actual value="40206">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -82300,23 +82747,11 @@ GOPA: 3250 Individuals (650 HH)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="11300">
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </target>
-     <actual value="2660">
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </actual>
-    </period>
-    <period>
-     <period-start iso-date="2023-02-11"></period-start>
-     <period-end iso-date="2023-08-10"></period-end>
-     <target value="11300">
+     <target value="10451">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual value="2898">
+     <actual value="32170">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -82358,9 +82793,12 @@ GOPA: 3250 Individuals (650 HH)</narrative>
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
-     <actual value="0">
+     <actual value="52">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
+      <comment>
+       <narrative xml:lang="EN">ZOA conducted PDM for hygiene kit distribution with 62 respondents</narrative>
+      </comment>
      </actual>
     </period>
     <period>
@@ -82370,7 +82808,7 @@ GOPA: 3250 Individuals (650 HH)</narrative>
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual value="0">
+     <actual value="10">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -82434,7 +82872,25 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="2319">
+     <target value="1315">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual value="1309">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+      <comment>
+       <narrative xml:lang="EN">ZOA
+The distribution of 325 hygiene kits in Jable Samaan  (432 girls, 371 boys, 577 women, 444 men)
+GOPA
+The distribution of 1000 hygiene kits in Latakia and Jableh  (876 girls, 868 boys, 1315 women, 1246 men)</narrative>
+      </comment>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="2299">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
@@ -82446,25 +82902,13 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="1656">
+     <target value="1686">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual value="1690">
+     <actual value="1689">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
-     </actual>
-    </period>
-    <period>
-     <period-start iso-date="2023-02-11"></period-start>
-     <period-end iso-date="2023-08-10"></period-end>
-     <target value="1325">
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </target>
-     <actual value="1308">
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
      </actual>
     </period>
     <period>
@@ -82512,11 +82956,27 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="787">
+     <target value="447">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+     </target>
+     <actual value="462">
+      <dimension name="Age" value="Under 18"></dimension>
+      <dimension name="Sex" value="Female"></dimension>
+      <comment>
+       <narrative xml:lang="EN">ZOA 
+The rehabilitation of WASH facilities in collective shelters in Jabel Samaan  (462 girls, 466 boys, 806 women, 591 men)</narrative>
+      </comment>
+     </actual>
+    </period>
+    <period>
+     <period-start iso-date="2023-02-11"></period-start>
+     <period-end iso-date="2023-08-10"></period-end>
+     <target value="780">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </target>
-     <actual value="0">
+     <actual value="806">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Female"></dimension>
      </actual>
@@ -82524,11 +82984,11 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="563">
+     <target value="572">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual value="0">
+     <actual value="591">
       <dimension name="Age" value="18+"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -82536,23 +82996,11 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
     <period>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
-     <target value="450">
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </target>
-     <actual value="0">
-      <dimension name="Age" value="Under 18"></dimension>
-      <dimension name="Sex" value="Female"></dimension>
-     </actual>
-    </period>
-    <period>
-     <period-start iso-date="2023-02-11"></period-start>
-     <period-end iso-date="2023-08-10"></period-end>
-     <target value="450">
+     <target value="451">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </target>
-     <actual value="0">
+     <actual value="466">
       <dimension name="Age" value="Under 18"></dimension>
       <dimension name="Sex" value="Male"></dimension>
      </actual>
@@ -82573,6 +83021,11 @@ GOPA: 5000 Individuals (1000HH) (overlapping with RTE beneficiaries)</narrative>
      <period-start iso-date="2023-02-11"></period-start>
      <period-end iso-date="2023-08-10"></period-end>
      <target value="2"></target>
+     <actual value="2">
+      <comment>
+       <narrative xml:lang="EN">Capacity building of local partners through regular follow-up and coaching.</narrative>
+      </comment>
+     </actual>
     </period>
    </indicator>
   </result>
