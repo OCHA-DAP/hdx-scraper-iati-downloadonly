@@ -79520,8 +79520,8 @@ The grant will be disbursed in the beginning of the year to allow UNHCR to plan 
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">2473361.8924186514</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">2473361.8924186514</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/15218_mendmentno1totheGrantAgreementbetweenSwedenandtheOfficeoftheUnitedNationsHighCommissionerforRefugees(UNHCR).PDF">
    <title>
@@ -79725,8 +79725,8 @@ The grant will be disbursed in the beginning of the year to allow UNHCR to plan 
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">1484017.1354511906</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">1484017.1354511906</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/15213_AgreementbetweenSwedenandtheUnitedNationsChildren&apos;sFund(UNICEF)onNon-ThematicSupporttoHumanitarianProgrammes2022-2025.PDF">
    <title>
@@ -79823,7 +79823,7 @@ The grant will be disbursed in the beginning of the year to allow UNHCR to plan 
   </sida:strategies>
  </iati-activity>
 
- <iati-activity default-currency="USD" dstore:dataset="sida-sy" dstore:index="235" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
+ <iati-activity default-currency="USD" dstore:dataset="sida-sy" dstore:index="236" hierarchy="1" humanitarian="1" iati-activities:version="2.03" xml:lang="EN" xmlns:dstore="http://d-portal.org/xmlns/dstore" xmlns:iati-activities="http://d-portal.org/xmlns/iati-activities">
   <iati-identifier>SE-0-SE-6-15213A0101-H11096</iati-identifier>
   <reporting-org ref="SE-0" secondary-reporter="0" type="10">
    <narrative xml:lang="EN">Sweden</narrative>
@@ -79966,8 +79966,8 @@ The grant will be disbursed in the beginning of the year to allow UNHCR to plan 
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">989344.7569674605</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">989344.7569674605</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/15213_AgreementbetweenSwedenandtheUnitedNationsChildren&apos;sFund(UNICEF)onNon-ThematicSupporttoHumanitarianProgrammes2022-2025.PDF">
    <title>
@@ -80463,8 +80463,8 @@ Sida&apos;s assessment of this support is provided in more detail in section 5.1
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">296803.4270902381</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">296803.4270902381</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14409_019092-22Amendmentno.3totheAgreementSavetheChildrensHumanitarianprogramme2021-2025betweenSavetheChildrenandSida.pdf">
    <title>
@@ -80754,8 +80754,8 @@ Sida&apos;s assessment of this support is provided in more detail in section 5.1
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">296803.4270902381</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">296803.4270902381</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14409_019092-22Amendmentno.3totheAgreementSavetheChildrensHumanitarianprogramme2021-2025betweenSavetheChildrenandSida.pdf">
    <title>
@@ -80951,8 +80951,8 @@ Oxfam is a global movement of people who are fighting inequality to end poverty 
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">494672.3784837303</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">494672.3784837303</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14405_Amendmentno.1totheAgreement,HumanitarianPartnershipAgreement2021-2026,betweenTheSwedishInternationalDevelopmentCooperationAgency,SidaandOxfamGB.PDF">
    <title>
@@ -81118,8 +81118,8 @@ The above makes FAO a valuable strategic humanitarian partner to Sida. Sida will
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">510551.361833058</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">510551.361833058</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14399_022406-22AmendmentNo.2tothecontributionagreementbetweenSidaandFAOoftheUnitednationsonsupporttohumanitarianoperations2021-2025.pdf">
    <title>
@@ -81291,8 +81291,8 @@ The above makes FAO a valuable strategic humanitarian partner to Sida. Sida will
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">510551.361833058</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">510551.361833058</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14399_022406-22AmendmentNo.2tothecontributionagreementbetweenSidaandFAOoftheUnitednationsonsupporttohumanitarianoperations2021-2025.pdf">
    <title>
@@ -81487,8 +81487,8 @@ AAH international network (AAH-IN) is composed of AAH entities from France, (Sid
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">395737.9027869842</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">395737.9027869842</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14398_AmendmentNo.6totheAgreementonActionAgainstHungerHUM2021-2025betweenSidaandActionContrelaFaim.PDF">
    <title>
@@ -81746,8 +81746,8 @@ AAH international network (AAH-IN) is composed of AAH entities from France, (Sid
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">395737.9027869842</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">395737.9027869842</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14398_AmendmentNo.6totheAgreementonActionAgainstHungerHUM2021-2025betweenSidaandActionContrelaFaim.PDF">
    <title>
@@ -81986,8 +81986,8 @@ Earlier granted multi-year funding for 2023 was disbursed in January (52 MSEK) i
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">692541.3298772223</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">692541.3298772223</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14395_AmendmentNo.1totheGrantAgreementbetweentheSwedishInternationalDevelopmentCooperationAgency,Sida,andtheNorwegianRefugeeCouncil,NRC,regardingtheirStrategicFrameworkHumanitarianPartnership2021-2025.PDF">
    <title>
@@ -82223,8 +82223,8 @@ Earlier granted multi-year funding for 2023 was disbursed in January (52 MSEK) i
   </transaction>
   <transaction>
    <transaction-type code="3"></transaction-type>
-   <transaction-date iso-date="2023-10-23"></transaction-date>
-   <value currency="USD" value-date="2023-10-23">692541.3298772223</value>
+   <transaction-date iso-date="2023-11-07"></transaction-date>
+   <value currency="USD" value-date="2023-11-07">692541.3298772223</value>
   </transaction>
   <document-link format="APPLICATION/PDF" url="https://documents.iati.openaid.se/document/hum/14395_AmendmentNo.1totheGrantAgreementbetweentheSwedishInternationalDevelopmentCooperationAgency,Sida,andtheNorwegianRefugeeCouncil,NRC,regardingtheirStrategicFrameworkHumanitarianPartnership2021-2025.PDF">
    <title>
