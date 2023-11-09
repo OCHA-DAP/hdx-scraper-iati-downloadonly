@@ -82632,7 +82632,7 @@ The proposal covers projects in 10 contexts including: Niger, South Sudan, Bangl
   <transaction humanitarian="1" ref="Outgoing commitment EPDC">
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-08-03"></transaction-date>
-   <value currency="SYP" value-date="2023-08-03">1282550515</value>
+   <value currency="EUR" value-date="2023-08-03">161263</value>
    <description>
     <narrative xml:lang="EN">Amount based on amendment 2.</narrative>
    </description>
@@ -82643,7 +82643,7 @@ The proposal covers projects in 10 contexts including: Niger, South Sudan, Bangl
   <transaction humanitarian="1" ref="Outgoing commitment GOPA-DERD">
    <transaction-type code="2"></transaction-type>
    <transaction-date iso-date="2023-08-03"></transaction-date>
-   <value currency="SYP" value-date="2023-08-03">1434231022</value>
+   <value currency="SYP" value-date="2023-08-03">204757</value>
    <description>
     <narrative xml:lang="EN">Amount based on amendment 2.</narrative>
    </description>
