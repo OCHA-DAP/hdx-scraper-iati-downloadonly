@@ -77669,7 +77669,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <humanitarian-scope code="2023-EARTHQUAKE-EMERGENCY-RESPONSE" type="2" vocabulary="99" vocabulary-uri="https://reporting.unhcr.org/syria-and-t%C3%BCrkiye-earthquake-emergency-supplementary-appeal">
    <narrative xml:lang="EN">Syria and T&#xFC;rkiye Earthquake Emergency Supplementary Appeal</narrative>
   </humanitarian-scope>
-  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2" vocabulary-uri="https://glidenumber.net">
+  <humanitarian-scope code="EQ-2023-000015-SYR" type="1" vocabulary="1-2">
    <narrative xml:lang="EN">Syria: Earthquake</narrative>
   </humanitarian-scope>
   <humanitarian-scope code="HSYR23" type="2" vocabulary="2-1">
@@ -77690,10 +77690,10 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <period-end iso-date="2023-12-31"></period-end>
    <value currency="USD" value-date="2023-08-31">504295122</value>
   </budget>
-  <budget status="1" type="1">
+  <budget status="2" type="1">
    <period-start iso-date="2024-01-01"></period-start>
    <period-end iso-date="2024-12-31"></period-end>
-   <value currency="USD" value-date="2023-06-19">0</value>
+   <value currency="USD" value-date="2023-10-12">466631381</value>
   </budget>
   <budget status="1" type="1">
    <period-start iso-date="2025-01-01"></period-start>
@@ -78185,6 +78185,34 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <aid-type code="4" vocabulary="2"></aid-type>
    <aid-type code="C01" vocabulary="1"></aid-type>
    <unhcr:value-USD>952.316</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-09-30"></transaction-date>
+   <value currency="USD" value-date="2023-09-30">3506</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>3506.097</unhcr:value-USD>
+  </transaction>
+  <transaction>
+   <transaction-type code="11"></transaction-type>
+   <transaction-date iso-date="2023-10-31"></transaction-date>
+   <value currency="USD" value-date="2023-10-31">78</value>
+   <description>
+    <narrative xml:lang="EN">Monthly contribution summary</narrative>
+   </description>
+   <provider-org type="70">
+    <narrative xml:lang="EN">Private donors</narrative>
+   </provider-org>
+   <aid-type code="4" vocabulary="2"></aid-type>
+   <aid-type code="C01" vocabulary="1"></aid-type>
+   <unhcr:value-USD>77.852</unhcr:value-USD>
   </transaction>
   <transaction ref="G3019">
    <transaction-type code="11"></transaction-type>
@@ -78685,7 +78713,7 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   <humanitarian-scope code="FTUR23" type="2" vocabulary="2-1">
    <narrative xml:lang="EN">T&#xFC;rkiye Earthquake Flash Appeal 2023</narrative>
   </humanitarian-scope>
-  <humanitarian-scope code="EQ-2023-000015-TUR" type="1" vocabulary="1-2" vocabulary-uri="https://glidenumber.net">
+  <humanitarian-scope code="EQ-2023-000015-TUR" type="1" vocabulary="1-2">
    <narrative xml:lang="EN">T&#xFC;rkiye: Earthquake</narrative>
   </humanitarian-scope>
   <collaboration-type code="4"></collaboration-type>
@@ -78703,10 +78731,10 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
    <period-end iso-date="2023-12-31"></period-end>
    <value currency="USD" value-date="2023-08-31">498500000</value>
   </budget>
-  <budget status="1" type="1">
+  <budget status="2" type="1">
    <period-start iso-date="2024-01-01"></period-start>
    <period-end iso-date="2024-12-31"></period-end>
-   <value currency="USD" value-date="2023-06-19">0</value>
+   <value currency="USD" value-date="2023-10-12">329279287</value>
   </budget>
   <budget status="1" type="1">
    <period-start iso-date="2025-01-01"></period-start>
@@ -79231,8 +79259,8 @@ Under Outcome 1 (NFI), IOM will contribute to lifesaving and life-sustaining win
   </transaction>
   <transaction ref="G0263">
    <transaction-type code="11"></transaction-type>
-   <transaction-date iso-date="2023-10-17"></transaction-date>
-   <value currency="EUR" value-date="2023-10-17">2000070</value>
+   <transaction-date iso-date="2023-10-16"></transaction-date>
+   <value currency="EUR" value-date="2023-10-16">2000070</value>
    <provider-org type="10">
     <narrative xml:lang="EN">Government of Austria</narrative>
    </provider-org>
