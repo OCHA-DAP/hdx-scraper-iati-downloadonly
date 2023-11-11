@@ -27991,6 +27991,7 @@ Provision of Water and Sanitation facilities for and Hygiene material for 1000 f
   <activity-scope code="4"></activity-scope>
   <recipient-country code="PK" percentage="100"></recipient-country>
   <recipient-region code="679" percentage="0" vocabulary="1"></recipient-region>
+  <sector code="72040" percentage="100" vocabulary="1"></sector>
   <humanitarian-scope code="EP-2022-000340-PAK" type="1" vocabulary="1-2"></humanitarian-scope>
   <humanitarian-scope code="FL-2022-000270-PAK" type="1" vocabulary="1-2"></humanitarian-scope>
   <collaboration-type code="1"></collaboration-type>
